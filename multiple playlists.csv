@@ -1,0 +1,51 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Tycho,Awake,Awake,2qC1sUo8xxRRqYsaYEdDuZ,0.552,0.878,1,-5.767,1,0.0353,0.892,0.0746,0.598,176.057,283636,4
+1,Blue Foundation,Sweep Of Days,Bonfires,2xnasO1S0gdGA09o6gS0m6,0.277,0.539,6,-5.023,0,0.0352,4.77e-05,0.102,0.231,84.932,255627,4
+2,The Japanese House,Good At Falling,Lilo,32P4qhYWGe9XEQE2XGgfdP,0.546,0.558,7,-8.797,1,0.0468,0.0,0.0957,0.22,119.789,250067,4
+3,The 1975,A Brief Inquiry Into Online Relationships,It's Not Living (If It's Not With You),3TgMcrV32NUKjEG2ujn9eh,0.618,0.837,1,-5.338,1,0.0304,0.000378,0.0618,0.526,121.227,248336,4
+4,Mystery Jets,A Billion Heartbeats,Petty Drone,3nOYdZfmX1wVES485Eq4Mp,0.342,0.718,2,-5.065,1,0.0325,0.0,0.0507,0.388,85.214,285427,4
+5,Charlie Burg,Live in Peter's Attic,I Don't Wanna Be Okay Without You,0sUu11545VikLoNFLscCYY,0.52,0.319,5,-7.461,1,0.0291,2.52e-05,0.138,0.165,62.985,243797,4
+6,EDEN,i think you think too much of me,drugs,3OXpdrHLT4IqM76RajgM6Q,0.484,0.444,4,-6.935,0,0.0636,0.0,0.238,0.226,144.21,338333,4
+7,The Vryll Society,Course Of The Satellite,Course Of The Satellite,4cAnPvONZJjsxLtFgULOhb,0.399,0.572,5,-7.591,1,0.0474,0.164,0.119,0.524,130.483,301947,4
+8,Andrew Applepie,Drowning World,Drowning World,02Z0jdgUcdHEaaNZcLAd46,0.696,0.381,8,-8.467,1,0.0579,7.81e-05,0.0526,0.451,79.984,233035,4
+9,SMNM,Parental Advisory Explicit Content,Think Twice,5pzYJDeDYm36wgpEUDvExF,0.518,0.745,10,-5.068,0,0.0332,2.81e-06,0.382,0.246,140.07,260571,4
+10,Night Moves,Pennied Days,Only To Live In Your Memories,3tLAhLLltRJ8jnKAyiYQ2A,0.451,0.499,6,-6.016,1,0.0269,0.194,0.116,0.187,108.99,265693,4
+11,Small Forward,Tearjerker,Tearjerker,5nradlxm7nAzQVjRWXK8rG,0.623,0.664,4,-6.962,1,0.026,0.0128,0.16,0.415,124.994,250640,4
+12,Wintergatan,Wintergatan,Starmachine2000,2RRVwmEVM2IdfL2siZZzir,0.592,0.913,5,-5.525,1,0.0513,0.383,0.326,0.691,149.384,243139,4
+13,HUNNY,Windows I,Televised,35Ki1lvKPC2sFBD3GmKdRG,0.591,0.746,8,-7.762,1,0.0444,0.0,0.127,0.432,107.965,194717,4
+14,The Dandy Warhols,Distortland,All the Girls in London,0rxrzjugc6s4Z0Vd3PZVaM,0.604,0.943,7,-5.411,1,0.0403,0.0429,0.477,0.668,125.025,164811,4
+15,The Kooks,Junk Of The Heart,Junk Of The Heart (Happy),5p50gxcAYYeWPrBVEPHgUt,0.604,0.894,2,-5.0,1,0.037,0.0,0.0299,0.901,145.017,187253,4
+16,Tycho,Simulcast,Cypress,7ys4rU0dCmLiOb7MzBzsY2,0.562,0.433,0,-12.291,1,0.0323,0.798,0.386,0.34,166.036,374569,4
+17,The Jesus and Mary Chain,Psychocandy - Barrowlands Live,Just Like Honey - Live,7KzTBNUZwPf3qhhgYEZBev,0.492,0.831,9,-5.63,1,0.0441,0.344,0.961,0.353,119.988,213366,4
+18,The Wombats,The Wombats Proudly Present... This Modern Glitch,Tokyo (Vampires & Wolves),136iZLQdKtlyEFurf4UKf6,0.457,0.911,0,-5.52,1,0.075,0.0,0.37,0.572,146.394,225527,4
+19,Blossom Caldarone,Sit and Be,1964,6NfKaTgPrh4zi24lRyWdbw,0.635,0.387,4,-5.571,1,0.0448,0.0,0.15,0.276,83.151,253594,4
+20,The Ivy,Next Stop,I Don't Wanna,2HmvDlBGFjCl90aqdQRdLD,0.306,0.636,1,-7.519,1,0.0416,0.00139,0.133,0.0698,119.615,229320,4
+21,Maggie Rogers,Love You For A Long Time,Love You For A Long Time,6QTPacyXkZWG9FMwq6L1hJ,0.707,0.67,9,-6.137,1,0.0323,0.00283,0.109,0.822,112.993,223120,4
+22,TeZATalks,In the Dark,In the Dark,43wpVmVHY8Eo93vlREkdcJ,0.413,0.638,6,-6.344,1,0.159,1.35e-05,0.188,0.351,93.988,257684,4
+23,The Boxer Rebellion,Ocean by Ocean,Let's Disappear,3ou2ZBwW6VTa87DUcCFzEe,0.669,0.878,1,-6.594,1,0.0378,0.501,0.116,0.465,120.006,257813,4
+24,Tycho,Weather,Pink & Blue,1TJqHWEHHQ7Z5mJ0P6rXqq,0.671,0.546,0,-10.9,1,0.0388,0.205,0.259,0.384,118.003,259166,4
+25,Yumi And The Weather,Yumi And The Weather,No Such Thing,7CX1MRF28SWPWqbId1yhiJ,0.601,0.792,6,-6.094,0,0.032,0.0231,0.506,0.92,77.48,226499,3
+26,Goodbye June,Magic Valley,Bad Things,4sdkSQiAdkKT6CPRRO2rm0,0.474,0.932,1,-3.881,1,0.108,1.38e-05,0.09,0.39,124.014,186357,4
+27,Wintergatan,Marble Machine,Marble Machine,3kBPnItITm3Od2IVhuJPxf,0.706,0.808,4,-9.199,0,0.123,0.667,0.235,0.673,146.947,243783,4
+28,Tycho,Weather,Japan,5VndRF0wlvbMQsZ25GErQM,0.602,0.518,7,-11.249,0,0.0426,0.0516,0.25,0.347,166.163,198842,4
+29,The Wombats,"Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",Moving to New York,5YHhxbtAAkOiIXqNBfYjZU,0.252,0.886,9,-4.678,0,0.0714,5.33e-06,0.256,0.498,161.939,210560,4
+30,Ludic,My Love,My Love,5vwWAomxsGh6Bhl2PDBQdI,0.779,0.8,9,-4.458,1,0.0311,0.000195,0.356,0.783,105.001,228894,4
+31,Saro,Eyelids,Eyelids,2sYvZnDtkQ7Fa0JdjRdqZD,0.62,0.684,6,-7.944,0,0.0393,0.00258,0.101,0.21,107.953,238056,4
+32,Peach Pit,You and Your Friends,Shampoo Bottles,2INUkDPCO1eQlOFmIN5VAC,0.648,0.436,8,-9.578,1,0.0275,0.0,0.0944,0.333,107.019,224267,4
+33,SMNM,Parental Advisory Explicit Content,Baby Girl,1gJTzFQ0oo7Z9RMG5WubZK,0.539,0.774,4,-5.434,1,0.0295,0.0337,0.207,0.263,83.988,242857,4
+34,Pond,The Weather,The Weather,6xTq7uN0EV8Q1n5mBtWp0m,0.254,0.788,11,-6.632,0,0.0618,0.185,0.0598,0.249,75.749,238720,4
+35,Tycho,Weather,Into The Woods,3p0FMD7f0kh4IcuucbB2My,0.63,0.729,10,-9.81,0,0.0327,0.935,0.0896,0.434,99.015,242611,4
+36,Men I Trust,Oncle Jazz,Norton Commander (Album V),0DltZY7z8YvuDBSAbsIgPc,0.632,0.451,1,-14.098,1,0.0429,0.898,0.0987,0.436,165.98,206313,4
+37,Bastille,Doom Days,Quarter Past Midnight,0Tl408cie1ksydV7s6KuWD,0.54,0.779,8,-5.753,1,0.0889,0.0,0.196,0.498,77.497,199214,4
+38,Bug Hunter,Torn Between a Couple,The Key to Being Lonely,09vLZSOpT69M0wBBRTV1Pl,0.625,0.483,1,-9.617,0,0.0509,1.02e-05,0.0824,0.66,99.779,254000,4
+39,Broods,Evergreen,Four Walls,1IcEofBOoS01ouUsqdn8ke,0.511,0.638,0,-7.202,1,0.0459,0.0,0.0609,0.205,60.03,208347,4
+40,Dot Hacker,How's Your Process? (Work),Floating Up The Stairs,0Djhi5NPXwukyqtigIpknj,0.548,0.549,9,-8.671,0,0.039,0.317,0.177,0.397,128.123,355013,4
+41,Vandelux,Broken Man,Broken Man,2BvTx5sLpQqCZQIz15KeGI,0.657,0.487,8,-9.201,1,0.0437,0.163,0.115,0.218,92.008,221739,4
+42,Jon Bellion,The Human Condition,Guillotine,2FK1qmw8XNBqUe5CcgTVnE,0.574,0.803,4,-3.17,0,0.186,4.15e-06,0.0861,0.647,97.967,208125,4
+43,"Parks, Squares and Alleys",We're Not Just Friends,We're Not Just Friends,0CyRloqqjpeKEAd3cO6J6z,0.655,0.653,4,-7.488,1,0.0278,0.75,0.0781,0.732,114.995,187820,4
+44,Ella Vos,Temporary,Temporary,52AtuDhDYHavraoyirpylv,0.715,0.363,8,-8.265,1,0.0433,0.0,0.0637,0.347,87.017,151665,4
+45,Danny Bensi,Boy Erased (Original Motion Picture Soundtrack),Revelation,7sUJolVaoEBoP4l4qHiQSe,0.15,0.173,5,-15.79,1,0.0298,0.000531,0.0685,0.0735,76.138,231214,5
+46,Lonely Benson,Can't Put You Down,Can't Put You Down,7triZca8OwuOz2NpLzUrh0,0.476,0.193,9,-12.275,1,0.0335,0.567,0.0884,0.28,69.943,209263,4
+47,Tycho,Weather,Skate,566w1sloS9qx61zl7bN9GE,0.703,0.231,5,-13.094,0,0.0338,0.0207,0.103,0.421,97.07,187340,4
+48,Orla Gartland,Why Am I Like This? - EP,Inevitable,2rHEY6rgsPyoXWa6dMDrzR,0.448,0.441,7,-10.121,1,0.0932,2.72e-05,0.114,0.118,76.611,211178,4
+49,Her's,Invitation to Her's,Under Wraps,0UVzM2GkqTTf57G6Wj05UL,0.592,0.67,10,-5.223,1,0.0278,0.214,0.127,0.386,135.062,303428,4
