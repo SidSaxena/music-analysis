@@ -90,6 +90,20 @@ def getUserPlaylists(user):
 
 
 # %%
+def getTrackIds(user, playlist_id):
+    """get track ids from a playlist and return id list."""
+    
+    ids = []
+    playlist = sp.user_playlist(user, playlist_id)
+    for item in playlist['tracks']['items']:
+        track = item['track']
+        ids.append(track['id'])
+    return ids
+
+# ids = getTrackIds(my_user, vfar_id)
+
+
+# %%
 def analysePlaylist(creator, playlist_id):
     
     tracks = []
@@ -106,7 +120,7 @@ def analysePlaylist(creator, playlist_id):
         tracks += results['items']
 
         if results['next'] is not None:
-            offset += 50
+            offset += 100
         else:
             break
 
@@ -118,6 +132,7 @@ def analysePlaylist(creator, playlist_id):
         playlist_features["track_id"] = track["track"]["id"]
         
         # Get audio features
+        time.sleep(0.5)
         audio_features = sp.audio_features(playlist_features["track_id"])[0]
         for feature in playlist_features_list[4:]:
             playlist_features[feature] = audio_features[feature]
@@ -136,7 +151,6 @@ def analysePlaylistsList(playlist_tuple_list):
 
     for id, _ in enumerate(playlist_tuple_list):
         playlist_df = analysePlaylist(playlist_tuple_list[id][0], playlist_tuple_list[id][1])
-
         # playlist_df['playlist'] = PLAYLIST NAME
 
         if id == 0:
@@ -144,8 +158,130 @@ def analysePlaylistsList(playlist_tuple_list):
         else:
             playlist_tuple_df = pd.concat([playlist_tuple_df, playlist_df], ignore_index=True)
 
-        playlist_tuple_df.to_csv('multiple playlists.csv')
-        return playlist_tuple_df
+    playlist_tuple_df.to_csv('multiple playlists.csv')
+    return playlist_tuple_df
+
+
+# %%
+def getDiscography(name):
+    """get discography of an artist by searching its name and return a dataframe"""
+
+    release_date_list = []
+    track_id_list = []   
+    tracklist = []
+    album_list = []    
+    track_album_dict = {}
+
+    results = sp.search(q=name, type='artist')
+    artist = results['artists']['items'][0]
+
+    artist_name = artist['name']
+    artist_id = artist['id']
+    artist_albums = sp.artist_albums(artist_id, album_type='album')
+    album_items = artist_albums['items']
+    artist_genres = artist['genres']
+
+    artist_singles = sp.artist_albums(artist_id, album_type='single')
+    single_items = artist_singles['items']
+
+    album_names = []
+    album_id = []
+    album_release_date = []
+
+    single_names = []
+    single_id = []
+    single_release_date = []
+
+    for i, _ in enumerate(artist_albums['items']):
+        album_names.append(artist_albums['items'][i]['name'])
+        album_id.append(artist_albums['items'][i]['id'])
+        album_release_date.append(artist_albums['items'][i]['release_date'])
+    
+
+    for i, _ in enumerate(single_items):
+        single_names.append(single_items[i]['name'])
+        single_id.append(single_items[i]['id'])
+        single_release_date.append(single_items[i]['release_date'])
+        
+
+    for album, _ in enumerate(album_id):
+        tracks = sp.album_tracks(album_id[album])
+        tracks = tracks['items']
+        album_name = sp.album(album_id[album])['name'] 
+        for track, _ in enumerate(tracks):
+            track_name = tracks[track]['name']
+            track_id_list.append(tracks[track]['id']) 
+            tracklist.append(track_name)
+            album_list.append(album_name)
+            release_date_list.append(album_release_date[album])
+    
+    for single, _ in enumerate(single_id):
+        tracks = sp.album_tracks(single_id[single])
+        tracks = tracks['items']
+        single_name = sp.album(single_id[single])['name'] 
+        for track, _ in enumerate(tracks):
+            single_name = tracks[track]['name']
+            track_id_list.append(tracks[track]['id']) 
+            tracklist.append(single_name)
+            album_list.append(single_name)
+            release_date_list.append(single_release_date[single])
+
+    
+
+
+    track_album_dict = {'track': tracklist, 'album': album_list, 'release_date': release_date_list, 'id': track_id_list}  
+    df = pd.DataFrame(track_album_dict)
+    df.to_csv('{}-discog.csv'.format(artist['name']))
+    return df, artist_genres
+
+
+# %%
+def getTrackFeatures(id):
+    """get features of a track by its ID."""
+    
+    meta = sp.track(id)
+    features = sp.audio_features(id)
+
+    #meta
+    name = meta['name']
+    album = meta['album']['name']
+    artist = meta['album']['artists'][0]['name']
+    release_date = meta['album']['release_date']
+    length = meta['duration_ms']
+    popularity = meta['popularity']
+
+    #features
+    danceability = features[0]['danceability']
+    energy = features[0]['energy']
+    key = features[0]['key']
+    loudness = features[0]['loudness']
+    mode = features[0]['mode']
+    speechiness = features[0]['speechiness']
+    acousticness = features[0]['acousticness']
+    instrumentalness = features[0]['instrumentalness']
+    liveness = features[0]['liveness']
+    valence = features[0]['valence']
+    tempo = features[0]['tempo']
+    time_signature = features[0]['time_signature']
+
+    track = [name, album, artist, release_date, length, popularity,danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature]
+    return track
+
+
+# %%
+def getTracklistFeatures(tracklist):
+    """get features of multiple tracks from a list of IDs and return a dataframe"""
+
+  # loop over track ids 
+    tracks = []
+    for id in range(len(tracklist)):
+        track = getTrackFeatures(tracklist[id])
+        tracks.append(track)
+
+  # create dataset
+    df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speech', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature'])
+    df.to_csv("tracklist-features.csv", sep = ',')
+    return df
 
 
 # %%
@@ -153,11 +289,22 @@ my_playlists_df, my_playlists_list = getUserPlaylists(username)
 
 
 # %%
-my_playlists_df
+name = input('Enter Username: ')
+playlistid = input('Enter Playlist ID: ')
 
 
 # %%
-three_playlists = my_playlists_list[9:12]
+# playlist_df = analysePlaylist(name, playlistid)
+
+
+# %%
+three_playlists = []
+
+
+# %%
+three_playlists.append(my_playlists_list[9])
+three_playlists.append(my_playlists_list[10])
+three_playlists.append(my_playlists_list[11])
 
 
 # %%
@@ -165,10 +312,14 @@ three_playlists
 
 
 # %%
-test_df = analysePlaylist(username, 'spotify:playlist:6Tz22UKQCnp4rqu6dNzVm0')
+three_df = analysePlaylistsList(three_playlists)
 
 
 # %%
-multiple_playlists_df = analysePlaylistsList(three_playlists)
+three_df
+
+
+# %%
+
 
 
