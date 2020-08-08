@@ -109,7 +109,7 @@ def analysePlaylist(creator, playlist_id):
     tracks = []
     offset = 0
     # Create empty dataframe
-    playlist_features_list = ["artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
+    playlist_features_list = ['artist','album','track_name', 'track_id', 'popularity', 'genres', 'danceability','energy','key','loudness','mode', 'speechiness','instrumentalness','liveness','valence','tempo', 'duration_ms','time_signature']
     
     playlist_df = pd.DataFrame(columns = playlist_features_list)
     
@@ -124,17 +124,25 @@ def analysePlaylist(creator, playlist_id):
         else:
             break
 
-    for track in tracks:        # Create empty dict
-        playlist_features = {}        # Get metadata
-        playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
-        playlist_features["album"] = track["track"]["album"]["name"]
-        playlist_features["track_name"] = track["track"]["name"]
-        playlist_features["track_id"] = track["track"]["id"]
+    for track in tracks:       
         
+        artist = track['track']['album']['artists'][0]
+        artist_id = artist['id']
+        genre = sp.artist(artist_id)
+        genres = genre['genres']
+
+        playlist_features = {}        
+        playlist_features['artist'] = artist['name']
+        playlist_features['album'] = track['track']['album']['name']
+        playlist_features['track_name'] = track['track']['name']
+        playlist_features['track_id'] = track['track']['id']
+        playlist_features['popularity'] = track['track']['popularity']
+        playlist_features['genres'] = [genres]
+    
         # Get audio features
         time.sleep(0.5)
-        audio_features = sp.audio_features(playlist_features["track_id"])[0]
-        for feature in playlist_features_list[4:]:
+        audio_features = sp.audio_features(playlist_features['track_id'])[0]
+        for feature in playlist_features_list[6:]:
             playlist_features[feature] = audio_features[feature]
         
         # Concat the dfs
@@ -164,7 +172,7 @@ def analysePlaylistsList(playlist_tuple_list):
 
 # %%
 def getDiscography(name):
-    """get discography of an artist by searching its name and return a dataframe"""
+    """get discography of an artist by searching its name and return a dataframe and genres in a seperate variable"""
 
     release_date_list = []
     track_id_list = []   
@@ -317,9 +325,5 @@ three_df = analysePlaylistsList(three_playlists)
 
 # %%
 three_df
-
-
-# %%
-
 
 
