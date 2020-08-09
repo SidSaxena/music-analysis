@@ -42,7 +42,7 @@ username = 'sidsaxena'
 
 
 # %%
-scope = 'playlist-read-private user-library-read user-top-read user-read-recently-played user-follow-read user-read-currently-playing'
+scope = 'ugc-image-upload user-read-playback-state user-modify-playback-state user-read-currently-playing streaming app-remote-control user-read-email user-read-private playlist-read-collaborative playlist-modify-public playlist-read-private playlist-modify-private user-library-modify user-library-read user-top-read user-read-playback-position user-read-recently-played user-follow-read user-follow-modify'
 
 
 # %%
@@ -101,6 +101,24 @@ def getTrackIds(user, playlist_id):
     return ids
 
 # ids = getTrackIds(my_user, vfar_id)
+
+
+# %%
+def getTrackIdsFromAlbum(album_id):
+
+    tracklist = []
+    track_id_list = []
+
+    results = sp.album_tracks(album_id)
+    tracks = results['items']
+    album_results = sp.album(album_id)
+    album_name = album_results['name'] 
+    album_tracks = album_results['tracks']
+    for track, _ in enumerate(tracks):
+        tracklist.append(tracks[track]['name'])
+        track_id_list.append(tracks[track]['id']) 
+
+    return track_id_list
 
 
 # %%
@@ -180,18 +198,6 @@ def getDiscography(name):
     album_list = []    
     track_album_dict = {}
 
-    results = sp.search(q=name, type='artist')
-    artist = results['artists']['items'][0]
-
-    artist_name = artist['name']
-    artist_id = artist['id']
-    artist_albums = sp.artist_albums(artist_id, album_type='album')
-    album_items = artist_albums['items']
-    artist_genres = artist['genres']
-
-    artist_singles = sp.artist_albums(artist_id, album_type='single')
-    single_items = artist_singles['items']
-
     album_names = []
     album_id = []
     album_release_date = []
@@ -200,17 +206,51 @@ def getDiscography(name):
     single_id = []
     single_release_date = []
 
-    for i, _ in enumerate(artist_albums['items']):
-        album_names.append(artist_albums['items'][i]['name'])
-        album_id.append(artist_albums['items'][i]['id'])
-        album_release_date.append(artist_albums['items'][i]['release_date'])
-    
+    results = sp.search(q=name, type='artist')
+    artist = results['artists']['items'][0]
 
-    for i, _ in enumerate(single_items):
-        single_names.append(single_items[i]['name'])
-        single_id.append(single_items[i]['id'])
-        single_release_date.append(single_items[i]['release_date'])
-        
+    artist_name = artist['name']
+    artist_id = artist['id']
+    artist_genres = artist['genres']
+
+    artist_albums = sp.artist_albums(artist_id, album_type='album')
+    albums = artist_albums['items']
+    
+    while artist_albums['next']:
+        artist_albums = sp.next(artist_albums)
+        albums.extend(artist_albums['items'])
+
+    for album in albums:
+        album_names.append(album['name'])
+        album_id.append(album['id'])
+        album_release_date.append(album['release_date'])
+
+    
+    artist_singles = sp.artist_albums(artist_id, album_type='single')
+    singles = artist_singles['items']
+    
+    while artist_singles['next']:
+        artist_singles = sp.next(artist_singles)
+        singles.extend(results['items'])
+
+    for single in singles:
+        single_names.append(single['name'])
+        single_id.append(single['id'])
+        single_release_date.append(single['release_date'])
+
+
+    # MUCH BETTER CODE but need to figure out a way to append release date.
+    # for album in album_id:
+    #     tracks = sp.album_tracks(album)
+    #     tracks = tracks['items']
+    #     album_name = sp.album(album)['name']
+    #     for track in tracks:
+    #         track_name = track['name']
+    #         track_id_list.append(track['id'])
+    #         tracklist.append(track_name)
+    #         album_list.append(album_name)
+    #         release_date_list.append(album_release_date[])
+
 
     for album, _ in enumerate(album_id):
         tracks = sp.album_tracks(album_id[album])
@@ -240,7 +280,7 @@ def getDiscography(name):
     track_album_dict = {'track': tracklist, 'album': album_list, 'release_date': release_date_list, 'id': track_id_list}  
     df = pd.DataFrame(track_album_dict)
     df.to_csv('{}-discog.csv'.format(artist['name']))
-    return df, artist_genres
+    return df
 
 
 # %%
