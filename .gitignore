@@ -1,2 +1,2 @@
-.cache-sidsaxena
-.vscode
+ *.log 
+ *.vscode
