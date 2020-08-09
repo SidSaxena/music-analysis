@@ -231,7 +231,7 @@ def getDiscography(name):
     
     while artist_singles['next']:
         artist_singles = sp.next(artist_singles)
-        singles.extend(results['items'])
+        singles.extend(artist_singles['items'])
 
     for single in singles:
         single_names.append(single['name'])
@@ -266,12 +266,12 @@ def getDiscography(name):
     for single, _ in enumerate(single_id):
         tracks = sp.album_tracks(single_id[single])
         tracks = tracks['items']
-        single_name = sp.album(single_id[single])['name'] 
+        album_name = sp.album(single_id[single])['name'] 
         for track, _ in enumerate(tracks):
             single_name = tracks[track]['name']
             track_id_list.append(tracks[track]['id']) 
             tracklist.append(single_name)
-            album_list.append(single_name)
+            album_list.append(album_name)
             release_date_list.append(single_release_date[single])
 
     
@@ -337,10 +337,5 @@ def getTracklistFeatures(tracklist):
 
 # %%
 my_playlists_df, my_playlists_list = getUserPlaylists(username)
-
-
-# %%
-name = input('Enter Username: ')
-playlistid = input('Enter Playlist ID: ')
 
 
