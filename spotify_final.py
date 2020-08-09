@@ -254,6 +254,8 @@ def getTrackFeatures(id):
     name = meta['name']
     album = meta['album']['name']
     artist = meta['album']['artists'][0]['name']
+    artist_id = meta['album']['artists'][0]['id']
+    genre = sp.artist(artist_id)['genres']
     release_date = meta['album']['release_date']
     length = meta['duration_ms']
     popularity = meta['popularity']
@@ -272,7 +274,8 @@ def getTrackFeatures(id):
     tempo = features[0]['tempo']
     time_signature = features[0]['time_signature']
 
-    track = [name, album, artist, release_date, length, popularity,danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature]
+    track = [name, album, artist, release_date, genre, length, popularity,danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature]
+
     return track
 
 
@@ -287,7 +290,7 @@ def getTracklistFeatures(tracklist):
         tracks.append(track)
 
   # create dataset
-    df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'length', 'popularity', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speech', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature'])
+    df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'genres', 'length', 'popularity', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature'])
     df.to_csv("tracklist-features.csv", sep = ',')
     return df
 
@@ -299,31 +302,5 @@ my_playlists_df, my_playlists_list = getUserPlaylists(username)
 # %%
 name = input('Enter Username: ')
 playlistid = input('Enter Playlist ID: ')
-
-
-# %%
-# playlist_df = analysePlaylist(name, playlistid)
-
-
-# %%
-three_playlists = []
-
-
-# %%
-three_playlists.append(my_playlists_list[9])
-three_playlists.append(my_playlists_list[10])
-three_playlists.append(my_playlists_list[11])
-
-
-# %%
-three_playlists
-
-
-# %%
-three_df = analysePlaylistsList(three_playlists)
-
-
-# %%
-three_df
 
 
