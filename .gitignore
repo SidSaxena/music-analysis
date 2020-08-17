@@ -1,4 +1,4 @@
 *.env
 *.vscode
-*.cache
+*.cache*
 *.pyc
