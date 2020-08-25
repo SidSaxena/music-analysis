@@ -1,4 +1,5 @@
 *.env
 *.vscode
-*.cache*
+*.cache-sidsaxena
 *.pyc
+listening_history.sqlite
