@@ -39,63 +39,66 @@ headers = {'user-agent': USER_AGENT}
 
 
 # %%
-artist_names = []
-track_names = []
-play_counts = []
+def getTopTracks():
+    artist_names = []
+    track_names = []
+    play_counts = []
 
-method = 'user.getTopTracks'
-request_url = url.format(method, username, API_KEY, limit, extended, page)
+    method = 'user.getTopTracks'
+    request_url = url.format(method, username, API_KEY, limit, extended, page)
 
-response = requests.get(request_url).json()
+    response = requests.get(request_url).json()
 
-for item in response['toptracks']['track']:
-    artist_names.append(item['artist']['name'])
-    track_names.append(item['name'])
-    play_counts.append(item['playcount'])
+    for item in response['toptracks']['track']:
+        artist_names.append(item['artist']['name'])
+        track_names.append(item['name'])
+        play_counts.append(item['playcount'])
 
-top_tracks = pd.DataFrame()
-top_tracks['artist'] = artist_names
-top_tracks['track'] = track_names
-top_tracks['play_count'] = play_counts
-top_tracks.to_csv('lastfm_top_tracks.csv', index=None)
-top_tracks.head()
-
-
-# %%
-method = 'user.gettopartists'
-request_url = url.format(method, username, API_KEY, limit, extended, page)
-artist_names = []
-play_counts = []
-response = requests.get(request_url).json()
-for item in response['topartists']['artist']:
-    artist_names.append(item['name'])
-    play_counts.append(item['playcount'])
-
-top_artists = pd.DataFrame()
-top_artists['artist'] = artist_names
-top_artists['play_count'] = play_counts
-top_artists.to_csv('lastfm_top_artists.csv', index=None)
-top_artists.head()
+    top_tracks = pd.DataFrame()
+    top_tracks['artist'] = artist_names
+    top_tracks['track'] = track_names
+    top_tracks['play_count'] = play_counts
+    top_tracks.to_csv('lastfm_top_tracks.csv', index=None)
+    return top_tracks
 
 
 # %%
-method = 'user.getTopAlbums'
-request_url = url.format(method, username, API_KEY, limit, extended, page)
-artist_names = []
-album_names = []
-play_counts = []
-response = requests.get(request_url).json()
-for item in response['topalbums']['album']:
-    artist_names.append(item['artist']['name'])
-    album_names.append(item['name'])
-    play_counts.append(item['playcount'])
+def getTopArtists():
+    method = 'user.gettopartists'
+    request_url = url.format(method, username, API_KEY, limit, extended, page)
+    artist_names = []
+    play_counts = []
+    response = requests.get(request_url).json()
+    for item in response['topartists']['artist']:
+        artist_names.append(item['name'])
+        play_counts.append(item['playcount'])
 
-top_albums = pd.DataFrame()
-top_albums['artist'] = artist_names
-top_albums['album'] = album_names
-top_albums['play_count'] = play_counts
-top_albums.to_csv('lastfm_top_albums.csv', index=None)
-top_albums.head()
+    top_artists = pd.DataFrame()
+    top_artists['artist'] = artist_names
+    top_artists['play_count'] = play_counts
+    top_artists.to_csv('lastfm_top_artists.csv', index=None)
+    return top_artists
+
+
+# %%
+def getTopAlbums():
+    method = 'user.getTopAlbums'
+    request_url = url.format(method, username, API_KEY, limit, extended, page)
+    artist_names = []
+    album_names = []
+    play_counts = []
+    response = requests.get(request_url).json()
+    for item in response['topalbums']['album']:
+        artist_names.append(item['artist']['name'])
+        album_names.append(item['name'])
+        play_counts.append(item['playcount'])
+
+    top_albums = pd.DataFrame()
+    top_albums['artist'] = artist_names
+    top_albums['album'] = album_names
+    top_albums['play_count'] = play_counts
+    top_albums.to_csv('lastfm_top_albums.csv', index=None)
+    return top_albums
 
 
 # %%
@@ -154,7 +157,8 @@ def get_scrobbles(method='recenttracks', username=username, key=API_KEY, limit=2
     df['track'] = track_names
     df['track_mbid'] = track_mbids
     df['timestamp'] = timestamps
-    df['datetime'] = pd.to_datetime(df['timestamp'].astype(int), unit='s')                
+    df['datetime'] = pd.to_datetime(df['timestamp'].astype(int), unit='s')   
+    scrobbles.to_csv('{name}_scrobbles_{date}.csv'.format(name=username, date=datetime.date.today()), index=None)             
     return df
 
 
@@ -164,5 +168,21 @@ scrobbles = get_scrobbles(pages=0)
 
 # %%
 scrobbles.to_csv('{name}_scrobbles_{date}.csv'.format(name=username, date=datetime.date.today()), index=None)
+
+
+# %%
+scrobbles = pd.read_csv('/home/sid/development/python/music-analysis/lastfm/Spreadsheets/SidSaxena_scrobbles_2020-08-25.csv')
+
+
+# %%
+def getUniqueScrobbles(df):
+    df = df.drop(['artist_mbid', 'album', 'album_mbid', 'track_mbid', 'timestamp', 'datetime'], axis=1)
+    df_unique = df.drop_duplicates()
+    df_unique.to_csv('{name}_unique_scrobbles_{date}.csv'.format(name=username, date=datetime.date.today()), index=None)
+    return df_unique
+
+
+# %%
+scrobbles_unique = getUniqueScrobbles(scrobbles)
 
 
