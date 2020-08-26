@@ -14,6 +14,9 @@ from spotipy.oauth2 import SpotifyClientCredentials
 # other libraries
 from decouple import config 
 import time
+from IPython.core.display import clear_output
+import csv
+from itertools import chain
 
 
 # %%
@@ -46,14 +49,19 @@ scope = 'ugc-image-upload user-read-playback-state user-modify-playback-state us
 
 
 # %%
-try:
-    
-    token = util.prompt_for_user_token(username=username, scope=scope, client_id=client_id, client_secret= client_secret, redirect_uri=redirect_uri)
-    sp = spotipy.Spotify(auth=token)
+def getToken():
+    try:
 
-except:
+        token = util.prompt_for_user_token(username=username, scope=scope, client_id=client_id, client_secret= client_secret, redirect_uri=redirect_uri, cache_path='/home/sid/development/python/music-analysis/spotify/.cache-sidsaxena')
+        sp = spotipy.Spotify(auth=token)
 
-    print('Token not accessible for user: ', username)
+    except:
+        print('Token not accessible for user: ', username)
+    return sp
+
+
+# %%
+sp = getToken()
 
 
 # %%
@@ -328,6 +336,11 @@ def getTracklistFeatures(tracklist):
     for id in range(len(tracklist)):
         track = getTrackFeatures(tracklist[id])
         tracks.append(track)
+        
+        # see status
+        print('Requesting track {}/{}'.format(id, len(tracklist)))
+        # clear output
+        clear_output(wait=True)
 
   # create dataset
     df = pd.DataFrame(tracks, columns = ['name', 'album', 'artist', 'release_date', 'genres', 'length', 'popularity', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'time_signature'])
@@ -336,6 +349,55 @@ def getTracklistFeatures(tracklist):
 
 
 # %%
-my_playlists_df, my_playlists_list = getUserPlaylists(username)
+def getUriFromDf(df):
+    saved_uris = []
+    artist_names = df['artist'].values
+    track_names = df['track'].values
+
+    for i in range(len(artist_names)):
+        artist = artist_names[i]
+        track = track_names[i]
+        print(f'{i} - {artist}: {track}')
+        q = 'artist:{} track: {}'.format(artist, track)
+        results = sp.search(q=q, limit=1, type='track')
+        if len(results['tracks']['items']) > 0:
+            uri = results['tracks']['items'][0]['uri']
+        else: 
+            i += 1
+        saved_uris.append(uri)
+        
+    return saved_uris
+
+
+# %%
+# my_playlists_df, my_playlists_list = getUserPlaylists(username)
+
+
+# %%
+scrobbles_unique = pd.read_csv('../lastfm/Spreadsheets/SidSaxena_unique_scrobbles_2020-08-25.csv')
+
+
+# %%
+# scrobbles_uri = getUriFromDf(scrobbles_unique)
+
+
+# %%
+l = list(csv.reader(open('../spotify/Spreadsheets/scrobbles_unique_uris.csv', 'r')))
+mylist = map(list, zip(*l[0:])) # transpose list
+scrobble_uris = list(chain.from_iterable(mylist))
+
+
+# %%
+# np.savetxt("scrobbles_uri_unique.csv", saved_uris, delimiter=",", fmt='%s')
+
+
+# %%
+# scrobble_features = getTracklistFeatures(scrobble_uris)
+# scrobble_features.to_csv('scrobbles_features.csv', index=False)
+
+
+# %%
+# refresh token
+sp = getToken()
 
 
