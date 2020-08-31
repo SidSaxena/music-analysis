@@ -3,3 +3,6 @@
 .cache-sidsaxena
 *.pyc
 listening_history.sqlite
+
+record linkage*.csv
+features.csv
