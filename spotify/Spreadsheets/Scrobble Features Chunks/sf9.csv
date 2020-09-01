@@ -1,0 +1,1000 @@
+name,album,artist,release_date,genres,length,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Comet,Horizon,Christopher Willits,2017-05-19,"['ambient', 'compositional ambient', 'drift', 'drone']",373000,37,0.165,0.156,0,-24.435,0,0.0425,0.88,0.852,0.0764,0.0357,128.779,4
+Sway,Sway,Józef Gatysik,2016-12-17,['focus'],162448,60,0.353,0.017,5,-27.471,1,0.0516,0.993,0.892,0.108,0.24,101.389,3
+Talisman Stallion,Talisman Stallion,Bela Nemeth,2017-02-07,['focus'],120549,54,0.456,0.024,5,-22.89,1,0.0467,0.995,0.956,0.112,0.22,135.274,4
+"Floating, Floating",Transfixed,August Wilhelmsson,2016-06-17,"['background music', 'focus']",120000,48,0.163,0.125,0,-26.134,1,0.0352,0.52,0.817,0.112,0.0393,72.212,4
+A Rising Sun,Our Precious Lives,Alan Ellis,2016-06-23,"['background music', 'focus']",208250,50,0.17,0.0237,1,-27.701,1,0.0505,0.792,0.753,0.109,0.0303,114.103,4
+Dealings,Last Days Of July,Jonatan Mollberg,2013-09-04,"['background music', 'focus']",175630,40,0.248,0.0169,7,-25.846,0,0.0481,0.981,0.92,0.0685,0.0606,72.056,3
+And The Flowers Were Gray,And The Flowers Were Gray,Evelyn Stein,2018-03-27,['background piano'],171553,50,0.435,0.0214,2,-26.006,1,0.0597,0.994,0.968,0.0914,0.235,144.381,3
+Gravitational,Gravitational,Dolores Fernel,2017-06-27,"['background music', 'focus']",244000,36,0.221,0.0424,4,-22.479,0,0.0376,0.977,0.866,0.109,0.0386,83.146,3
+Quiet Dreams,Quiet Dreams,MVS,2017-09-04,['background music'],204909,58,0.188,0.0249,10,-27.196,1,0.0373,0.988,0.866,0.112,0.0895,91.814,1
+First Chakra Keynote C (Red) - (Bonus Version) (Remastered),Spectrum Suite (Bonus Version) [Remastered],Steven Halpern,1975-05-05,"['healing', 'meditation', 'new age', 'sleep']",171106,36,0.212,0.00393,2,-28.139,0,0.0741,0.993,0.688,0.112,0.0362,68.033,4
+Archipelago Dreams,Waves Of Hope,Halcyon Fields,2016-11-28,['focus'],156300,41,0.119,0.214,2,-18.913,1,0.0377,0.841,0.931,0.113,0.0385,80.643,4
+Anona,The Lost,Otto Totland,2017-12-01,"['focus', 'neo-classical']",207053,49,0.297,0.0437,7,-29.66,1,0.0397,0.995,0.959,0.0814,0.3,147.187,4
+Painting The Horizon,Silent Shores,Deep Inside,2014-03-04,['background music'],143477,57,0.202,0.0023,1,-30.487,1,0.0367,0.985,0.964,0.118,0.0441,71.601,4
+In,After Midnight,Annelie,2018-09-14,['neo-classical'],145500,39,0.397,0.0172,5,-26.724,0,0.0439,0.994,0.904,0.114,0.156,115.668,4
+A New Day,A New Day,Milo Stavos,2016-11-02,['focus'],179102,52,0.446,0.065,0,-18.246,1,0.0577,0.991,0.954,0.107,0.31,69.751,4
+Triangle,Triangle,Moon Laika,2017-06-27,['background music'],106315,57,0.279,0.00639,0,-32.406,1,0.0383,0.989,0.838,0.109,0.175,68.484,3
+Dormiveglia,Presomnal,Benjamin Gustafsson,2017-11-17,['neo-classical'],161020,61,0.289,0.029,1,-31.863,1,0.0285,0.992,0.906,0.133,0.4,66.942,4
+Beau,Flourishing Views,Martin Gauffin,2016-06-16,"['background music', 'focus']",137454,44,0.638,0.214,7,-18.885,1,0.0334,0.949,0.958,0.108,0.0769,110.064,4
+The Gift,In This Moment,Gavin Luke,2018-08-10,"['background music', 'calming instrumental', 'focus', 'neo-classical']",158574,61,0.161,0.103,1,-21.268,1,0.0408,0.927,0.946,0.103,0.11,75.659,4
+Mindful Composition,Mindful Composition,Enzo Electronic,2017-09-04,['background music'],209052,36,0.212,0.0487,1,-24.28,1,0.0483,0.983,0.941,0.106,0.0518,105.396,4
+Wings of Glass,Wings of Glass,La Reve,2017-11-22,[],175681,41,0.199,0.0159,5,-28.047,0,0.0421,0.993,0.962,0.11,0.0375,69.841,3
+1.5,Nachtmusik,Dee C'rell,2018-02-02,[],167880,22,0.145,0.0525,3,-26.383,1,0.0409,0.987,0.968,0.0988,0.0304,68.004,4
+Anasazi,Anasazi,Morongo,2018-02-13,['background music'],219469,45,0.187,0.141,8,-23.411,1,0.0397,0.932,0.969,0.105,0.0372,66.003,4
+Celtic Cowboy,Celtic Cowboy,Charlotte Funke,2017-07-07,"['background music', 'calming instrumental', 'focus']",152000,54,0.53,0.00457,5,-29.524,1,0.0455,0.994,0.968,0.0984,0.483,82.969,4
+Longevity,Longevity,Novo Talos,2016-10-11,"['background music', 'background piano', 'calming instrumental', 'focus']",187301,47,0.329,0.059,3,-24.218,1,0.0348,0.995,0.904,0.109,0.148,72.152,4
+Solution,Traummacher,Turquoise & Fire,2018-03-11,[],99228,40,0.271,0.00582,7,-28.783,1,0.0508,0.992,0.919,0.0923,0.0969,69.775,5
+A Fighting Chance,Degrees Of Separation,Trevor Kowalski,2018-05-25,"['background music', 'calming instrumental', 'focus']",190684,49,0.0881,0.18,7,-21.121,0,0.0402,0.824,0.954,0.123,0.0384,69.36,4
+Space 21 (petrichor),From Sleep,Max Richter,2015-09-04,"['compositional ambient', 'post-minimalism', 'soundtrack']",287786,34,0.0937,0.000234,5,-38.347,1,0.0536,0.864,0.923,0.132,0.0352,72.164,4
+By Night,Pillars,Hushed,2017-05-05,"['background music', 'calming instrumental', 'focus']",238019,44,0.236,0.235,0,-17.019,0,0.0387,0.923,0.925,0.131,0.0615,133.955,3
+Sad Ocean,Mirage,Chihei Hatakeyama,2017-06-09,"['ambient', 'compositional ambient', 'drift', 'drone', 'experimental ambient', 'fourth world', 'j-ambient', 'nu age']",228578,47,0.167,0.0174,10,-28.777,1,0.0484,0.984,0.966,0.0976,0.0337,68.43,3
+It's In The Trees,The Wood Painter,Martin Gauffin,2011-08-08,"['background music', 'focus']",126000,33,0.0737,0.0122,9,-32.355,0,0.0371,0.968,0.877,0.0886,0.039,67.62,3
+Angle of List,Sea Island,Loscil,2014-11-17,"['ambient', 'compositional ambient', 'drift', 'drone', 'dub techno', 'fourth world', 'intelligent dance music', 'microhouse', 'minimal techno', 'neo-classical', 'nu age']",405573,43,0.136,0.00215,2,-33.623,0,0.0455,0.925,0.817,0.095,0.0343,67.749,4
+Quiet Resource,Quiet resource,Evelyn Stein,2017-02-07,['background piano'],207348,59,0.349,0.0205,5,-26.793,1,0.0425,0.995,0.93,0.0962,0.0396,68.983,1
+Words Of Amber,For Now I Am Winter,Ólafur Arnalds,2013-01-01,"['bow pop', 'compositional ambient', 'focus', 'icelandic classical', 'neo-classical', 'neoclassical darkwave']",202933,38,0.242,0.0118,7,-33.7,0,0.0336,0.995,0.936,0.0757,0.214,162.025,4
+Fiction Dawn,Owl Splinters,Deaf Center,2011-02-14,"['ambient', 'compositional ambient', 'dark jazz', 'drift', 'drone', 'nu age']",152160,34,0.448,0.00827,11,-27.805,0,0.0541,0.995,0.887,0.34,0.54,104.538,4
+Reaching for Casterly,Chillout Bar Lounge 2018,Various Artists,2018-02-25,[],177092,45,0.535,0.181,11,-20.333,0,0.04,0.959,0.827,0.112,0.0531,124.993,4
+Sleepers Beat Theme,Late Night Tales: Jon Hopkins,Jon Hopkins,2014-09-15,"['ambient', 'compositional ambient', 'electronica', 'intelligent dance music', 'post-rock']",277223,50,0.0929,0.0217,3,-35.311,1,0.0401,0.959,0.818,0.112,0.0405,166.189,3
+Sea Of Tranquility,Sea Of Tranquility,Julius Aston,2018-03-27,['focus'],175318,57,0.316,0.00843,5,-30.838,1,0.0462,0.993,0.962,0.239,0.263,70.891,3
+From Dusk til Dark,From Dusk til Dark,Strange Imagining,2017-09-04,"['background music', 'focus']",187802,45,0.214,0.02,8,-27.692,1,0.0392,0.977,0.926,0.103,0.0393,150.298,3
+Reverie,Chasing Cloud Nine,LUCHS,2016-06-17,"['background music', 'calming instrumental', 'focus']",192750,57,0.358,0.00409,10,-28.239,0,0.0475,0.989,0.935,0.0998,0.108,81.654,4
+Bionic,Bionic,Solvekin,2017-09-29,['background music'],211303,28,0.176,0.0665,7,-25.928,1,0.0449,0.976,0.958,0.0957,0.0386,71.608,4
+The Valley,Theme From Schindlers List,Velodrome,2017-11-22,['background music'],185853,41,0.101,0.0149,3,-32.672,0,0.045,0.979,0.957,0.0927,0.0376,69.264,4
+Temptation,Temptation,High Blue Sky,2016-12-18,['background music'],189211,37,0.263,0.0504,7,-20.935,0,0.0521,0.967,0.856,0.0767,0.0701,75.56,4
+Divine Structure,Episode,Charlotte Funke,2018-03-27,"['background music', 'calming instrumental', 'focus']",227874,44,0.267,0.0213,5,-22.608,1,0.0497,0.987,0.919,0.102,0.0502,57.178,4
+Ambient Sleep,Ambient Sleep,Enchanted Feel,2017-07-06,[],172815,36,0.59,0.224,3,-11.75,1,0.0389,0.991,0.745,0.13,0.19,108.659,4
+Take Me Back,Home,Shiroishi,2017-09-29,['background music'],129149,48,0.166,0.134,0,-23.593,0,0.0361,0.984,0.978,0.129,0.038,129.068,5
+Melancholia III,Melancholia,William Basinski,2003-01-17,"['ambient', 'art pop', 'compositional ambient', 'drift', 'drone', 'experimental', 'fourth world', 'hauntology', 'intelligent dance music', 'sound art']",114146,30,0.217,0.00836,3,-33.306,1,0.0334,0.99,0.932,0.103,0.0379,69.766,1
+Introspective,Sleepy Baby Piano,Various Artists,2016-12-11,[],174375,58,0.356,0.0199,6,-26.752,0,0.0645,0.994,0.956,0.155,0.326,79.547,4
+Friendship Before Love,Friendship Before Love,Cellophane Roses,2016-12-04,[],109544,62,0.522,0.00251,9,-23.464,1,0.112,0.994,0.96,0.0891,0.732,72.002,4
+Carry On,Carry On,Novo Talos,2018-02-08,"['background music', 'background piano', 'calming instrumental', 'focus']",115484,59,0.289,0.0176,8,-24.931,1,0.036,0.941,0.85,0.111,0.0477,73.598,4
+Limbo,Limbo,They Dream By Day,2016-06-16,"['atmosphere', 'background music', 'focus']",134318,39,0.082,0.0204,2,-33.815,1,0.037,0.788,0.274,0.0552,0.0392,171.389,5
+Beyond Voyager - Ambient Mix,Beyond Voyager,Nucleus A.D.,2018-02-13,[],217603,37,0.318,0.249,7,-18.959,0,0.0375,0.969,0.988,0.0974,0.101,123.954,4
+The Same Answer,Jim: The James Foley Story (Original Motion Picture Soundtrack),Dan Romer,2016-05-09,['soundtrack'],89146,29,0.204,0.0021,0,-35.804,1,0.0466,0.993,0.947,0.0792,0.0936,86.844,3
+Deep Forest - Cello Version,Deep Forest (Strings Version),Christopher Varela,2017-12-13,['calming instrumental'],112843,56,0.085,0.137,2,-15.559,1,0.0435,0.98,0.951,0.109,0.0592,167.408,4
+Balm (Scaled Down Version),Balm,Peter Sandberg,2016-06-17,"['background music', 'calming instrumental', 'focus', 'neo-classical']",126937,54,0.353,0.0175,11,-22.767,1,0.0456,0.989,0.901,0.0971,0.286,106.507,3
+Durga,Silent Dreams,Jane Carpatio,2017-12-30,[],170000,23,0.138,0.00133,5,-43.038,1,0.0542,0.983,0.86,0.1,0.0562,140.949,4
+Mauve (Fughetta),Sapphire,Arden Forest,2018-05-25,"['background music', 'background piano', 'calming instrumental', 'focus']",147530,27,0.7,0.153,8,-23.515,1,0.0631,0.995,0.962,0.173,0.517,91.548,4
+03,Parallel Landscapes,Steinbrüchel,2015-01-20,"['abstract', 'glitch', 'lowercase', 'sound art']",396500,18,0.14,0.00806,9,-32.156,0,0.0442,0.969,0.883,0.0754,0.0308,70.366,3
+The Watchtower,The Watchtower,Sigimund,2016-07-20,['focus'],205577,59,0.248,0.0274,7,-28.768,0,0.0333,0.991,0.922,0.153,0.159,75.124,1
+Solitude,Ichiru,Daigo Hanada,2017-02-24,"['compositional ambient', 'focus', 'japanese piano', 'neo-classical']",166830,48,0.307,0.0242,1,-28.599,0,0.038,0.979,0.962,0.204,0.474,106.994,4
+Erin's Waltz,Erin's Waltz,Per Magnusson,2018-02-13,[],197155,32,0.486,0.0457,0,-20.259,0,0.0894,0.985,0.953,0.11,0.349,69.915,4
+Breathe,Soon,Wilmer Norman,2017-06-08,['background music'],217000,46,0.549,0.0234,9,-17.838,0,0.257,0.986,0.963,0.106,0.279,66.135,4
+Shimbashi,Edo Vibes,Edo Vibes,2018-05-17,['background music'],182166,42,0.348,0.0189,9,-25.765,0,0.0454,0.994,0.944,0.113,0.21,67.563,4
+Yoga Meditation and Relaxation,"Kundalini: Yoga, Meditation, Relaxation","Kundalini: Yoga, Meditation, Relaxation",2010-10-01,['sleep'],153156,48,0.2,0.00461,10,-32.499,1,0.0372,0.991,0.942,0.257,0.239,75.284,4
+Reverse Pads,The High Lands of Tibet,La-Mu,2018-01-19,[],214167,30,0.152,0.00591,0,-38.332,0,0.0446,0.974,0.928,0.108,0.0367,136.708,1
+La,Screws,Nils Frahm,2012-12-03,"['compositional ambient', 'electronica', 'focus', 'neo-classical', 'neoclassical darkwave']",191031,51,0.312,0.0465,8,-24.748,0,0.068,0.985,0.857,0.118,0.116,40.645,3
+Reminisce in D,Reminisce in D,kvíðahópur,2011,[],134220,37,0.347,0.0459,2,-18.944,0,0.0446,0.969,0.896,0.0948,0.0792,126.749,3
+Glitching,Glitching,Solvekin,2017-08-30,['background music'],138798,47,0.161,0.00613,0,-38.027,1,0.039,0.994,0.846,0.0895,0.0363,74.671,1
+The Lighthouse,Focus Your Brain - Deep Ambient Soundscapes Vol 1,Various Artists,2016-07-31,[],221767,44,0.201,0.0597,0,-28.678,1,0.0358,0.506,0.863,0.112,0.0573,74.997,4
+#3,Selected Ambient Works Volume II,Aphex Twin,1994-03-07,"['ambient', 'braindance', 'electronica', 'intelligent dance music', 'uk experimental electronic']",464293,59,0.167,0.071,6,-27.108,0,0.041,0.911,0.855,0.107,0.0613,143.315,5
+Midnight Lullaby,Midnight Lullaby,Sleepnut,2017-07-30,[],133151,26,0.182,0.214,5,-21.352,0,0.0397,0.967,0.861,0.109,0.156,81.275,3
+Lullaby Beach,Immerse,Rand Aldo,2018-08-10,"['background music', 'calming instrumental', 'focus']",220848,49,0.143,0.175,7,-19.153,1,0.0331,0.9,0.817,0.118,0.0463,90.135,4
+Final Transmission Home,The Space Between Us,Amaranth Cove,2018-01-19,"['background music', 'focus']",175135,26,0.204,0.123,1,-17.945,1,0.0293,0.939,0.787,0.101,0.0331,72.315,4
+Healing Memories,Yoga Music,Various Artists,2017-04-22,[],202305,51,0.216,0.0181,5,-30.87,1,0.0433,0.974,0.947,0.0968,0.04,67.913,1
+Emerald and Stone,Small Craft On A Milk Sea,Brian Eno,2010-11-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",132306,62,0.324,0.0379,11,-25.247,1,0.0554,0.987,0.907,0.0756,0.0383,120.169,4
+Lost and Found,Lost and Found,EIXE,2017-09-29,[],115109,51,0.237,0.043,3,-25.932,0,0.0501,0.981,0.935,0.11,0.132,68.553,4
+Chasing Cloud Nine,Chasing Cloud Nine,LUCHS,2016-06-17,"['background music', 'calming instrumental', 'focus']",162000,58,0.16,0.0402,5,-29.325,1,0.0368,0.98,0.983,0.371,0.0715,91.435,4
+Sibyl,Pillars,Hushed,2017-05-05,"['background music', 'calming instrumental', 'focus']",243795,42,0.239,0.0623,0,-26.017,1,0.0322,0.935,0.95,0.107,0.15,110.08,4
+La Lluvia,La Lluvia,Relajar,2016-08-07,[],195964,51,0.376,0.0153,11,-24.718,1,0.0507,0.995,0.946,0.0844,0.1,71.861,4
+Dorotea,In Dreams,Hushed,2018-04-06,"['background music', 'calming instrumental', 'focus']",205000,37,0.408,0.0917,2,-21.358,1,0.0319,0.943,0.86,0.107,0.0653,95.973,3
+Far Away Sounds up Close,Bits and Pieces,Sleepaholics,2017-06-02,['ambient worship'],263998,38,0.141,0.00748,2,-36.507,1,0.0494,0.973,0.753,0.0875,0.0421,140.781,3
+At Peace,At Peace,Lucina Chase,2017-08-29,[],118750,33,0.509,0.0325,0,-22.982,1,0.0315,0.989,0.913,0.0926,0.177,87.127,4
+Calling,Winds of Haryana,Muni Yogi,2017-03-19,['background music'],191236,56,0.153,0.0148,6,-34.538,1,0.0482,0.972,0.679,0.122,0.0376,137.103,3
+"Inside River, Pt. 2",In The Dark Woods,Akira Kosemura,2017-09-15,"['compositional ambient', 'focus', 'j-ambient', 'japanese classical', 'japanese piano', 'neo-classical']",160400,46,0.414,0.171,5,-25.092,1,0.0372,0.996,0.931,0.105,0.188,115.136,3
+Return of Infinity,Return of Infinity,Becca,2016-12-04,[],158428,42,0.374,0.00905,2,-22.653,1,0.0552,0.995,0.928,0.109,0.405,76.574,3
+Dream 11 (whisper music) - Pt. 1,Calming Down,Various Artists,2020-08-26,[],188936,0,0.284,0.00209,6,-37.395,1,0.0459,0.994,0.963,0.103,0.04,66.95,4
+La Torre Del Sueno,Mariposas,Meditaciónessa,2018-03-04,"['musica de fondo', 'pianissimo', 'world meditation']",230573,52,0.149,0.00987,5,-32.222,0,0.0582,0.991,0.952,0.102,0.0628,139.577,3
+A Glowing Heart,Silent Shores,Deep Inside,2014-03-04,['background music'],119615,55,0.143,0.00155,0,-34.708,1,0.0428,0.99,0.921,0.1,0.0393,139.516,3
+Wake up Rested,Slip into Darkness,Biqram,2017-06-27,[],185490,53,0.174,0.0166,3,-30.951,1,0.0676,0.983,0.681,0.109,0.0361,132.125,5
+Finally You Needed Me,Finally You Needed Me,Ageena,2017-09-04,['background music'],226693,45,0.193,0.0433,2,-28.752,1,0.0387,0.972,0.834,0.0975,0.166,126.16,3
+Slow Breathing,"Celtic Spa & Relaxation (Best Classic Irish Harp & Flute, Relax & Have Stress Free St. Patrick’s Day)",Various Artists,2018-01-29,[],211850,29,0.393,0.00918,0,-31.246,1,0.0348,0.993,0.908,0.0728,0.0794,80.002,4
+The Giant,The Giant,Dilia,2018-02-13,['calming instrumental'],183686,62,0.565,0.0843,5,-24.145,1,0.0448,0.994,0.947,0.12,0.44,86.022,3
+Live Beneath,Live Beneath,Cerulean Skies,2017-10-07,['background music'],160466,26,0.304,0.0483,7,-26.155,0,0.0401,0.966,0.871,0.103,0.0636,79.935,4
+Water Clouds,Water Clouds,Ambientalism,2016-03-30,[],174757,33,0.242,0.0138,9,-29.419,0,0.0411,0.992,0.945,0.106,0.139,69.735,4
+Pinô,Pinô,Otto Totland,2014-01-31,"['focus', 'neo-classical']",165995,57,0.494,0.0453,5,-28.914,1,0.0378,0.995,0.927,0.112,0.103,80.743,4
+Vigil,Mass Effect (EA Games Soundtrack),Various Artists,2007-11-20,[],102480,33,0.281,0.228,5,-15.603,1,0.0362,0.886,0.971,0.122,0.0358,66.384,3
+Way Back Down,Way Back Down,Cadet de l'espace,2018-05-08,[],227750,41,0.273,0.00782,4,-25.901,0,0.0385,0.983,0.904,0.0875,0.104,70.253,5
+Solitude Island,Fall Of A Raindrop,Calm Shores,2018-02-02,"['background music', 'focus', 'sleep']",236529,44,0.235,0.0549,0,-23.938,1,0.0368,0.991,0.925,0.104,0.0389,129.897,4
+Squares of life,Squares of Life,Piotr Miteska,2016-07-20,"['background music', 'focus', 'neo-classical']",165034,53,0.27,0.0102,11,-22.34,0,0.0386,0.993,0.918,0.0919,0.06,71.967,4
+Sobraon Occasional,To Be Still,By Lotus,2018-01-19,['background music'],200175,30,0.127,0.046,7,-33.046,1,0.0346,0.97,0.889,0.0688,0.037,70.551,4
+Finding It There,The Malady Of Elegance,Goldmund,2008-09-05,"['ambient', 'compositional ambient', 'drone', 'focus', 'neo-classical', 'nu age']",220186,46,0.202,0.00259,6,-37.124,1,0.0425,0.994,0.952,0.12,0.0364,120.734,5
+Two Hearts,Demi Sec,Sub-City Keys,2018-03-28,"['background music', 'focus']",196000,44,0.466,0.0211,7,-22.379,0,0.0475,0.992,0.959,0.107,0.313,92.111,4
+Paper Thin Reality,Paper Thin Reality,Ave Air,2018-08-10,"['background music', 'focus']",214073,49,0.281,0.11,3,-21.023,1,0.0367,0.945,0.928,0.113,0.0387,78.755,5
+Depths of Eternity,Depths of Eternity,William Roud,2017-09-25,[],178370,47,0.129,0.0488,11,-23.641,1,0.037,0.96,0.904,0.108,0.0352,68.8,4
+"Fragment, Pt. 1",Ichiru,Daigo Hanada,2017-02-24,"['compositional ambient', 'focus', 'japanese piano', 'neo-classical']",128042,44,0.354,0.0106,9,-29.524,0,0.039,0.993,0.968,0.106,0.106,75.606,3
+Luna,Luna,Ebb & Flod,2016-10-03,"['background music', 'focus']",148965,48,0.296,0.276,1,-19.499,0,0.0416,0.963,0.948,0.14,0.225,116.242,4
+Sugarcane,Sugarcane,Ana Olgica,2016-12-14,"['background music', 'background piano', 'calming instrumental', 'focus', 'neo-classical']",144500,66,0.361,0.0165,0,-27.874,1,0.0615,0.995,0.967,0.0834,0.452,114.346,3
+Olopte's Lullaby,Suite Of Dreams,Gabriela Parra,2016-07-08,['focus'],167012,37,0.367,0.047,5,-22.13,0,0.0485,0.995,0.912,0.115,0.257,75.693,4
+Nemo Egg (Main Title),Finding Nemo (Original Motion Picture Soundtrack),Thomas Newman,2003-05-20,"['scorecore', 'soundtrack']",76133,62,0.164,0.0248,5,-27.25,1,0.0462,0.98,0.967,0.103,0.0553,79.083,3
+Connection,Tasteology Soundtrack,Carl Borg,2017-01-26,[],69818,54,0.199,0.00937,7,-27.362,0,0.0402,0.974,0.984,0.114,0.0327,88.76,1
+An Ending (Ascent) - Remastered 2005,Apollo,Brian Eno,1983-07-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",266200,58,0.257,0.0906,8,-25.381,1,0.07,0.932,0.985,0.0786,0.0451,67.46,3
+An Ending (Ascent) - Remastered 2005,Apollo,Brian Eno,1983-07-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",266200,58,0.257,0.0906,8,-25.381,1,0.07,0.932,0.985,0.0786,0.0451,67.46,3
+Still Life,In Dreams,Hushed,2018-04-06,"['background music', 'calming instrumental', 'focus']",158756,45,0.196,0.0297,5,-27.018,1,0.0398,0.622,0.716,0.111,0.0362,84.49,4
+Northern Light,Piano & Chill,Various Artists,2016-07-31,[],191676,46,0.668,0.00506,5,-26.865,0,0.0617,0.969,0.856,0.115,0.563,119.96,3
+Sweden,Minecraft - Volume Alpha,C418,2011-03-04,['minecraft'],215500,66,0.642,0.01,2,-25.164,1,0.0446,0.992,0.945,0.103,0.197,87.971,4
+A Presence Felt,The Crossing,Gavin Luke,2018-05-04,"['background music', 'calming instrumental', 'focus', 'neo-classical']",184001,42,0.186,0.0286,9,-26.125,0,0.0414,0.985,0.886,0.0828,0.23,170.762,4
+Faded Dreams,Faded Dreams,Aaron Lansing,2017-02-07,['focus'],111803,63,0.429,0.0107,9,-33.377,0,0.074,0.994,0.967,0.136,0.142,116.059,4
+Dawning,Dawning,Lights From A Distance,2017-09-03,"['background music', 'focus']",167746,53,0.188,0.0279,3,-26.587,0,0.0394,0.972,0.949,0.114,0.0604,74.142,4
+Atoms,Atoms,Ana Olgica,2017-02-07,"['background music', 'background piano', 'calming instrumental', 'focus', 'neo-classical']",139804,57,0.412,0.00289,2,-29.012,1,0.0523,0.994,0.937,0.0857,0.171,68.711,4
+melt,Chessa,Shuttle358,2004-11-01,"['experimental ambient', 'microhouse']",333600,18,0.11,0.21,6,-23.527,0,0.0341,0.948,0.958,0.106,0.0478,159.966,5
+Degrees Of Separation,Degrees Of Separation,Trevor Kowalski,2018-05-25,"['background music', 'calming instrumental', 'focus']",212863,25,0.186,0.191,4,-17.184,0,0.0401,0.968,0.908,0.12,0.0605,72.944,4
+Keep Breathing,Unspoken Words,Etheral Gust,2018-01-16,['atmosphere'],177238,47,0.136,0.0132,4,-34.319,1,0.0422,0.971,0.8,0.101,0.0406,71.387,4
+Sweet Frederik,Beyond the Milky Way,Phamie Gow,2018-03-01,"['celtic harp', 'harp']",159680,30,0.241,0.0852,5,-24.472,1,0.0571,0.995,0.92,0.0784,0.117,75.319,1
+Lights On Water,Quiet City,Pan-American,2004-06-21,"['ambient', 'compositional ambient', 'dark jazz', 'drift', 'drone', 'dub techno', 'fourth world', 'indie electronica', 'microhouse', 'post-rock', 'sound art']",230213,27,0.156,0.0945,8,-22.386,1,0.0435,0.832,0.902,0.0974,0.0657,65.687,4
+Aoi,Sapphire,Arden Forest,2018-05-25,"['background music', 'background piano', 'calming instrumental', 'focus']",127750,39,0.62,0.029,1,-21.866,1,0.0859,0.994,0.957,0.0973,0.621,74.79,4
+Moods of the Valley,Moods Of The Valley,Otto Wahl,2016-07-19,['background piano'],227472,43,0.424,0.102,6,-21.383,1,0.0478,0.993,0.941,0.106,0.104,137.699,4
+Cavatina,Ambient Hits,Tranquil Cove,2017-09-29,"['atmosphere', 'background music']",204254,46,0.223,0.0251,11,-32.81,1,0.0705,0.991,0.756,0.101,0.106,68.061,4
+Soft Upon Your Face,Paper Thin Reality,Ave Air,2018-08-10,"['background music', 'focus']",194836,51,0.177,0.0854,8,-22.918,1,0.0478,0.957,0.92,0.118,0.036,81.039,4
+Slip into Darkness,Slip into Darkness,Biqram,2017-06-27,[],122176,48,0.312,0.012,5,-31.292,0,0.0398,0.992,0.885,0.111,0.192,143.963,4
+Dream 1 (before the wind blows it all away) - Pt. 1,Sleep,Max Richter,2015,"['compositional ambient', 'post-minimalism', 'soundtrack']",153101,64,0.214,0.00144,6,-39.869,1,0.0487,0.995,0.968,0.0998,0.0866,72.046,4
+Solêr,Pinô,Otto Totland,2014-01-31,"['focus', 'neo-classical']",155880,61,0.333,0.0634,3,-26.645,0,0.0516,0.994,0.927,0.136,0.45,168.232,4
+Crystal Clear,The Road To Meteora,Johannes Bornlöf,2016-06-09,"['calming instrumental', 'classify', 'focus', 'neo-classical']",127200,49,0.24,0.00452,5,-38.772,1,0.0408,0.987,0.978,0.076,0.0383,74.552,4
+Evolutionistically Yours,Evolutionistically Yours,Józef Gatysik,2017-02-07,['focus'],160897,61,0.322,0.0121,5,-31.994,1,0.0491,0.993,0.927,0.127,0.118,112.464,4
+The Fog of The Shire,The Fog of The Shire,Antuigo,2017-07-06,['background music'],182030,37,0.266,0.0638,0,-17.688,1,0.0349,0.995,0.925,0.109,0.0437,72.853,4
+Mystery Island,Mystery Island,The Golden Islands,2017-10-03,['focus'],167500,23,0.184,0.137,9,-20.797,0,0.0341,0.988,0.9,0.109,0.0554,133.365,1
+Daughters,Sacre Coeur,Adelisé,2018-02-08,[],89046,29,0.172,0.0202,5,-28.445,1,0.0414,0.953,0.797,0.111,0.354,172.992,4
+Thinking Like The Flowers,Immerse,Rand Aldo,2018-08-10,"['background music', 'calming instrumental', 'focus']",241716,50,0.35,0.0187,3,-28.343,1,0.0336,0.984,0.942,0.142,0.141,84.021,4
+Aware,Aware,Inkognitone,2017-09-07,['background music'],175263,42,0.177,0.0618,3,-22.682,1,0.0433,0.942,0.968,0.106,0.0383,80.96,4
+Magnetic,Magnetic,Strange Imagining,2018-02-13,"['background music', 'focus']",172456,54,0.512,0.121,9,-19.46,1,0.0338,0.991,0.74,0.0726,0.298,69.981,4
+Close - Cello Version,Close,Lunaire,2018-01-24,['calming instrumental'],209799,48,0.22,0.0921,0,-21.199,1,0.0334,0.944,0.913,0.0658,0.0382,75.242,1
+Tallis One,Tallis One,Samuel Lindon,2016-12-12,"['background music', 'background piano', 'calming instrumental', 'focus', 'neo-classical']",117401,60,0.41,0.0199,0,-26.699,1,0.0449,0.993,0.949,0.0897,0.178,107.378,4
+Introspection (Edit),Introspection (Edit),Laraaji,2017-07-19,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'drone', 'experimental', 'fourth world', 'freak folk']",155411,54,0.102,0.125,9,-21.786,0,0.0329,0.941,0.594,0.0699,0.0341,79.609,3
+Still Now,Still Now,MVS,2018-02-13,['background music'],178932,55,0.216,0.0926,0,-23.396,1,0.0413,0.99,0.945,0.114,0.0678,99.948,4
+Aum Boreal,Aum Boreal,Mahgreb Machine,2017-09-07,['background music'],184000,47,0.0792,0.186,8,-22.858,1,0.04,0.959,0.918,0.291,0.039,81.332,4
+Longing,Piano & Chill,Various Artists,2016-07-31,[],121973,57,0.363,0.0263,6,-29.73,1,0.0708,0.996,0.962,0.0848,0.357,165.688,4
+From Afar,From Afar,High Blue Sky,2017-09-04,['background music'],166470,35,0.276,0.00925,6,-28.454,0,0.0406,0.994,0.848,0.0621,0.0761,72.89,3
+Spiritual Conquest,Spiritual Conquest,Natural X,2017-06-27,['background music'],202015,45,0.162,0.00532,11,-36.77,1,0.0376,0.969,0.821,0.115,0.0307,68.814,4
+Rapture,Rapture,Aquasonic,2017-07-26,['background music'],160000,41,0.318,0.185,0,-17.571,1,0.037,0.327,0.901,0.0892,0.0389,105.03,4
+Red Gold Yesterday,Dawning,LUCHS,2016-06-02,"['background music', 'calming instrumental', 'focus']",138574,56,0.384,0.235,10,-20.69,1,0.0332,0.885,0.852,0.0874,0.193,95.95,3
+Demi Sec,Demi Sec,Sub-City Keys,2018-03-28,"['background music', 'focus']",175934,50,0.326,0.0038,10,-30.011,0,0.0594,0.993,0.95,0.127,0.373,69.853,4
+Translucent,If You Will,Oscar Collin,2013-09-01,[],127169,45,0.174,0.0293,3,-25.65,1,0.045,0.895,0.919,0.111,0.0508,106.927,4
+This Moment,This Moment,Bela Nemeth,2017-02-07,['focus'],154663,61,0.253,0.00611,4,-29.25,1,0.0489,0.995,0.959,0.0861,0.309,81.02,4
+"September - from DreamWorks Animation's ""TROLLS""",TROLLS (Original Motion Picture Soundtrack),Trolls,2016-09-23,['deep classic garage rock'],235000,62,0.774,0.849,9,-2.986,1,0.0301,0.016,0.000199,0.0348,0.962,126.996,4
+Hi-Five,Burn Your Fire For No Witness (Deluxe Edition),Angel Olsen,2014-11-18,"['alternative americana', 'art pop', 'electropop', 'freak folk', 'indie folk', 'indie pop', 'indie rock']",177520,41,0.514,0.574,9,-7.224,1,0.0467,0.0443,0.00826,0.142,0.369,125.389,4
+Shut Up Kiss Me,MY WOMAN,Angel Olsen,2016-09-02,"['alternative americana', 'art pop', 'electropop', 'freak folk', 'indie folk', 'indie pop', 'indie rock']",202200,62,0.373,0.63,7,-5.131,1,0.0461,0.0552,0.0,0.107,0.352,115.942,4
+Midway,Psychic Reader,Bad Bad Hats,2015-07-17,['minneapolis indie'],184871,44,0.747,0.711,7,-4.27,1,0.0354,0.0291,0.000465,0.101,0.353,113.007,4
+Street Spirit (Fade Out),The Bends,Radiohead,1995-03-28,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",253853,63,0.488,0.453,4,-11.562,0,0.0304,0.314,0.691,0.179,0.129,138.077,4
+A Better Son/Daughter,The Execution Of All Things,Rilo Kiley,2002-10-01,"['anti-folk', 'indie folk', 'indie pop', 'indie rock', 'la indie', 'lilith']",279066,51,0.479,0.424,4,-10.919,1,0.0404,0.0742,0.91,0.184,0.0473,113.931,3
+Make It Holy,If I Was (Deluxe Edition),The Staves,2014-10-20,"['chamber pop', 'indie folk', 'indie pop', 'new americana', 'stomp and holler', 'uk americana']",273546,45,0.564,0.255,5,-12.982,0,0.0318,0.869,3.99e-05,0.135,0.215,133.075,4
+Middle Of My Mind,The Pleasant Trees (Volume 2),Tom Rosenthal,2015-12-25,"['british singer-songwriter', 'indie anthem-folk', 'indie folk']",164721,52,0.607,0.198,2,-14.271,1,0.038,0.963,0.00425,0.107,0.381,76.702,4
+Cycling Trivialities,In Our Nature,José González,2007-09-24,"['gothenburg indie', 'indie folk', 'neo mellow', 'stomp and holler', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",489213,38,0.525,0.326,11,-9.857,1,0.0359,0.778,0.625,0.0918,0.138,110.616,4
+No Heaven,Chill' Em All,Champion,2004,['uk funky'],206533,40,0.651,0.684,4,-10.376,1,0.0651,0.0176,0.743,0.617,0.606,120.052,4
+Control,After the Disco,Broken Bells,2014-01-13,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",221426,48,0.741,0.634,9,-6.625,0,0.0264,0.00676,2.59e-05,0.337,0.951,113.999,4
+Falls (feat. Sasha Sloan),A Moment Apart,ODESZA,2017-09-08,"['chillwave', 'ninja']",232936,60,0.294,0.697,6,-6.029,1,0.128,0.0398,0.00011,0.136,0.183,160.566,4
+Line Of Sight (feat. WYNNE & Mansionair),A Moment Apart,ODESZA,2017-09-08,"['chillwave', 'ninja']",237140,64,0.558,0.733,8,-6.65,1,0.0693,0.0334,0.00193,0.193,0.173,89.992,4
+Sun Models (feat. Madelyn Grant),In Return,ODESZA,2014-09-08,"['chillwave', 'ninja']",160000,67,0.683,0.481,8,-9.174,0,0.075,0.191,0.736,0.0907,0.47,120.001,4
+Across The Room (feat. Leon Bridges),A Moment Apart,ODESZA,2017-09-08,"['chillwave', 'ninja']",283537,66,0.566,0.587,6,-5.96,1,0.0308,0.0155,2.05e-05,0.111,0.246,82.046,4
+The Plateaux Of Mirror - 2004 Digital Remaster,"Ambient, Vol. 2: The Plateaux Of Mirror",Harold Budd,1980,"['ambient', 'american contemporary classical', 'art rock', 'compositional ambient', 'drone', 'fourth world', 'minimalism']",253893,43,0.234,0.0138,8,-30.699,0,0.0487,0.988,0.83,0.106,0.0344,91.085,4
+The Girl With the Flesh Colored Crayon,Aix Em Klemm,Aix Em Klemm,2000-01-01,"['drone', 'experimental guitar']",392293,25,0.0931,0.273,9,-18.318,1,0.0365,0.759,0.836,0.0888,0.0422,74.914,1
+Elation,Chasing Cloud Nine,LUCHS,2016-06-17,"['background music', 'calming instrumental', 'focus']",157125,47,0.155,0.0261,7,-27.763,1,0.0385,0.989,0.977,0.0871,0.0483,88.157,5
+Dawning,Dawning,LUCHS,2016-06-02,"['background music', 'calming instrumental', 'focus']",139671,43,0.214,0.122,0,-20.499,1,0.0324,0.347,0.854,0.185,0.0464,140.193,4
+Man In The Moon,Man In The Moon,Wilma Harrods,2017-02-02,['calming instrumental'],152958,48,0.439,0.0535,10,-21.144,1,0.0746,0.991,0.96,0.11,0.472,69.682,5
+Signals - Remastered 2005,Apollo,Brian Eno,1983-07-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",166560,50,0.0672,0.0119,6,-41.808,1,0.0457,0.969,0.944,0.12,0.0701,70.521,1
+Ella's Lullaby,Enno Aare,Enno Aare,2016-11-28,['focus'],220384,56,0.35,0.0256,2,-22.589,1,0.0334,0.957,0.88,0.106,0.071,77.664,4
+Bells In The Wind,Bells In The Wind,Bud Hollister,2016-12-18,['focus'],170218,42,0.516,0.00272,2,-21.946,1,0.038,0.981,0.935,0.112,0.545,69.979,4
+Now Is The Time To Leave,Departure,August Wilhelmsson,2016-06-07,"['background music', 'focus']",128000,49,0.166,0.0151,0,-26.574,0,0.0413,0.99,0.985,0.0946,0.0619,70.156,5
+The First Two Times,Piano Pieces,Jonatan Mollberg,2015-10-09,"['background music', 'focus']",131815,40,0.571,0.00295,10,-28.287,1,0.114,0.995,0.96,0.0865,0.544,68.943,3
+Drift - Remastered 2005,Apollo,Brian Eno,1983-07-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",189466,44,0.255,0.116,5,-29.308,1,0.0437,0.884,0.894,0.0792,0.0309,69.339,3
+Ferrum,Mirror,Chihei Hatakeyama,2011-08-01,"['ambient', 'compositional ambient', 'drift', 'drone', 'experimental ambient', 'fourth world', 'j-ambient', 'nu age']",973880,38,0.23,0.168,3,-22.653,1,0.0481,0.988,0.906,0.0967,0.0908,135.059,3
+Morning Hue,Silent Shores,Deep Inside,2014-03-04,['background music'],126248,38,0.22,0.00093,7,-37.043,1,0.0419,0.996,0.974,0.0937,0.0392,69.67,4
+Chalets,The Wood Painter,Martin Gauffin,2011-08-08,"['background music', 'focus']",96000,43,0.169,0.0532,7,-24.549,1,0.0378,0.978,0.849,0.132,0.047,72.17,5
+þÚ Ert Jörðin,…And They Have Escaped the Weight of Darkness,Ólafur Arnalds,2010-05-10,"['bow pop', 'compositional ambient', 'focus', 'icelandic classical', 'neo-classical', 'neoclassical darkwave']",274355,55,0.208,0.0847,0,-20.917,1,0.0425,0.982,0.931,0.102,0.0391,123.979,5
+Fidelity,When You Were Here,Rannar Sillard,2014-05-01,"['background music', 'calming instrumental', 'focus']",111302,39,0.404,0.0101,2,-27.332,1,0.0358,0.979,0.769,0.0979,0.263,99.089,3
+Suaimhneas,Suaimhneas,Ceilidh,2017-02-17,['focus'],211212,56,0.217,0.141,11,-19.913,0,0.0369,0.968,0.835,0.111,0.0732,117.029,4
+Somewhere In Between,Departure,August Wilhelmsson,2016-06-07,"['background music', 'focus']",151511,59,0.13,0.0454,0,-26.834,1,0.0365,0.983,0.971,0.0938,0.0391,67.667,3
+In and Out of Dreams,In and Out of Dreams,chillchild,2018-08-21,['background music'],147004,37,0.197,0.0971,5,-22.423,1,0.0465,0.935,0.654,0.105,0.0344,67.689,5
+Moments,Endless Fragments of Time,Deep Watch,2017-02-23,"['background music', 'focus']",215755,57,0.152,0.0315,6,-29.774,0,0.047,0.922,0.775,0.11,0.155,139.095,3
+Flight From The City,Orphée,Jóhann Jóhannsson,2016-09-16,"['bow pop', 'compositional ambient', 'focus', 'icelandic classical', 'icelandic experimental', 'nordic soundtrack', 'soundtrack']",391160,57,0.13,0.086,10,-21.92,1,0.0373,0.932,0.912,0.108,0.0375,90.223,4
+Zero Point (feat. Lyz Cooper),Zero Point (feat. Lyz Cooper),Silence & Air,2017-11-28,[],566177,19,0.0809,0.0327,5,-34.209,1,0.0415,0.956,0.96,0.112,0.0366,83.538,4
+Olancha Farewell,Lovely Thunder,Harold Budd,1986,"['ambient', 'american contemporary classical', 'art rock', 'compositional ambient', 'drone', 'fourth world', 'minimalism']",138426,59,0.196,0.00687,7,-34.255,1,0.0442,0.992,0.917,0.106,0.053,72.125,4
+Foreshadowed - 2005 Digital Remaster,The Pearl,Harold Budd,1984,"['ambient', 'american contemporary classical', 'art rock', 'compositional ambient', 'drone', 'fourth world', 'minimalism']",232440,41,0.342,0.0314,3,-25.319,0,0.0439,0.992,0.906,0.0767,0.117,100.022,4
+A Clearing - Remastered 2004,Ambient 4: On Land,Brian Eno,1982-03-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",247946,38,0.169,0.00154,5,-32.367,1,0.0601,0.986,0.97,0.0847,0.0283,115.74,4
+Stars - Remastered 2005,Apollo,Brian Eno,1983-07-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",480280,46,0.149,0.0271,5,-33.771,1,0.0487,0.992,0.932,0.0632,0.0592,82.003,3
+This Delicate Place (Scaled Down Version),Partly Cloudy,Silver Maple,2016-06-17,"['background music', 'focus']",160949,51,0.597,0.0262,7,-25.639,1,0.0518,0.982,0.872,0.101,0.206,120.291,3
+Looking For More,Washed In Light,Alan Ellis,2016-06-16,"['background music', 'focus']",160000,30,0.174,0.0352,5,-27.932,1,0.0518,0.908,0.906,0.112,0.0383,114.209,4
+Stop Everything! It's Snowing,A Sense Of Uncertainty,Good Weather For An Airstrike,2013-06-22,"['compositional ambient', 'drift']",237999,46,0.173,0.014,1,-20.717,1,0.042,0.961,0.826,0.0801,0.0396,89.776,4
+This Barren Land,Singing Stones,Jasper TX,2009,"['swedish experimental', 'warm drone']",361253,28,0.0687,0.021,7,-27.997,1,0.0481,0.702,0.8,0.112,0.0816,79.241,4
+This Barren Land,Singing Stones,Jasper TX,2009,"['swedish experimental', 'warm drone']",361253,28,0.0687,0.021,7,-27.997,1,0.0481,0.702,0.8,0.112,0.0816,79.241,4
+Lizard Point - Remastered 2004,Ambient 4: On Land,Brian Eno,1982-03-01,"['ambient', 'art pop', 'art rock', 'compositional ambient', 'dance rock', 'drone', 'experimental', 'experimental ambient', 'fourth world', 'glam rock', 'minimalism']",274306,40,0.136,0.0108,1,-35.954,1,0.0343,0.897,0.813,0.147,0.0312,88.529,4
+Subtext,Translucence + Drift Music,John Foxx,2003-08-25,"['ambient', 'art rock', 'dance rock', 'laboratorio', 'new romantic', 'new wave', 'synthpop']",359680,43,0.109,0.00459,9,-32.667,0,0.0338,0.989,0.89,0.0796,0.0441,70.122,3
+Drifter,You Were Always an Island,Alaskan Tapes,2018-07-18,"['compositional ambient', 'focus']",211306,23,0.279,0.221,11,-25.125,1,0.232,0.9,0.922,0.405,0.0403,140.631,4
+Musicbox,Musicbox,Amy Yeager,2016-12-18,['calming instrumental'],148098,43,0.681,0.0808,7,-18.979,1,0.0653,0.983,0.957,0.115,0.51,79.998,4
+Fantasazing,Fantasazing,Agatha Reilly,2016-10-16,['background music'],192352,60,0.33,0.005,5,-34.638,1,0.0499,0.994,0.976,0.109,0.0749,85.067,4
+Fantasazing,Fantasazing,Agatha Reilly,2016-10-16,['background music'],192352,60,0.33,0.005,5,-34.638,1,0.0499,0.994,0.976,0.109,0.0749,85.067,4
+Maybe They Will Sing for Us Tomorrow,Maybe They Will Sing for Us Tomorrow,Hammock,2008-08-06,"['ambient worship', 'compositional ambient', 'focus', 'post-rock', 'space ambient']",308906,46,0.114,0.241,0,-15.954,1,0.0462,0.685,0.916,0.0501,0.0398,77.945,3
+At the Mercy of the Waves,Holly Lane,Clem Leek,2010-08-30,"['compositional ambient', 'focus', 'nu age']",299680,51,0.207,0.387,4,-22.162,1,0.0825,0.96,0.97,0.751,0.0542,136.692,4
+The Girl Plays,To Jan,Leonard Anderson,2016-12-17,['focus'],188411,44,0.385,0.0178,3,-25.191,1,0.0539,0.99,0.944,0.134,0.134,106.586,4
+Simplicity,"Ambient Compilation, Vol. 2: Sound Therapy",Various Artists,2018-02-20,[],156000,38,0.232,0.226,5,-18.846,1,0.0388,0.963,0.931,0.198,0.0384,78.588,4
+Radiant City,Bordeaux,Robin Guthrie,2011-02-18,"['ambient', 'art rock', 'compositional ambient', 'dream pop', 'drone', 'ethereal wave', 'fourth world']",293480,42,0.223,0.0828,2,-24.326,1,0.0563,0.99,0.828,0.0828,0.0359,129.825,4
+All Was Quiet,You Were Always an Island,Alaskan Tapes,2018-07-18,"['compositional ambient', 'focus']",279986,31,0.352,0.121,1,-22.297,1,0.0425,0.95,0.924,0.106,0.0272,123.994,5
+Girl Nap,The Effective Disconnect,Brian McBride,2010-10-25,"['ambient', 'compositional ambient', 'drift', 'drone', 'nu age']",231213,35,0.0946,0.181,4,-20.99,1,0.0361,0.953,0.915,0.118,0.0328,77.092,3
+Kiss the Sky,Voices and Choices,Shawn Lee's Ping Pong Orchestra,2006-01-30,['funk'],218746,54,0.575,0.68,6,-7.109,0,0.0281,0.0977,0.572,0.198,0.241,85.279,4
+Missed the Boat,We Were Dead Before The Ship Even Sank,Modest Mouse,2007-03-20,"['alternative rock', 'dance-punk', 'double drumming', 'indie pop', 'indie rock', 'modern rock', 'rock', 'washington indie']",264813,61,0.71,0.698,2,-5.797,1,0.0332,0.0697,0.0,0.478,0.852,104.007,4
+October,Broken Bells,Broken Bells,2010-03-01,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",218106,50,0.546,0.627,6,-5.091,0,0.0276,0.123,3.68e-06,0.0923,0.41,143.996,4
+Simple Song,Port Of Morrow,The Shins,2012-03-16,"['albuquerque indie', 'alternative rock', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'portland indie', 'stomp and holler']",255400,63,0.546,0.878,7,-5.137,1,0.0525,0.0133,0.0,0.135,0.35,119.945,4
+Mountain at My Gates,What Went Down,Foals,2015-08-28,"['alternative dance', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'new rave', 'oxford indie', 'rock']",244293,67,0.495,0.931,2,-5.336,0,0.0469,0.0025,0.0783,0.246,0.617,104.05,4
+The Angel and the Fool,After the Disco,Broken Bells,2014-01-13,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",195080,43,0.597,0.323,5,-11.992,1,0.039,0.613,0.828,0.0799,0.358,75.006,4
+Lazy Wonderland,After the Disco,Broken Bells,2014-01-13,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",201786,37,0.649,0.436,3,-8.01,1,0.0266,0.481,1.62e-05,0.0758,0.614,124.939,4
+Leave It Alone,After the Disco,Broken Bells,2014-01-13,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",330853,42,0.499,0.444,1,-8.749,1,0.026,0.641,0.00348,0.122,0.484,141.987,4
+Holding on for Life,After the Disco,Broken Bells,2014-01-13,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",236866,54,0.342,0.587,11,-7.273,0,0.0537,0.00648,0.0995,0.207,0.484,168.847,4
+Sense of Insanity - Radio Edit,Sense of Insanity,Blackfield,2013-08-20,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",169388,6,0.422,0.738,11,-6.796,1,0.0318,4.61e-05,0.302,0.0976,0.218,112.039,4
+Sense of Insanity - Radio Edit,Sense of Insanity,Blackfield,2013-08-20,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",169388,6,0.422,0.738,11,-6.796,1,0.0318,4.61e-05,0.302,0.0976,0.218,112.039,4
+Gone Away,Life Left To Go,SafetySuit,2008-01-01,"['acoustic pop', 'neo mellow', 'pop rock']",336000,35,0.438,0.457,2,-5.687,1,0.0326,0.0446,2.03e-05,0.11,0.13,118.256,3
+Flagpole Sitta,Flagpole Sitta,Broken Anchor,2012-11-15,[],265925,22,0.637,0.364,3,-13.427,1,0.0305,0.459,0.0592,0.0845,0.343,107.994,4
+Simple Season,Landmark,Hippo Campus,2017-02-24,"['indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'minneapolis indie', 'modern alternative rock', 'modern rock']",207133,50,0.598,0.784,8,-4.376,1,0.0337,0.514,0.0,0.123,0.597,105.009,4
+Buttercup,Landmark,Hippo Campus,2017-02-24,"['indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'minneapolis indie', 'modern alternative rock', 'modern rock']",226610,69,0.623,0.763,9,-4.412,1,0.0719,0.199,6.52e-06,0.126,0.199,108.871,4
+This Ticonderoga,The Getaway,Red Hot Chili Peppers,2016-06-17,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",215200,52,0.238,0.949,8,-4.575,1,0.247,0.016,0.0,0.0864,0.405,87.843,4
+Cream On Chrome - Single Edit,Cream On Chrome,Ratatat,2015-04-13,"['alternative dance', 'new rave']",235362,53,0.79,0.692,7,-4.704,0,0.0532,0.0275,0.369,0.528,0.82,100.264,4
+Wildcat,Classics,Ratatat,2006-08-22,"['alternative dance', 'new rave']",260173,56,0.703,0.718,1,-7.522,1,0.0669,0.0479,0.432,0.0415,0.785,115.993,4
+Loud Pipes,Classics,Ratatat,2006-08-22,"['alternative dance', 'new rave']",226533,60,0.718,0.703,7,-7.162,0,0.0382,0.109,0.822,0.208,0.858,87.975,4
+Sleep Through the Downpour,Magical Rain Sounds,Rain Sounds,2015-12-27,"['environmental', 'sleep']",261276,26,0.164,1.0,9,-12.364,1,0.0452,0.121,0.938,0.944,0.00684,89.249,4
+Sleep Through the Night,Sleeping Music: Relaxing and Soothing Music to Help You Sleep and Cure Insomnia,Deep Sleep Music Collective,2016-10-11,['sleep'],153756,30,0.174,0.000525,1,-41.19,1,0.0534,0.992,0.807,0.131,0.0384,73.369,4
+Shame,Migrant (Deluxe),The Dear Hunter,2013-04-02,"['dreamo', 'progressive jazz fusion', 'progressive post-hardcore']",244120,30,0.637,0.443,0,-6.701,0,0.0266,0.183,0.00997,0.0914,0.426,137.054,4
+Hush,7 Layers,Dotan,2014-01-31,"['dutch pop', 'dutch rock', 'folk-pop']",268863,19,0.668,0.0433,6,-19.855,1,0.0928,0.948,0.000272,0.0928,0.171,87.277,4
+Motorcycle Drive By,Third Eye Blind,Third Eye Blind,1997-04-08,"['alternative rock', 'neo mellow', 'pop punk', 'pop rock', 'post-grunge', 'rock']",262626,59,0.422,0.577,0,-9.292,1,0.0263,0.0127,0.000861,0.0848,0.615,122.506,4
+No. 1 Party Anthem,AM,Arctic Monkeys,2013-09-09,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",243131,66,0.505,0.698,0,-5.563,1,0.0297,0.33,0.0887,0.0966,0.599,115.013,4
+Lately,Keep Your Eyes Ahead,The Helio Sequence,2008-01-29,"['indie rock', 'portland indie']",250800,39,0.44,0.834,9,-4.9,1,0.0403,0.000411,3.23e-05,0.211,0.16,117.011,4
+Yesterdays,Oh! Gravity.,Switchfoot,2006-12-28,"['ccm', 'christian alternative rock', 'christian music', 'christian rock', 'neo mellow', 'pop rock', 'worship']",244906,35,0.587,0.613,2,-7.937,1,0.0273,0.272,0.0537,0.135,0.336,114.0,4
+Preaching The End Of The World,Worst Year Ever,Various Artists,2020-08-21,[],278893,0,0.488,0.645,9,-4.161,1,0.0295,0.162,0.0,0.117,0.298,129.929,4
+Home,Secret Garden,Tracey Chattaway,2017-01-05,['focus'],293456,31,0.51,0.351,0,-12.356,1,0.0292,0.245,0.801,0.11,0.111,139.976,4
+Prey,Wiped Out!,The Neighbourhood,2015-10-30,"['modern alternative rock', 'modern rock', 'pop', 'rock']",282640,65,0.517,0.779,9,-5.005,0,0.0477,0.0258,0.0,0.0622,0.197,115.206,4
+Autumn,Dreamer,Haste The Day,2008-01-01,"['christian hardcore', 'christian metal', 'christian rock', 'melodic metalcore', 'metalcore', 'screamo']",182720,27,0.517,0.343,3,-8.217,0,0.0259,0.714,6.14e-05,0.104,0.123,135.669,4
+Ever Alone,Remembrances (Instrumentals),The Soul's Release,2016-02-21,['compositional ambient'],352000,15,0.396,0.305,6,-16.898,0,0.0309,0.724,0.865,0.204,0.0342,75.025,4
+California,Descended Like Vultures,Rogue Wave,2005-10-25,"['bay area indie', 'indie pop', 'indie rock', 'modern rock', 'noise pop', 'oakland indie', 'shimmer pop', 'stomp and holler']",246800,38,0.677,0.239,0,-13.239,1,0.0303,0.902,0.251,0.0931,0.326,100.022,4
+I Will Be Silent,Paper House,Over the Ocean,2011-07-26,[],485200,21,0.41,0.495,6,-11.079,0,0.0372,0.0441,0.79,0.216,0.0395,118.072,4
+Warning Sign,A Rush of Blood to the Head,Coldplay,2002-08-08,"['permanent wave', 'pop']",331133,62,0.534,0.434,3,-9.423,1,0.0277,0.0932,0.0126,0.142,0.0395,140.632,4
+Hide and Seek,Convergences,Antoine Dufour,2010-04-27,['fingerstyle'],270866,34,0.622,0.0996,9,-14.996,1,0.098,0.909,0.802,0.361,0.178,119.634,4
+Parlez-Moi D'amour,Midnight in Paris (Music from the Motion Picture),Various Artists,2011-12-09,[],180240,40,0.195,0.314,7,-11.28,1,0.0335,0.97,0.849,0.153,0.089,138.992,4
+Spectre,Awake,Tycho,2014-03-18,"['chillwave', 'downtempo', 'indietronica', 'intelligent dance music']",226911,45,0.651,0.72,5,-7.278,0,0.0396,0.497,0.903,0.114,0.39,128.017,4
+Stay,Forget Gravity,Forget Gravity,2014-04-03,[],428300,2,0.355,0.444,11,-7.263,0,0.026,0.0548,0.201,0.137,0.0941,155.974,4
+Cinnamon,Tunnels,Jome,2017-11-03,['folk-pop'],204000,57,0.45,0.472,8,-11.422,0,0.0488,0.588,0.000182,0.111,0.234,139.867,4
+Waiting Phase Two,Signify (Remaster),Porcupine Tree,1996-06-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",375840,24,0.522,0.474,1,-14.618,0,0.0415,0.17,0.852,0.0894,0.332,93.974,4
+The Sifter,Nautical Operator,Nautical Operator,2017-01-19,[],290716,6,0.683,0.568,3,-11.048,1,0.149,0.664,0.0524,0.116,0.455,157.208,4
+Not The One,Hurt & The Merciless,The Heavy,2016-04-01,"['bath indie', 'funk', 'garage rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'rock']",232164,27,0.732,0.919,8,-1.263,0,0.0661,0.0275,0.00031,0.0687,0.764,93.008,4
+How You Like Me Now - Original,How You Like Me Now EP,The Heavy,2010-11-29,"['bath indie', 'funk', 'garage rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'rock']",217493,37,0.647,0.71,0,-4.692,1,0.029,0.000973,0.703,0.0777,0.268,110.059,4
+Iris,"Cover Sessions, Vol. 3",Hannah Trigwell,2014-10-07,"['channel pop', 'viral pop']",174216,36,0.387,0.253,0,-10.985,1,0.0405,0.901,1.53e-06,0.125,0.348,116.7,3
+San Diego,California,blink-182,2016-07-01,"['pop punk', 'punk', 'socal pop punk']",192946,53,0.478,0.947,0,-3.644,1,0.0778,0.000816,0.0,0.394,0.524,158.004,4
+Wonder,Make my story,Lenny code fiction,2018-08-22,[],311440,16,0.438,0.911,3,-4.13,1,0.0361,0.00346,0.0,0.199,0.501,159.956,4
+Kageninaru,Make my story,Lenny code fiction,2018-08-22,[],288600,23,0.365,0.969,0,-3.86,1,0.0878,0.00231,0.0,0.338,0.548,174.002,4
+Kageninaru,Make my story,Lenny code fiction,2018-08-22,[],288600,23,0.365,0.969,0,-3.86,1,0.0878,0.00231,0.0,0.338,0.548,174.002,4
+"Wait Until Tomorrow - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,2008,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",259160,48,0.49,0.908,1,-6.784,1,0.0658,0.0151,0.00147,0.699,0.738,117.948,4
+"Wait Until Tomorrow - Live at the Nokia Theatre, Los Angeles, CA - December 2007",Where the Light Is: John Mayer Live In Los Angeles,John Mayer,2008,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",259160,48,0.49,0.908,1,-6.784,1,0.0658,0.0151,0.00147,0.699,0.738,117.948,4
+Idioteque,Kid A,Radiohead,2000-10-01,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",309093,60,0.615,0.931,3,-7.8,1,0.24,0.0352,2.37e-05,0.0914,0.53,137.544,3
+I Don't Know,"Where Will We Go, Pt. 2",Nick Hakim,2014-09-15,"['alternative r&b', 'indie jazz', 'indie r&b', 'indie soul', 'indietronica', 'neo r&b']",299839,59,0.512,0.313,2,-9.528,1,0.0392,0.722,0.0163,0.112,0.116,110.237,4
+Cucurucu,First Mind,Nick Mulvey,2014-05-12,"['british singer-songwriter', 'cambridgeshire indie', 'indie anthem-folk', 'indie folk', 'indie soul', 'neo mellow']",267573,59,0.559,0.611,6,-7.932,0,0.0538,0.173,4.38e-05,0.0839,0.481,97.006,4
+Teen Titans Go Theme Song,Teen World On!,Kids Superstars,2018-01-08,[],61749,43,0.566,0.939,4,-6.404,0,0.0847,0.207,0.0,0.346,0.664,169.178,4
+Teen Titans Theme,Hi Hi Puffy AmiYumi,Puffy AmiYumi,1996,"['anime latino', 'j-pop', 'j-pop girl group', 'j-rock']",186440,50,0.45,0.938,0,-3.248,1,0.0729,0.029,0.000239,0.338,0.722,165.036,4
+Clarity,Sounding Point,Julian Lage,2009-01-01,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",354000,13,0.497,0.357,4,-15.144,1,0.0358,0.957,0.858,0.0842,0.426,114.279,4
+Calder,ROOM,Nels Cline,2014-11-24,"['experimental guitar', 'free improvisation', 'jazz guitar']",273666,11,0.444,0.0875,0,-21.225,1,0.0477,0.911,0.781,0.112,0.124,115.78,4
+"Bullwinkle, Pt. II",Surfers' Pajama Party (US Release),The Centurians,2005-02-08,['surf music'],136546,53,0.4,0.348,7,-15.4,0,0.037,0.773,0.78,0.0889,0.331,157.808,4
+Burning In The Sun,Burning In The Sun,Blue Merle,2005-01-01,['acoustic pop'],245693,35,0.558,0.827,4,-5.234,1,0.029,0.0166,0.019,0.135,0.361,143.066,4
+Knuckles (Acoustic),Stay Beautiful,Moose Blood,2016-09-08,"['alternative emo', 'anthem emo', 'emo', 'kent indie', 'modern alternative rock']",227349,49,0.565,0.356,6,-7.97,1,0.0291,0.821,0.000412,0.102,0.0942,124.809,4
+Natural Disasters,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",228946,29,0.445,0.632,0,-7.986,1,0.0268,0.00829,2.43e-06,0.211,0.514,139.68,4
+We Found Each Other in the Dark,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",262320,41,0.447,0.33,0,-11.626,1,0.0275,0.169,0.0,0.0777,0.2,110.172,3
+Harder Than Stone - Acoustic,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",227751,34,0.578,0.236,10,-14.032,1,0.0287,0.822,0.0177,0.109,0.348,154.802,4
+Of Space and Time - Acoustic,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",198218,32,0.607,0.336,3,-11.854,1,0.0284,0.603,8.17e-06,0.101,0.337,86.042,4
+The Way It Used to Be - Bonus,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",250414,40,0.548,0.301,9,-10.164,1,0.0305,0.584,0.0,0.166,0.12,96.652,4
+Death's Song,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",282995,34,0.54,0.434,2,-8.937,1,0.0277,0.0471,0.0,0.112,0.0974,130.037,4
+The Golden State,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",317968,39,0.329,0.216,10,-13.485,1,0.0307,0.289,7.1e-05,0.115,0.225,75.434,4
+Ladies and Gentlemen,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",245422,33,0.386,0.552,9,-8.507,0,0.0293,0.343,2.8e-05,0.124,0.256,132.612,4
+Two Coins,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",331582,41,0.495,0.402,8,-10.041,0,0.0283,0.00513,3.74e-05,0.0892,0.379,133.216,4
+Thirst,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",206502,44,0.642,0.605,6,-8.184,0,0.0428,0.00351,0.0,0.0873,0.594,120.062,4
+Commentators,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",214728,33,0.376,0.429,6,-9.469,0,0.0304,0.00704,2.96e-05,0.115,0.831,206.093,4
+"Paradise - Live In Fredericton, NB May 8th, 2017",Guide Me Back Home (Live),City and Colour,2018-10-05,"['canadian folk', 'canadian indie']",319433,35,0.522,0.269,0,-14.127,1,0.17,0.849,0.0,0.692,0.432,129.809,4
+The Lonely Life,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",273582,36,0.476,0.546,7,-7.634,0,0.0269,0.00521,0.0,0.247,0.388,128.393,4
+Of Space and Time,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",212782,41,0.378,0.448,0,-9.724,0,0.025,0.142,0.0,0.112,0.204,84.022,4
+Harder Than Stone - Acoustic,The Hurry and the Harm,City and Colour,2013-06-04,"['canadian folk', 'canadian indie']",227751,34,0.578,0.236,10,-14.032,1,0.0287,0.822,0.0177,0.109,0.348,154.802,4
+Orion,Techstar,Shawn Lee's Ping Pong Orchestra,2017-11-24,['funk'],236229,11,0.56,0.896,5,-6.901,1,0.0422,0.00337,0.881,0.12,0.337,99.776,4
+Orion,Techstar,Shawn Lee's Ping Pong Orchestra,2017-11-24,['funk'],236229,11,0.56,0.896,5,-6.901,1,0.0422,0.00337,0.881,0.12,0.337,99.776,4
+Ride It,My Own Way (Hindi Version),Jay Sean,2008-05-01,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'urban contemporary']",188693,20,0.711,0.642,11,-5.675,0,0.117,0.244,0.0,0.502,0.725,93.928,4
+Go On,Sleep Through The Static,Jack Johnson,2008,['neo mellow'],274813,58,0.744,0.318,11,-12.458,0,0.0342,0.73,0.0166,0.104,0.21,110.127,4
+All At Once,Sleep Through The Static,Jack Johnson,2008,['neo mellow'],217720,58,0.628,0.353,0,-11.363,1,0.0365,0.504,0.000332,0.152,0.224,110.468,4
+"Run, Don't Walk Away",Deluxe,Will Sessions,2017-04-21,['detroit indie'],368627,31,0.348,0.83,5,-6.296,0,0.102,0.195,0.162,0.153,0.678,79.998,4
+The Importance of Being Idle,Don't Believe the Truth,Oasis,2005-05-31,"['beatlesque', 'britpop', 'madchester', 'modern rock', 'permanent wave', 'rock']",219826,34,0.569,0.874,9,-2.093,0,0.0329,0.0444,0.0,0.11,0.596,109.855,4
+Same Mistake,All the Lost Souls,James Blunt,2007-09-17,"['neo mellow', 'pop', 'pop rock']",298186,63,0.46,0.509,10,-7.666,1,0.0263,0.466,0.000434,0.122,0.194,77.613,4
+Goodbye My Lover,Back to Bedlam,James Blunt,2005-08-08,"['neo mellow', 'pop', 'pop rock']",258653,69,0.432,0.261,4,-12.591,1,0.0512,0.953,0.00342,0.0903,0.273,89.567,4
+21st Century Breakdown,21st Century Breakdown,Green Day,2009-05-15,"['permanent wave', 'pop punk', 'punk']",309106,56,0.298,0.963,1,-3.105,1,0.0473,0.0108,0.0,0.178,0.407,114.944,4
+Kings of the Weekend,California,blink-182,2016-07-01,"['pop punk', 'punk', 'socal pop punk']",176426,46,0.568,0.932,7,-2.925,1,0.0987,0.00271,0.0,0.047,0.752,88.519,4
+Anthem Part Two,Take Off Your Pants And Jacket,blink-182,2001,"['pop punk', 'punk', 'socal pop punk']",227200,63,0.552,0.932,0,-3.782,1,0.0426,0.000102,0.0,0.119,0.518,103.108,4
+The Music of Erich Zann,A Dollop of HP,I Monster,2017-12-01,"['downtempo', 'electronica', 'trip hop']",1110081,11,0.322,0.674,2,-11.65,1,0.171,0.27,0.000193,0.396,0.286,98.291,5
+Daydream in Blue - Playdream Mix,Remixed,I Monster,2012-09-03,"['downtempo', 'electronica', 'trip hop']",277853,10,0.795,0.653,0,-5.166,0,0.0278,0.0803,0.275,0.167,0.677,100.994,4
+The Garden,A Dollop of HP,I Monster,2017-12-01,"['downtempo', 'electronica', 'trip hop']",128379,9,0.376,0.554,1,-12.257,1,0.0531,0.302,0.00902,0.108,0.174,93.651,4
+Sickly Suite Part Three: Gone,A Dense Swarm of Ancient Stars,I Monster,2009-03-16,"['downtempo', 'electronica', 'trip hop']",57760,12,0.274,0.113,2,-22.474,0,0.0442,0.0752,0.225,0.442,0.48,83.789,3
+Lucifer You Are a Devil,Rare,I Monster,2012-09-03,"['downtempo', 'electronica', 'trip hop']",169602,15,0.383,0.836,7,-4.944,0,0.0524,0.000707,0.000199,0.75,0.631,99.624,4
+Machines,Rare,I Monster,2012-09-03,"['downtempo', 'electronica', 'trip hop']",213972,6,0.547,0.955,3,-7.398,0,0.111,0.325,0.313,0.716,0.773,153.752,4
+The Bradley Brothers Realise the Transmutation of the Chamberlin to the Mellotron - Instrumental,Bright Sparks (Instrumental),I Monster,2016-10-21,"['downtempo', 'electronica', 'trip hop']",223577,5,0.527,0.674,2,-8.143,0,0.0284,0.0555,0.804,0.163,0.49,127.623,4
+Suicide Saturday,Dissemble,AUTOBAHN,2015-08-21,['dark post-punk'],298090,1,0.19,0.893,9,-4.499,0,0.0529,8.9e-06,0.923,0.128,0.164,119.622,4
+Close to Gold (Live from Chicago),Alive In Chicago,Hippo Campus,2015-09-18,"['indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'minneapolis indie', 'modern alternative rock', 'modern rock']",210760,18,0.291,0.693,0,-7.893,1,0.0561,0.128,3.48e-06,0.672,0.337,95.235,3
+I Feel It Coming,Starboy,The Weeknd,2016-11-25,"['canadian contemporary r&b', 'canadian pop', 'pop']",269186,81,0.773,0.819,0,-5.946,0,0.118,0.428,0.0,0.0679,0.585,92.987,4
+rockstar (feat. 21 Savage),beerbongs & bentleys,Post Malone,2018-04-27,"['dfw rap', 'melodic rap', 'rap']",218146,87,0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,4
+Friendly Fires,Better Nature,Silversun Pickups,2015-09-25,"['alternative metal', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'rock']",328773,35,0.486,0.39,1,-8.641,1,0.0264,0.221,0.0734,0.0863,0.0478,81.98,4
+Angel,Angel,Taher Shah,2016-04-08,['classic pakistani pop'],347520,11,0.597,0.536,2,-8.536,0,0.0276,0.42,0.000358,0.291,0.307,125.073,4
+This Is America,This Is America,Childish Gambino,2018-05-06,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",225773,78,0.854,0.463,5,-6.159,1,0.137,0.117,0.0,0.354,0.549,120.024,4
+Rolex,Rolex,Ayo & Teo,2017-03-15,"['social media pop', 'trap']",238586,74,0.804,0.886,1,-2.512,1,0.04,0.0837,0.0,0.266,0.789,144.946,4
+Crazy Crazy Nights,Crazy Nights,KISS,1987-09-18,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal', 'rock']",227600,61,0.591,0.87,7,-6.381,1,0.0652,0.409,0.0,0.718,0.747,121.682,4
+Crazy Crazy Nights,Crazy Nights,KISS,1987-09-18,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal', 'rock']",227600,61,0.591,0.87,7,-6.381,1,0.0652,0.409,0.0,0.718,0.747,121.682,4
+Fix Me,Colors,Beck,2017-10-13,"['alternative rock', 'anti-folk', 'modern rock', 'permanent wave', 'rock']",193393,42,0.6,0.565,0,-8.937,1,0.0222,0.0833,0.786,0.115,0.351,79.962,4
+Fix Me,Colors,Beck,2017-10-13,"['alternative rock', 'anti-folk', 'modern rock', 'permanent wave', 'rock']",193393,42,0.6,0.565,0,-8.937,1,0.0222,0.0833,0.786,0.115,0.351,79.962,4
+Give It Away,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,1991-09-24,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",282906,74,0.666,0.936,7,-9.919,1,0.0476,0.00244,0.086,0.153,0.776,91.577,4
+Give It Away,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,1991-09-24,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",282906,74,0.666,0.936,7,-9.919,1,0.0476,0.00244,0.086,0.153,0.776,91.577,4
+Shallow Be Thy Game,One Hot Minute (Deluxe Edition),Red Hot Chili Peppers,1995-09-12,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",273933,38,0.488,0.977,9,-4.701,1,0.0938,2.83e-05,0.105,0.082,0.48,117.067,4
+Shallow Be Thy Game,One Hot Minute (Deluxe Edition),Red Hot Chili Peppers,1995-09-12,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",273933,38,0.488,0.977,9,-4.701,1,0.0938,2.83e-05,0.105,0.082,0.48,117.067,4
+So Much I,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",224440,49,0.374,0.988,4,-1.911,1,0.169,0.117,1.52e-06,0.173,0.405,149.146,4
+Warlocks,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",205733,51,0.671,0.984,7,-2.381,1,0.0955,0.0561,0.0,0.113,0.871,97.743,4
+Warlocks,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",205733,51,0.671,0.984,7,-2.381,1,0.0955,0.0561,0.0,0.113,0.871,97.743,4
+Look Around,I'm with You,Red Hot Chili Peppers,2011-08-29,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",208000,60,0.56,0.953,7,-2.372,0,0.0851,0.005,1.6e-05,0.226,0.519,111.911,4
+Wet Sand,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",309800,64,0.313,0.753,4,-3.921,0,0.0285,0.0313,2.25e-06,0.142,0.514,176.748,4
+Weird Fishes / Arpeggi,Live from Beacon Theatre,Umphrey's McGee,2013-02-07,['jam band'],438880,38,0.294,0.625,11,-10.014,0,0.0366,0.44,0.281,0.611,0.329,157.493,4
+Perfect World,Blackfield,Blackfield,2004-02-22,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",232373,7,0.444,0.503,9,-8.747,0,0.0289,0.076,0.000168,0.283,0.163,131.001,4
+Eye of the Tiger,Rocky IV,Various Artists,1985,[],245640,77,0.817,0.599,0,-9.249,0,0.0328,0.132,0.000311,0.0873,0.548,108.873,4
+Migratory Birds,Settlers,Western Skies Motel,2016-04-22,['american primitive'],230466,37,0.372,0.323,10,-18.925,0,0.0331,0.897,0.915,0.109,0.338,180.064,4
+Parachutes,Parachutes,Coldplay,2000-07-10,"['permanent wave', 'pop']",46200,58,0.555,0.0845,4,-18.348,1,0.0518,0.871,2.27e-06,0.138,0.375,136.978,4
+Let's Disappear - Radio Edit,Let's Disappear,The Boxer Rebellion,2016-10-28,['indie rock'],235640,10,0.654,0.885,1,-6.261,1,0.0383,0.333,0.48,0.12,0.49,120.001,4
+In The Waiting Line,Simple Things,Zero 7,2001,"['downtempo', 'electronica', 'nu jazz', 'trip hop']",271520,64,0.561,0.33,5,-13.51,1,0.0268,0.76,0.134,0.106,0.378,79.01,4
+Dynamite,Rokstarr,Taio Cruz,2010-01-01,"['dance pop', 'edm', 'pop', 'pop rap']",203866,73,0.754,0.804,4,-3.177,1,0.0853,0.00332,0.0,0.0329,0.818,119.968,4
+Dynamite,Rokstarr,Taio Cruz,2010-01-01,"['dance pop', 'edm', 'pop', 'pop rap']",203866,73,0.754,0.804,4,-3.177,1,0.0853,0.00332,0.0,0.0329,0.818,119.968,4
+Powerlines,The Western States Motel,The Western States Motel,2007-01-01,[],173320,33,0.522,0.4,0,-10.695,1,0.0279,0.824,0.214,0.139,0.365,131.007,4
+Makeba,Zanaka (Deluxe),Jain,2016-11-25,['french indie pop'],248986,57,0.825,0.663,2,-9.414,1,0.0687,0.423,0.415,0.286,0.417,116.051,4
+Bones of Ribbon,Truth Is a Beautiful Thing (Deluxe),London Grammar,2017-06-09,"['metropopolis', 'nottingham indie']",274026,46,0.551,0.674,9,-6.09,1,0.0282,0.221,0.228,0.0907,0.275,135.963,4
+Big Picture - Lindstrøm & Prins Thomas Remix,Big Picture (Remix) - EP,London Grammar,2017-02-24,"['metropopolis', 'nottingham indie']",514826,15,0.616,0.871,0,-6.85,1,0.0314,0.0515,0.484,0.132,0.398,118.995,4
+Big Picture - Lindstrøm & Prins Thomas Remix,Big Picture (Remix) - EP,London Grammar,2017-02-24,"['metropopolis', 'nottingham indie']",514826,15,0.616,0.871,0,-6.85,1,0.0314,0.0515,0.484,0.132,0.398,118.995,4
+Hours of Wealth,Ghost Reveries,Opeth,2005-08-30,"['alternative metal', 'death metal', 'metal', 'progressive metal', 'rock', 'swedish metal', 'swedish progressive metal']",320453,41,0.287,0.184,9,-14.591,0,0.0359,0.828,0.0654,0.105,0.109,138.614,4
+Lately,Blackfield V,Blackfield,2017-02-10,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",205027,22,0.433,0.737,10,-8.957,1,0.0385,0.0102,0.00107,0.475,0.194,140.017,4
+Lately,Blackfield V,Blackfield,2017-02-10,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",205027,22,0.433,0.737,10,-8.957,1,0.0385,0.0102,0.00107,0.475,0.194,140.017,4
+Lately,Blackfield V,Blackfield,2017-02-10,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",205027,22,0.433,0.737,10,-8.957,1,0.0385,0.0102,0.00107,0.475,0.194,140.017,4
+Lately,Blackfield V,Blackfield,2017-02-10,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",205027,22,0.433,0.737,10,-8.957,1,0.0385,0.0102,0.00107,0.475,0.194,140.017,4
+Et sted,Riv i hjertet,Sondre Justad,2015-10-22,"['norges stemme', 'norwegian indie', 'norwegian pop', 'norwegian singer-songwriter']",194506,28,0.499,0.576,11,-8.134,0,0.0352,0.00912,4.07e-05,0.269,0.0787,96.097,4
+Everyone's A Loser,Neveroddoreven,I Monster,2005-01-27,"['downtempo', 'electronica', 'trip hop']",195680,42,0.639,0.876,5,-6.074,0,0.0577,0.126,0.779,0.368,0.965,156.671,4
+Heaven,Neveroddoreven,I Monster,2005-01-27,"['downtempo', 'electronica', 'trip hop']",237440,42,0.41,0.656,9,-6.97,1,0.0317,0.521,0.000344,0.103,0.0871,79.978,4
+Who Is She ?,Neveroddoreven,I Monster,2005-01-27,"['downtempo', 'electronica', 'trip hop']",213373,44,0.396,0.801,1,-4.014,0,0.0411,0.0742,0.00907,0.0925,0.105,152.701,4
+"Bosses Hang, Pt. III",Luciferian Towers,Godspeed You! Black Emperor,2017-09-22,"['canadian post-rock', 'double drumming', 'instrumental post-rock', 'post-rock']",324812,33,0.223,0.75,10,-8.924,1,0.0499,0.149,0.545,0.102,0.0847,125.354,3
+Seasons (Waiting On You),Singles,Future Islands,2014-03-24,"['alternative dance', 'baltimore indie', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave']",226440,66,0.498,0.721,10,-5.232,1,0.0282,0.136,0.7,0.0933,0.589,140.027,4
+Seasons,Singles - Original Motion Picture Soundtrack,Various Artists,1992-06-02,[],345133,52,0.48,0.384,10,-12.705,1,0.0304,0.181,0.105,0.124,0.194,152.184,4
+My Only Swerving,El Ten Eleven,El Ten Eleven,2005-09-20,"['american post-rock', 'instrumental post-rock', 'post-rock']",314586,51,0.521,0.627,4,-11.863,1,0.0471,0.109,0.829,0.122,0.139,171.84,4
+My Only Swerving,El Ten Eleven,El Ten Eleven,2005-09-20,"['american post-rock', 'instrumental post-rock', 'post-rock']",314586,51,0.521,0.627,4,-11.863,1,0.0471,0.109,0.829,0.122,0.139,171.84,4
+Another Kind Of Green - Live In Concert,TRY!,John Mayer Trio,2005-09-19,['modern blues'],279973,47,0.408,0.623,4,-8.054,1,0.0312,0.43,0.00105,0.707,0.371,183.202,3
+250 Miles,Brain Cycles,Radio Moscow,2009-04-14,"['blues rock', 'garage rock', 'modern blues rock', 'punk blues', 'rock', 'space rock', 'stoner rock']",292000,52,0.467,0.422,9,-11.077,0,0.0703,0.238,0.169,0.096,0.588,76.818,4
+250 Miles,Brain Cycles,Radio Moscow,2009-04-14,"['blues rock', 'garage rock', 'modern blues rock', 'punk blues', 'rock', 'space rock', 'stoner rock']",292000,52,0.467,0.422,9,-11.077,0,0.0703,0.238,0.169,0.096,0.588,76.818,4
+250 Miles,Brain Cycles,Radio Moscow,2009-04-14,"['blues rock', 'garage rock', 'modern blues rock', 'punk blues', 'rock', 'space rock', 'stoner rock']",292000,52,0.467,0.422,9,-11.077,0,0.0703,0.238,0.169,0.096,0.588,76.818,4
+250 Miles,Brain Cycles,Radio Moscow,2009-04-14,"['blues rock', 'garage rock', 'modern blues rock', 'punk blues', 'rock', 'space rock', 'stoner rock']",292000,52,0.467,0.422,9,-11.077,0,0.0703,0.238,0.169,0.096,0.588,76.818,4
+250 Miles,Brain Cycles,Radio Moscow,2009-04-14,"['blues rock', 'garage rock', 'modern blues rock', 'punk blues', 'rock', 'space rock', 'stoner rock']",292000,52,0.467,0.422,9,-11.077,0,0.0703,0.238,0.169,0.096,0.588,76.818,4
+Tip Toes,3,half•alive,2017-04-24,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",195047,61,0.68,0.789,5,-5.589,1,0.159,0.039,3.75e-06,0.112,0.54,130.029,4
+Weird Fishes/Arpeggi,Adbekunkus,Sebastián Codex,2015,[],333162,36,0.497,0.448,11,-10.482,0,0.0342,0.336,0.718,0.119,0.0973,151.994,4
+Goodnight Irene,Old Sock,Eric Clapton,2013-03-12,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'soft rock']",263306,16,0.379,0.503,9,-7.032,1,0.0292,0.796,1.18e-06,0.197,0.408,108.505,3
+Goodnight Irene,Old Sock,Eric Clapton,2013-03-12,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'soft rock']",263306,16,0.379,0.503,9,-7.032,1,0.0292,0.796,1.18e-06,0.197,0.408,108.505,3
+Pipeline,Guitar in the Space Age,Bill Frisell,2014-10-06,"['contemporary jazz', 'contemporary post-bop', 'jazz', 'jazz fusion', 'jazz guitar']",426173,47,0.395,0.691,9,-11.898,0,0.0392,0.385,0.903,0.132,0.0968,128.879,4
+Heartland,Free Flying,Fred Hersch,2013,"['contemporary jazz', 'contemporary post-bop', 'cool jazz', 'ecm-style jazz', 'jazz piano', 'modern jazz piano', 'stride']",297720,11,0.448,0.191,0,-16.794,1,0.0437,0.992,0.919,0.676,0.157,122.292,4
+Heartland,Free Flying,Fred Hersch,2013,"['contemporary jazz', 'contemporary post-bop', 'cool jazz', 'ecm-style jazz', 'jazz piano', 'modern jazz piano', 'stride']",297720,11,0.448,0.191,0,-16.794,1,0.0437,0.992,0.919,0.676,0.157,122.292,4
+Double Stops,World's Fair,Julian Lage,2015-02-03,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",110160,23,0.421,0.147,6,-21.631,1,0.0473,0.985,0.947,0.128,0.495,110.081,4
+Missouri,World's Fair,Julian Lage,2015-02-03,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",251613,34,0.4,0.263,5,-14.982,1,0.0462,0.935,0.926,0.123,0.102,127.919,4
+Brief Encounter,Still Life,Dawn Golden,2014-05-16,"['lo star', 'vapor pop']",323133,34,0.477,0.341,3,-9.98,1,0.0296,0.903,0.709,0.0962,0.0517,103.093,4
+Dog Years,Now That The Light Is Fading,Maggie Rogers,2017-02-16,"['electropop', 'pop']",277506,60,0.644,0.561,9,-7.118,1,0.0318,0.234,0.00359,0.104,0.0615,95.014,4
+Better,Now That The Light Is Fading,Maggie Rogers,2017-02-16,"['electropop', 'pop']",214973,52,0.582,0.524,5,-8.954,1,0.0358,0.209,0.113,0.347,0.0706,107.973,4
+Battered at a Scramble,Every Country's Sun,Mogwai,2017-09-01,"['british post-rock', 'cosmic post-rock', 'post-rock']",242786,18,0.126,0.843,5,-4.86,1,0.0542,2.49e-05,0.638,0.133,0.117,89.73,4
+Good Time - Live From Spotify NYC,Spotify Sessions,Owl City,2012-01-01,"['modern rock', 'pop', 'pop rock', 'post-teen pop']",204493,20,0.459,0.678,0,-8.483,1,0.0368,0.626,0.0,0.831,0.704,122.265,4
+My Little Boat,Lifenotes,Clem Leek,2011-10-25,"['compositional ambient', 'focus', 'nu age']",120000,17,0.482,0.13,4,-19.432,1,0.0396,0.992,0.914,0.0823,0.133,119.618,3
+Bones,"Once In a Long, Long While...",Low Roar,2017-04-14,['icelandic indie'],169805,47,0.508,0.411,11,-9.857,0,0.0386,0.255,0.00981,0.162,0.353,69.995,3
+Heaven,Lakeside,New Navy,2015-07-31,"['australian indie', 'shimmer pop']",298532,25,0.628,0.497,9,-9.637,0,0.0301,0.241,0.00289,0.135,0.739,144.014,4
+Raining Flowers,Raining Flowers,Gerald Situmorang,2019-04-19,['indonesian folk'],190377,38,0.208,0.35,7,-11.932,1,0.033,0.983,0.854,0.112,0.0842,189.93,3
+Dark Side of the Moon,American Soft,Chris Staples,2014-08-12,[],207000,40,0.714,0.444,2,-9.784,1,0.03,0.318,0.0162,0.0888,0.374,120.073,4
+Dark Side of the Moon,American Soft,Chris Staples,2014-08-12,[],207000,40,0.714,0.444,2,-9.784,1,0.03,0.318,0.0162,0.0888,0.374,120.073,4
+Wait! You'll Find a Better Way,The Heart Watches While the Brain Burns,Mike Doughty,2016-10-14,[],191579,27,0.761,0.604,7,-6.594,1,0.0261,0.187,0.0,0.0867,0.465,118.998,4
+In A Trance,Spark,Hiromi,2016-04-01,"['contemporary jazz', 'japanese jazz', 'japanese jazz fusion', 'jazz fusion', 'modern jazz piano']",534813,16,0.323,0.694,7,-11.596,1,0.0338,0.165,0.856,0.0917,0.65,142.787,4
+Face of Light,Pressure & Time,Rival Sons,2011-06-21,"['alternative roots rock', 'modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'rock']",268640,34,0.308,0.595,8,-6.342,0,0.0362,0.109,0.00349,0.0711,0.518,150.463,4
+Haiku,Seven Valleys,Greg Maroney,2007-01-01,"['classify', 'focus', 'neo-classical', 'new age', 'new age piano']",287493,14,0.298,0.134,3,-17.09,1,0.0377,0.995,0.898,0.106,0.0843,131.745,3
+Watch You Sleeping - Instrumental,Watch You Sleeping,Blue Foundation,2016-08-12,"['dream pop', 'electronica']",186870,16,0.303,0.185,1,-21.522,0,0.0518,0.0817,0.877,0.114,0.039,65.402,4
+Sailing to Nowhere,Broken Bells,Broken Bells,2010-03-01,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",226066,40,0.585,0.425,10,-8.174,0,0.0302,0.718,0.0581,0.254,0.143,125.928,3
+Mongrel Heart,Broken Bells,Broken Bells,2010-03-01,"['alternative dance', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'new rave', 'rock', 'shimmer pop']",263693,41,0.587,0.75,4,-5.629,0,0.0303,0.091,0.0501,0.152,0.772,146.963,4
+Taking Care Of Myself,New In Town,John Mulaney,2012-01-31,"['comedy', 'comic']",144120,42,0.653,0.877,1,-6.327,0,0.9,0.751,0.0,0.664,0.528,110.28,3
+You know who's a great lady?,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",60720,41,0.536,0.868,4,-8.972,1,0.941,0.904,0.0,0.966,0.6,69.004,4
+Law and Order and Mr. Jerry Orbach,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",476986,43,0.563,0.789,9,-6.463,1,0.919,0.876,0.0,0.904,0.469,81.958,4
+Ted and the 20 Person Plane,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",94306,41,0.603,0.696,2,-7.257,1,0.912,0.88,0.0,0.953,0.468,80.892,3
+Chase Through the Subway,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",182000,42,0.528,0.863,11,-5.989,0,0.916,0.874,0.0,0.719,0.599,74.061,3
+Blacking Out and Making Money,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",314400,45,0.576,0.863,4,-6.668,1,0.914,0.878,0.0,0.796,0.433,115.815,3
+Blacking Out and Making Money,The Top Part,John Mulaney,2009-03-24,"['comedy', 'comic']",314400,45,0.576,0.863,4,-6.668,1,0.914,0.878,0.0,0.796,0.433,115.815,3
+Dedication,Strange Bloom,Alice and Michi,2012-05-15,[],209613,4,0.417,0.331,7,-10.576,1,0.0279,0.558,0.635,0.112,0.133,84.768,4
+Soft Stud,Mother of My Children,Black Belt Eagle Scout,2018-09-14,"['indie rock', 'portland indie']",368063,45,0.55,0.728,2,-7.091,1,0.0274,0.00389,0.431,0.117,0.335,124.095,4
+Before the World Was Big,Before The World Was Big,Girlpool,2015-06-02,"['anti-folk', 'art pop', 'escape room', 'indie punk', 'indie rock']",141190,52,0.67,0.185,2,-8.377,1,0.0702,0.63,0.0,0.117,0.455,100.368,4
+White Jeans,Forever & Ever,SALES,2018-07-19,['orlando indie'],228000,48,0.722,0.75,11,-11.747,1,0.0352,0.691,0.477,0.101,0.92,120.014,4
+Cherry Picking,Before The World Was Big,Girlpool,2015-06-02,"['anti-folk', 'art pop', 'escape room', 'indie punk', 'indie rock']",215096,34,0.54,0.265,7,-11.07,1,0.0506,0.77,0.000304,0.11,0.173,101.483,4
+When You Break,Agape,Bear's Den,2013-03-17,"['folk-pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'stomp and flutter', 'stomp and holler', 'uk americana']",287933,46,0.508,0.504,5,-10.922,0,0.0491,0.605,0.0025,0.139,0.169,141.004,4
+Heroes (we could be),Forever,Alesso,2015-05-26,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'progressive electro house', 'tropical house']",210013,73,0.503,0.748,5,-4.124,1,0.0619,0.0305,0.0,0.343,0.356,125.896,4
+Under Her Spell,The Dweller,The Hope Arsenal,2018-06-26,['indie anthem-folk'],290181,13,0.361,0.483,1,-8.735,0,0.0314,0.444,0.59,0.456,0.246,165.071,3
+Painter Song,Come Away With Me,Norah Jones,2002-02-26,"['contemporary vocal jazz', 'neo mellow', 'vocal jazz']",162214,52,0.547,0.0579,9,-15.964,1,0.0416,0.838,1.46e-06,0.0976,0.371,79.633,4
+Challenge,America,Clem Leek,2017-03-31,"['compositional ambient', 'focus', 'nu age']",175172,15,0.421,0.302,9,-20.55,0,0.0376,0.777,0.00858,0.105,0.552,179.961,5
+Can We Stay Like This,I Don't Think I Can Do This Anymore,Moose Blood,2018-03-09,"['alternative emo', 'anthem emo', 'emo', 'kent indie', 'modern alternative rock']",224600,33,0.529,0.889,4,-4.756,1,0.0386,1.68e-05,8.8e-06,0.0576,0.341,110.074,4
+1979,1979,Antoine Dufour,2016-07-18,['fingerstyle'],264461,38,0.672,0.646,3,-10.965,1,0.0333,0.113,0.793,0.0815,0.698,129.994,4
+Not Naming Any Names,Dissolution,The Pineapple Thief,2018-08-31,"['art rock', 'modern progressive rock', 'neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",125442,31,0.341,0.0143,4,-29.08,0,0.0924,0.95,0.00265,0.0849,0.242,176.473,3
+London Thunder,What Went Down,Foals,2015-08-28,"['alternative dance', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'new rave', 'oxford indie', 'rock']",254426,54,0.489,0.357,6,-9.745,1,0.0259,0.641,0.333,0.0838,0.0388,92.009,4
+London Thunder,What Went Down,Foals,2015-08-28,"['alternative dance', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'new rave', 'oxford indie', 'rock']",254426,54,0.489,0.357,6,-9.745,1,0.0259,0.641,0.333,0.0838,0.0388,92.009,4
+Mr. Tambourine Man,Mr. Tambourine Man,The Byrds,1965-06-21,"['art rock', 'beatlesque', 'blues rock', 'brill building pop', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",149466,66,0.456,0.47,2,-9.564,1,0.0294,0.513,3.76e-05,0.444,0.639,120.336,4
+Pillar of Salt,Dissolution,The Pineapple Thief,2018-08-31,"['art rock', 'modern progressive rock', 'neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",85537,29,0.632,0.0668,0,-27.698,0,0.0391,0.918,0.237,0.116,0.243,128.022,4
+All That You've Got,Dissolution,The Pineapple Thief,2018-08-31,"['art rock', 'modern progressive rock', 'neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",206975,32,0.566,0.82,11,-10.497,0,0.0316,0.00112,0.109,0.0514,0.792,123.014,1
+Threatening War,Dissolution,The Pineapple Thief,2018-08-31,"['art rock', 'modern progressive rock', 'neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",397428,39,0.578,0.489,1,-13.022,0,0.0306,0.0413,0.0793,0.0933,0.266,141.007,4
+Did You Really Say No,Did You Really Say No,Oren Lavie,2016,['israeli pop'],254240,17,0.477,0.411,6,-10.251,0,0.0248,0.706,0.0049,0.109,0.264,90.983,4
+The Last Straw,Rockaholic,Warrant,2011-04-01,"['album rock', 'glam metal', 'hard rock', 'rock']",252280,21,0.445,0.939,6,-5.695,1,0.0572,0.00209,0.0,0.0637,0.568,179.964,4
+Roll with the Changes,"You Can Tune a Piano, But You Can't Tuna Fish",REO Speedwagon,1978-03-16,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'soft rock']",335826,61,0.204,0.896,0,-5.931,1,0.049,0.00266,0.0,0.152,0.653,90.6,4
+18 Til I Die - MTV Unplugged Version,MTV Unplugged,Bryan Adams,1997-01-01,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",210933,35,0.529,0.531,2,-9.375,1,0.0469,0.651,0.0,0.98,0.346,124.91,4
+Bailamos,Enrique,Enrique Iglesias,1999-11-23,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",214066,55,0.627,0.888,9,-4.523,0,0.0388,0.0528,0.00237,0.136,0.591,99.905,4
+Your Skull Is Red - Live,Woodstock Sessions Vol. 4,Team Sleep,2015-07-10,"['alternative metal', 'nu metal', 'sacramento indie']",342720,33,0.231,0.893,8,-7.38,0,0.188,0.00334,0.307,0.699,0.0398,137.841,4
+Silas The Magic Car,No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away,Mew,2009-08-17,"['danish alternative rock', 'danish rock', 'dream pop', 'melancholia']",240693,19,0.624,0.624,2,-7.911,1,0.0319,0.028,0.000638,0.125,0.428,122.04,4
+Friend Hospital,You Know Who You Are,Nada Surf,2016-03-04,['power pop'],297514,19,0.575,0.758,1,-7.03,1,0.0286,0.0375,0.000133,0.118,0.471,118.018,4
+"Stoned, Alone",Chrome Neon Jesus,Teenage Wrist,2018-03-09,"['american shoegaze', 'modern alternative rock', 'post-grunge']",189363,45,0.426,0.824,7,-3.698,1,0.0342,3.71e-05,0.0515,0.0477,0.521,82.021,4
+American Graffiti,American Graffiti,Strawberry Girls,2015-11-27,['progressive post-hardcore'],257320,27,0.218,0.861,2,-7.074,1,0.0569,0.000371,0.755,0.141,0.214,164.987,4
+Electioneering - Instrumental Version,MCP Performs Radiohead: OK Computer (Instrumental Version),Molotov Cocktail Piano,2017-05-19,['piano cover'],216243,1,0.627,0.151,0,-18.752,1,0.0357,0.952,0.927,0.147,0.31,77.987,4
+Nara,This Is All Yours,alt-J,2014-09-22,['indie rock'],296057,48,0.511,0.519,11,-7.794,0,0.0408,0.426,0.588,0.121,0.0953,146.968,4
+We Turn Red,The Getaway,Red Hot Chili Peppers,2016-06-17,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",200466,55,0.61,0.872,2,-5.428,0,0.0422,0.116,0.147,0.152,0.842,164.038,4
+We Turn Red,The Getaway,Red Hot Chili Peppers,2016-06-17,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",200466,55,0.61,0.872,2,-5.428,0,0.0422,0.116,0.147,0.152,0.842,164.038,4
+Hatsukoi - Original Karaoke,Hatsukoi / Oshaberi! Oshaberi!,Mayumi Kojima,2017-11-01,['shibuya-kei'],240066,1,0.522,0.575,2,-9.772,1,0.0443,0.0661,0.374,0.167,0.677,165.438,3
+Hatsukoi - Original Karaoke,Hatsukoi / Oshaberi! Oshaberi!,Mayumi Kojima,2017-11-01,['shibuya-kei'],240066,1,0.522,0.575,2,-9.772,1,0.0443,0.0661,0.374,0.167,0.677,165.438,3
+Hatsukoi - Original Karaoke,Hatsukoi / Oshaberi! Oshaberi!,Mayumi Kojima,2017-11-01,['shibuya-kei'],240066,1,0.522,0.575,2,-9.772,1,0.0443,0.0661,0.374,0.167,0.677,165.438,3
+Hatsukoi - Original Karaoke,Hatsukoi / Oshaberi! Oshaberi!,Mayumi Kojima,2017-11-01,['shibuya-kei'],240066,1,0.522,0.575,2,-9.772,1,0.0443,0.0661,0.374,0.167,0.677,165.438,3
+Follow the Map - Remastered,Hymn to the Immortal Wind (Anniversary Edition),MONO,2009-03-24,"['downtempo', 'instrumental post-rock', 'japanese post-rock', 'post-rock']",234306,29,0.252,0.19,4,-15.414,0,0.0345,0.978,0.896,0.0497,0.181,116.133,4
+Follow the Map - Remastered,Hymn to the Immortal Wind (Anniversary Edition),MONO,2009-03-24,"['downtempo', 'instrumental post-rock', 'japanese post-rock', 'post-rock']",234306,29,0.252,0.19,4,-15.414,0,0.0345,0.978,0.896,0.0497,0.181,116.133,4
+My Terracotta Heart,The Magic Whip,Blur,2015-04-24,"['alternative rock', 'britpop', 'dance rock', 'madchester', 'modern rock', 'permanent wave', 'pop rock', 'rock']",245026,42,0.806,0.633,9,-6.089,0,0.0314,0.434,0.000474,0.129,0.64,124.999,4
+Weird Fishes / Arpeggi,Live from Beacon Theatre,Umphrey's McGee,2013-02-07,['jam band'],438880,38,0.294,0.625,11,-10.014,0,0.0366,0.44,0.281,0.611,0.329,157.493,4
+Weird Fishes / Arpeggi,Live from Beacon Theatre,Umphrey's McGee,2013-02-07,['jam band'],438880,38,0.294,0.625,11,-10.014,0,0.0366,0.44,0.281,0.611,0.329,157.493,4
+Weird Fishes / Arpeggi,Live from Beacon Theatre,Umphrey's McGee,2013-02-07,['jam band'],438880,38,0.294,0.625,11,-10.014,0,0.0366,0.44,0.281,0.611,0.329,157.493,4
+Dreams of a Samurai,The Getaway,Red Hot Chili Peppers,2016-06-17,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",369040,52,0.387,0.674,0,-6.623,1,0.0597,0.0122,0.0129,0.102,0.277,139.751,5
+Blues Intro - Live at C.W. Mitchell Pavillion,As/Is,John Mayer,2004-10-19,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",195933,32,0.545,0.872,5,-3.248,1,0.0684,0.0195,0.805,0.732,0.787,156.963,4
+Alone Made of Ice,Kingdom of Coldness,Maldito,2016-02-12,[],332947,32,0.393,0.469,8,-8.723,0,0.043,0.693,0.0,0.166,0.0598,175.588,4
+Atlanta,No. 4,Stone Temple Pilots,1999-10-08,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'pop rock', 'post-grunge', 'rock']",318840,50,0.234,0.593,4,-7.806,0,0.0332,0.339,2.25e-05,0.212,0.175,159.976,3
+All Along the Watchtower,John Wesley Harding,Bob Dylan,1967-12-27,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']",151093,56,0.581,0.41,1,-12.617,0,0.0303,0.475,2.04e-05,0.0746,0.697,129.175,4
+Space Lion,Window Shopping,Jack Prybylski,2006-04-27,['deep smooth jazz'],445213,25,0.292,0.241,3,-13.235,1,0.0343,0.802,0.418,0.109,0.0388,149.998,4
+My Girl,The Temptations Sing Smokey,The Temptations,1965-03-22,"['classic soul', 'funk', 'memphis soul', 'motown', 'soul']",165000,80,0.572,0.418,0,-10.738,1,0.0349,0.635,0.0,0.0961,0.694,104.566,4
+Ghosting,O My Heart,Mother Mother,2008-09-23,"['indie pop', 'modern rock', 'rock', 'vancouver indie']",285986,57,0.606,0.618,11,-5.1,1,0.0258,0.325,0.0019,0.108,0.237,92.061,4
+747 (We Ran Out Of Time),Isola,kent,1998-04-27,"['swedish alternative rock', 'swedish indie rock', 'swedish pop']",468666,16,0.529,0.653,1,-9.188,1,0.0271,5.08e-05,0.807,0.361,0.178,102.512,4
+The Roadrunner Theme - Feat. Barbara Cameron,Different Hats,Doug Cameron,2008-02-18,[],146933,1,0.663,0.613,2,-9.328,1,0.0518,0.676,0.00021,0.0803,0.729,118.277,4
+Hit the Road Jack,Zou bisou bisou,Various Artists,2018-04-27,[],119986,55,0.559,0.631,8,-11.184,0,0.229,0.628,0.0,0.336,0.929,173.172,4
+I've Got a Woman,"Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,1957-01-01,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul', 'soul blues', 'vocal jazz']",171466,67,0.556,0.61,9,-4.729,1,0.213,0.833,2.22e-06,0.258,0.665,199.373,4
+Faraday Cage,Highspeeds,Elliot Moss,2015-04-28,[],222000,22,0.494,0.556,11,-9.899,0,0.0304,0.326,0.000889,0.179,0.251,135.881,4
+Time Flies - Live,Octane Twisted,Porcupine Tree,2012-11-19,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",727373,34,0.209,0.477,5,-13.451,1,0.0296,0.02,0.0496,0.922,0.176,65.307,4
+Feel So Low,Lightbulb Sun,Porcupine Tree,2000-03-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",322600,29,0.207,0.177,4,-14.553,1,0.0339,0.886,0.918,0.205,0.0541,70.175,4
+Feel So Low,Lightbulb Sun,Porcupine Tree,2000-03-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",322600,29,0.207,0.177,4,-14.553,1,0.0339,0.886,0.918,0.205,0.0541,70.175,4
+Tutti Frutti,Here's Little Richard (Deluxe Edition),Little Richard,1957-03,"['rock-and-roll', 'rockabilly', 'soul']",144226,65,0.555,0.658,5,-3.866,1,0.0541,0.793,0.0,0.118,0.937,184.835,4
+"I Want To Love You - From ""The Magic Strings Of Frankie Presto: The Musical Companion""",I Want To Love You,Mat Kearney,2015-10-30,"['acoustic pop', 'indiecoustica', 'neo mellow', 'pop rock', 'stomp and holler']",171626,10,0.591,0.896,11,-5.714,0,0.0353,0.124,0.000556,0.248,0.7,139.971,4
+"I Want To Love You - From ""The Magic Strings Of Frankie Presto: The Musical Companion""",I Want To Love You,Mat Kearney,2015-10-30,"['acoustic pop', 'indiecoustica', 'neo mellow', 'pop rock', 'stomp and holler']",171626,10,0.591,0.896,11,-5.714,0,0.0353,0.124,0.000556,0.248,0.7,139.971,4
+Canyon Moon,Andrew McMahon In The Wilderness,Andrew McMahon in the Wilderness,2014-10-14,"['hopebeat', 'indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",183354,40,0.594,0.853,8,-6.309,0,0.0339,0.0181,2.38e-05,0.14,0.835,124.018,4
+Canyon Moon,Andrew McMahon In The Wilderness,Andrew McMahon in the Wilderness,2014-10-14,"['hopebeat', 'indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",183354,40,0.594,0.853,8,-6.309,0,0.0339,0.0181,2.38e-05,0.14,0.835,124.018,4
+Canyon Moon,Andrew McMahon In The Wilderness,Andrew McMahon in the Wilderness,2014-10-14,"['hopebeat', 'indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",183354,40,0.594,0.853,8,-6.309,0,0.0339,0.0181,2.38e-05,0.14,0.835,124.018,4
+The Crane Wife 3,The Crane Wife,The Decemberists,2006-01-01,"['anti-folk', 'baroque pop', 'canadian indie', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern folk rock', 'modern rock', 'stomp and holler']",258333,50,0.588,0.613,2,-9.656,1,0.0396,0.369,0.0422,0.107,0.185,119.536,4
+Echo,Echo,Beauvois,2016-11-14,"['new french touch', 'vapor soul']",309394,48,0.633,0.196,7,-20.792,1,0.049,0.787,0.88,0.101,0.037,89.987,4
+Every Breath You Take - Remastered 2003,Every Breath You Take The Classics,The Police,2003-01-01,"['album rock', 'art rock', 'classic rock', 'dance rock', 'mellow gold', 'permanent wave', 'rock', 'soft rock']",254333,36,0.818,0.456,1,-9.814,1,0.0348,0.527,0.00364,0.0811,0.716,117.389,4
+Mr Spaceman,Mr Spaceman,Young Lions,2017-08-08,[],150374,16,0.363,0.368,0,-9.708,1,0.0405,0.824,3.09e-05,0.25,0.265,78.187,4
+Mr. Spaceman,Fifth Dimension,The Byrds,1966-07-18,"['art rock', 'beatlesque', 'blues rock', 'brill building pop', 'classic rock', 'cosmic american', 'country rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'traditional folk']",129506,46,0.583,0.708,7,-8.958,1,0.0356,0.268,0.0,0.271,0.927,107.87,4
+Little Hell,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",281680,39,0.368,0.427,5,-10.185,1,0.0277,0.11,0.0,0.107,0.179,146.282,3
+Hope for Now,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",291786,31,0.232,0.199,9,-10.018,0,0.0325,0.145,0.0,0.0727,0.0649,82.662,4
+Make Believe,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",254626,23,0.542,0.185,11,-16.706,1,0.028,0.877,0.0,0.112,0.398,94.805,3
+Weightless,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",212306,32,0.433,0.687,0,-7.335,1,0.045,0.00653,0.0,0.228,0.338,154.282,4
+The Age of Worry,"Cover Sessions, Vol. 3",Boyce Avenue,2015-04-28,"['neo mellow', 'pop', 'pop rock', 'viral pop']",150177,37,0.543,0.327,1,-9.093,1,0.0251,0.775,0.0,0.108,0.458,67.376,4
+Into the Night (feat. Chad Kroeger),Ultimate Santana,Santana,2007-09-25,"['blues rock', 'classic rock', 'mexican classic rock']",222440,60,0.595,0.844,7,-4.678,1,0.0331,0.0137,0.0,0.234,0.603,127.981,4
+Sound & Color,Sound & Color,Alabama Shakes,2015-04-21,"['alabama indie', 'indie rock', 'modern blues rock', 'rock']",183293,59,0.548,0.412,2,-7.398,1,0.0736,0.852,0.611,0.0854,0.151,114.928,4
+Sound & Color,Sound & Color,Alabama Shakes,2015-04-21,"['alabama indie', 'indie rock', 'modern blues rock', 'rock']",183293,59,0.548,0.412,2,-7.398,1,0.0736,0.852,0.611,0.0854,0.151,114.928,4
+"Only Heart - Live in Philadelphia, PA & Hartford, CT","As/Is: Philadelphia, PA/Hartford, CT - 8/14-8/15/04",John Mayer,2004-08-31,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",366546,23,0.534,0.862,5,-7.489,1,0.042,0.0034,0.0061,0.956,0.651,123.675,4
+"Only Heart - Live in Philadelphia, PA & Hartford, CT","As/Is: Philadelphia, PA/Hartford, CT - 8/14-8/15/04",John Mayer,2004-08-31,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",366546,23,0.534,0.862,5,-7.489,1,0.042,0.0034,0.0061,0.956,0.651,123.675,4
+"Only Heart - Live in Philadelphia, PA & Hartford, CT","As/Is: Philadelphia, PA/Hartford, CT - 8/14-8/15/04",John Mayer,2004-08-31,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",366546,23,0.534,0.862,5,-7.489,1,0.042,0.0034,0.0061,0.956,0.651,123.675,4
+"Only Heart - Live in Philadelphia, PA & Hartford, CT","As/Is: Philadelphia, PA/Hartford, CT - 8/14-8/15/04",John Mayer,2004-08-31,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",366546,23,0.534,0.862,5,-7.489,1,0.042,0.0034,0.0061,0.956,0.651,123.675,4
+Fire Escape,Zombies On Broadway,Andrew McMahon in the Wilderness,2017-02-10,"['hopebeat', 'indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'neo mellow', 'piano rock', 'pop rock', 'stomp and holler']",204840,53,0.583,0.862,4,-4.387,1,0.0575,0.0468,0.0,0.256,0.422,105.998,4
+Lágrima,Romantic Guitar,Julian Bream,1970,['classical guitar'],123426,35,0.49,0.0211,4,-27.365,1,0.0586,0.991,0.923,0.1,0.468,65.339,3
+The Diary of Jane - Single Version,Phobia (Clean Version),Breaking Benjamin,2006-01-01,"['alternative metal', 'nu metal', 'post-grunge']",200546,73,0.392,0.964,10,-4.441,0,0.0644,7.13e-05,0.0387,0.106,0.269,167.024,4
+We Cry,The Script,The Script,2008-09-08,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",223920,45,0.555,0.881,7,-4.604,0,0.0642,0.0479,0.0,0.351,0.663,91.883,4
+Neon Bible,Neon Bible,Arcade Fire,2007,"['alternative dance', 'alternative rock', 'baroque pop', 'canadian indie', 'dance-punk', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'permanent wave', 'quebec indie', 'rock']",136640,49,0.583,0.284,9,-19.127,1,0.1,0.909,0.468,0.0628,0.0474,86.789,4
+Bleed,while(1<2),deadmau5,2014-06-24,"['canadian electronic', 'edm', 'electro house', 'progressive house']",240847,40,0.242,0.325,8,-19.454,1,0.0465,0.915,0.956,0.13,0.231,128.018,4
+Syracuse,Summer in Abaddon,Pinback,2004-10-12,"['indie pop', 'indie rock']",229840,36,0.677,0.65,0,-9.152,1,0.0278,0.319,0.0159,0.0864,0.627,74.726,4
+Four Three,Echo Other,All India Radio,2006,"['downtempo', 'psychill', 'tassie indie']",242400,34,0.604,0.529,11,-10.967,0,0.0274,0.00765,0.829,0.0869,0.613,75.0,4
+Kusanagi,In Return,ODESZA,2014-09-08,"['chillwave', 'ninja']",208000,55,0.335,0.33,0,-8.302,1,0.031,0.472,0.41,0.164,0.04,75.07,4
+Be Easy,Be Easy,Ghost Loft,2014-10-21,['gauze pop'],236001,34,0.437,0.415,0,-9.554,1,0.0271,0.365,0.0178,0.136,0.142,89.959,4
+Candlelight Eyes,Autumn Fires,Alan Gogoll,2019-04-02,"['calming instrumental', 'tassie indie']",164861,32,0.409,0.188,4,-22.368,1,0.0464,0.66,0.877,0.111,0.171,99.59,4
+Lacuna,Rocket League (Official Game Soundtrack),Various Artists,2015-07-01,[],429850,34,0.694,0.63,2,-8.203,1,0.0433,0.0653,0.634,0.0871,0.472,134.006,4
+I Can't Believe It's Me,Uncollected,Galaxie 500,2004-08-03,"['alternative rock', 'anti-folk', 'art pop', 'art rock', 'dance rock', 'dream pop', 'freak folk', 'gbvfi', 'indie pop', 'indie rock', 'lo-fi', 'melancholia', 'new wave', 'noise pop', 'nu gaze', 'shoegaze', 'slowcore']",239400,19,0.395,0.643,2,-9.006,1,0.0291,0.00665,0.792,0.143,0.589,106.09,4
+One PM Again,I Can Hear The Heart Beating As One,Yo La Tengo,1997-04-22,"['alternative rock', 'anti-folk', 'art pop', 'dream pop', 'freak folk', 'indie pop', 'indie rock', 'lo-fi', 'new jersey indie', 'permanent wave']",145666,34,0.499,0.386,0,-14.19,1,0.0291,0.779,0.95,0.0951,0.425,141.04,4
+The Shadow Of Your Smile,At The Movies,Dave Koz,2007-01-01,"['jazz saxophone', 'smooth jazz', 'smooth saxophone']",322733,39,0.43,0.282,7,-12.434,0,0.0274,0.894,0.00173,0.155,0.274,98.032,4
+Fadeaway,Stars Die (Remaster),Porcupine Tree,2002-03-25,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",376040,25,0.519,0.358,0,-12.92,1,0.0275,0.108,0.956,0.0803,0.12,104.956,4
+"Gali Mein Chand (From ""Zakhm"")",All His Hits - Mukesh Bhatt,Various Artists,2018-02-28,[],309413,10,0.445,0.402,2,-12.541,1,0.0466,0.76,2.35e-06,0.487,0.625,103.331,4
+"Gali Mein Chand (From ""Zakhm"")",All His Hits - Mukesh Bhatt,Various Artists,2018-02-28,[],309413,10,0.445,0.402,2,-12.541,1,0.0466,0.76,2.35e-06,0.487,0.625,103.331,4
+American Idiot,American Idiot,Green Day,2004-09-21,"['permanent wave', 'pop punk', 'punk']",176346,79,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,4
+It Was A Very Good Year,September Of My Years (Expanded Edition),Frank Sinatra,1965-08,"['adult standards', 'easy listening', 'lounge']",267240,60,0.215,0.142,7,-15.395,0,0.0325,0.862,0.0,0.113,0.126,79.608,4
+Roadkill,Monkey Bismuth,Fig,2000-01-01,['lo star'],119506,0,0.714,0.868,5,-7.308,0,0.224,0.485,0.0,0.597,0.77,170.138,4
+Blackfield - Live,Live in New York City,Blackfield,2007,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",288493,15,0.53,0.646,11,-10.01,0,0.0271,0.00325,0.146,0.898,0.129,81.988,4
+Blackfield - Live,Live in New York City,Blackfield,2007,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",288493,15,0.53,0.646,11,-10.01,0,0.0271,0.00325,0.146,0.898,0.129,81.988,4
+Blackfield - Live,Live in New York City,Blackfield,2007,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",288493,15,0.53,0.646,11,-10.01,0,0.0271,0.00325,0.146,0.898,0.129,81.988,4
+Handsome Drink,Homesick and Happy to Be Here (Deluxe Edition),Aberdeen,2015-07-28,"['c86', 'tape club', 'twee pop']",199626,14,0.599,0.841,2,-6.638,1,0.0276,0.000114,0.0307,0.156,0.462,124.022,4
+Working Class Hero,Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version),Various Artists,2007-06-11,[],263733,47,0.3,0.643,11,-6.164,0,0.0366,0.0063,1.81e-06,0.147,0.211,108.798,4
+Something's Missing,"Heavier Strings: VSQ Performs John Mayer's ""Heavier Things""",Vitamin String Quartet,2005-05-21,"['bow pop', 'classify']",263013,7,0.552,0.244,2,-10.887,0,0.0376,0.493,0.318,0.0935,0.581,152.001,4
+Something's Missing,"Heavier Strings: VSQ Performs John Mayer's ""Heavier Things""",Vitamin String Quartet,2005-05-21,"['bow pop', 'classify']",263013,7,0.552,0.244,2,-10.887,0,0.0376,0.493,0.318,0.0935,0.581,152.001,4
+Cyniculture,Killer Tofu,Stage Kids,2011-10-05,"['instrumental math rock', 'math pop']",233373,36,0.582,0.954,4,-4.007,0,0.0387,0.0819,0.81,0.189,0.58,143.067,4
+The Widow,Frances the Mute,The Mars Volta,2005-01-01,"['alternative metal', 'alternative rock', 'el paso indie', 'modern rock', 'rock']",350880,54,0.236,0.658,9,-6.059,0,0.0349,0.628,0.00927,0.276,0.106,106.222,3
+Something,By Default,Band Of Skulls,2016-05-27,"['dance-punk', 'garage rock', 'garage rock revival', 'indie rock', 'modern alternative rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'southampton indie']",180992,21,0.736,0.567,6,-7.05,0,0.0335,0.0539,0.49,0.164,0.578,134.021,4
+The Gentle Art of Making Enemies,"King for a Day, Fool for a Lifetime",Faith No More,1995-04-25,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'hard rock', 'nu metal', 'rap metal', 'rock']",209893,48,0.405,0.885,11,-8.635,1,0.12,0.0277,0.0767,0.156,0.314,170.192,4
+Epidemic,BLACKFIELD II,Blackfield,2007-03-06,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",299413,12,0.55,0.679,7,-7.531,1,0.0266,0.0548,0.0185,0.307,0.183,102.999,4
+This Killer,BLACKFIELD II,Blackfield,2007-03-06,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",246000,13,0.534,0.427,11,-10.952,0,0.0327,0.486,0.841,0.117,0.0946,109.948,4
+Club Foot,Kasabian,Kasabian,2004-01-30,"['alternative rock', 'britpop', 'garage rock', 'indie rock', 'leicester indie', 'modern rock', 'rock']",214373,63,0.237,0.919,0,-6.893,1,0.0814,0.0257,2.31e-05,0.0914,0.123,101.758,4
+Mellowing,Dying Surfer Meets His Maker,All Them Witches,2015-10-30,"['indie rock', 'modern blues rock', 'modern rock', 'neo-psychedelic', 'space rock', 'stoner rock']",190986,35,0.383,0.398,7,-13.638,1,0.0306,0.796,0.812,0.375,0.412,135.065,4
+Mellowing,Dying Surfer Meets His Maker,All Them Witches,2015-10-30,"['indie rock', 'modern blues rock', 'modern rock', 'neo-psychedelic', 'space rock', 'stoner rock']",190986,35,0.383,0.398,7,-13.638,1,0.0306,0.796,0.812,0.375,0.412,135.065,4
+For the Damaged Coda,Melody of Certain Damaged Lemons,Blonde Redhead,2000-06-06,"['art pop', 'dance-punk', 'dream pop', 'indie rock', 'shoegaze']",157000,62,0.499,0.468,0,-9.995,0,0.0396,0.795,0.88,0.0899,0.0763,141.463,4
+Cloudy Now / Encore - Live,Live in New York City,Blackfield,2007,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",262333,11,0.317,0.323,9,-12.525,0,0.0651,0.358,0.00474,0.811,0.144,116.562,4
+Shaam Tanha,Agnee,Agnee,2007-04-27,"['indian indie', 'indian rock', 'modern bollywood']",299360,42,0.441,0.538,2,-10.1,1,0.0888,0.409,0.00515,0.143,0.731,169.676,4
+Delicate,O,Damien Rice,2003-06-03,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'singer-songwriter']",312066,51,0.34,0.144,5,-14.502,1,0.0419,0.684,0.00112,0.101,0.147,81.179,4
+idontwannabeyouanymore,dont smile at me,Billie Eilish,2017-12-22,"['electropop', 'pop']",203569,82,0.483,0.412,7,-8.461,1,0.0402,0.737,0.0,0.116,0.247,170.163,3
+idontwannabeyouanymore,dont smile at me,Billie Eilish,2017-12-22,"['electropop', 'pop']",203569,82,0.483,0.412,7,-8.461,1,0.0402,0.737,0.0,0.116,0.247,170.163,3
+Magic Hour,Heavy Light,Via Luna,2015-07-05,"['instrumental math rock', 'midwest emo']",393067,32,0.461,0.705,0,-7.908,1,0.0483,0.0302,0.672,0.13,0.522,116.031,4
+Turning Sheep into Goats,Feathergun,Rishloo,2009-12-08,"['alternative metal', 'progressive alternative', 'progressive metal']",234266,33,0.292,0.617,6,-7.584,1,0.0294,0.191,1.64e-05,0.0915,0.0924,92.031,4
+You Would Have to Lose Your Mind,Queens of the Breakers,The Barr Brothers,2017-10-13,"['canadian americana', 'canadian indie', 'chamber pop', 'deep new americana', 'indie folk', 'new americana', 'stomp and holler']",381640,54,0.344,0.447,6,-8.408,0,0.0254,0.173,0.723,0.12,0.242,88.678,4
+Ways to Fake It,New Skin,CRX,2016-10-28,"['modern hard rock', 'modern rock', 'palm desert scene']",178960,35,0.489,0.805,2,-4.925,1,0.0782,0.00176,0.0,0.197,0.517,132.963,4
+Game of Thrones,Game of Thrones,Rameses B,2014,"['chillstep', 'complextro', 'edm', 'electro house', 'gaming edm', 'melodic dubstep']",258037,35,0.282,0.742,0,-8.899,0,0.0668,0.021,0.611,0.116,0.0774,122.58,4
+Eyes Half Closed - Acoustic Version,"Acoustic EP, Vol. 1",Crywolf,2015,"['chillstep', 'edm', 'indie poptimism', 'melodic dubstep']",241967,16,0.69,0.244,11,-10.12,1,0.0371,0.916,0.0,0.112,0.209,121.937,4
+Feels - Jai Wolf Remix,Feels (Jai Wolf Remix),Kiiara,2016-03-09,"['electropop', 'indie poptimism', 'indietronica', 'pop', 'post-teen pop']",270222,56,0.556,0.762,1,-1.961,0,0.0299,0.463,0.0,0.0957,0.225,135.013,4
+Wait Up,Wait Up,Finding Hope,2016-10-21,"['indie r&b', 'pop']",227906,34,0.542,0.4,3,-10.676,0,0.433,0.731,0.000451,0.109,0.0522,180.111,3
+Substitute,Substitute,FRND,2017-02-10,"['indie electropop', 'indie poptimism', 'pop edm']",233181,40,0.662,0.559,7,-6.521,0,0.0748,0.529,0.00592,0.0657,0.726,176.113,4
+Open Arms,Open Arms,RKCB,2016-03-09,"['alternative r&b', 'electropop', 'indie electropop', 'indie poptimism', 'indie r&b', 'indietronica', 'vapor soul', 'vapor twitch']",228965,48,0.505,0.589,7,-7.513,1,0.281,0.31,7.12e-05,0.111,0.389,174.126,4
+Open Arms,Open Arms,RKCB,2016-03-09,"['alternative r&b', 'electropop', 'indie electropop', 'indie poptimism', 'indie r&b', 'indietronica', 'vapor soul', 'vapor twitch']",228965,48,0.505,0.589,7,-7.513,1,0.281,0.31,7.12e-05,0.111,0.389,174.126,4
+Open Arms,Open Arms,RKCB,2016-03-09,"['alternative r&b', 'electropop', 'indie electropop', 'indie poptimism', 'indie r&b', 'indietronica', 'vapor soul', 'vapor twitch']",228965,48,0.505,0.589,7,-7.513,1,0.281,0.31,7.12e-05,0.111,0.389,174.126,4
+"Knockin' on Heavens Door - Live at Nippon Budokan Hall, Tokyo, Japan - February/March 1978",Bob Dylan At Budokan (Remastered),Bob Dylan,1979-04-23,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']",243813,26,0.593,0.581,5,-8.08,1,0.0609,0.766,0.0351,0.675,0.747,150.421,4
+Copulations,Portrait of a Time: 2010-2016,Peter Cat Recording Co.,2018-03-30,"['indian electronic', 'indian indie']",243200,38,0.534,0.36,2,-10.241,1,0.0376,0.856,1.28e-06,0.141,0.193,119.109,4
+Copulations,Portrait of a Time: 2010-2016,Peter Cat Recording Co.,2018-03-30,"['indian electronic', 'indian indie']",243200,38,0.534,0.36,2,-10.241,1,0.0376,0.856,1.28e-06,0.141,0.193,119.109,4
+"Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",With A Smile And A Song,Doris Day,1948,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",123360,63,0.416,0.341,9,-10.749,1,0.0391,0.864,0.0,0.724,0.776,177.229,4
+"Oh Hansini (From ""Zehreela Insaan"")",One Man Many Roles - Kishore Kumar,Kishore Kumar,2018-06-06,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood', 'sufi']",323973,28,0.357,0.341,5,-12.604,0,0.0335,0.904,0.00783,0.223,0.359,130.908,4
+"Oh Hansini (From ""Zehreela Insaan"")",One Man Many Roles - Kishore Kumar,Kishore Kumar,2018-06-06,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood', 'sufi']",323973,28,0.357,0.341,5,-12.604,0,0.0335,0.904,0.00783,0.223,0.359,130.908,4
+East Of Eden - Digster Live Session,Digster Live Session,Zella Day,2015-05-26,"['electropop', 'gauze pop', 'indie pop', 'indie poptimism', 'indietronica', 'pop']",232013,25,0.706,0.279,4,-8.372,1,0.0394,0.904,0.0,0.0941,0.199,114.862,4
+Glad to Be Unhappy (feat. John Mayer),Chris Botti In Boston,Chris Botti,2009-03-31,"['adult standards', 'jazz trumpet', 'smooth jazz', 'vocal jazz']",333093,28,0.271,0.154,5,-13.183,1,0.0369,0.911,0.0296,0.69,0.165,78.272,3
+Majestic,La La Land,Wax Fang,2010-05-11,['louisville indie'],337053,48,0.499,0.364,2,-8.839,1,0.0307,0.467,0.0989,0.115,0.271,155.075,3
+Tha Lick (feat. Ci Ci),Southern Hospitality,Drew Young,2016-11-04,[],234605,0,0.885,0.615,2,-9.193,1,0.138,0.218,0.0,0.159,0.811,87.024,4
+Rishtey,Life In A Metro (Original Motion Picture Soundtrack),Pritam,2007-03-17,"['desi pop', 'filmi', 'indian instrumental', 'modern bollywood', 'sufi']",440346,31,0.542,0.564,0,-6.633,0,0.0275,0.222,1.67e-06,0.114,0.176,135.997,4
+Baatein Kuch Ankahee,Life In A Metro (Original Motion Picture Soundtrack),Pritam,2007-03-17,"['desi pop', 'filmi', 'indian instrumental', 'modern bollywood', 'sufi']",275413,47,0.658,0.536,0,-7.605,1,0.0277,0.156,2.8e-06,0.176,0.237,121.957,4
+Firefly,Alive,Hiromi,2014-01-01,"['contemporary jazz', 'japanese jazz', 'japanese jazz fusion', 'jazz fusion', 'modern jazz piano']",448333,18,0.242,0.0257,5,-27.451,1,0.0465,0.991,0.82,0.0623,0.0409,67.505,4
+I Want Wind to Blow,"The Glow, Pt. 2",The Microphones,2001-09-11,"['alternative rock', 'anti-folk', 'freak folk', 'indie pop', 'indie rock', 'lo-fi', 'noise pop', 'olympia wa indie']",332880,56,0.402,0.406,5,-15.119,1,0.0652,0.75,0.791,0.114,0.243,109.946,4
+I Want Wind to Blow,"The Glow, Pt. 2",The Microphones,2001-09-11,"['alternative rock', 'anti-folk', 'freak folk', 'indie pop', 'indie rock', 'lo-fi', 'noise pop', 'olympia wa indie']",332880,56,0.402,0.406,5,-15.119,1,0.0652,0.75,0.791,0.114,0.243,109.946,4
+Shifting Sands,Part One,The West Coast Pop Art Experimental Band,1967,"['classic garage rock', 'folk rock', 'freakbeat', 'psychedelic rock']",234600,51,0.226,0.585,2,-9.965,1,0.0343,0.128,0.0233,0.112,0.655,180.495,3
+Jilted Lovers & Broken Hearts,Flamingo,Brandon Flowers,2010-01-01,['vegas indie'],280493,44,0.56,0.899,8,-4.284,1,0.0994,0.047,3.42e-05,0.104,0.515,139.5,4
+Heartache,35xxxv (Deluxe Edition),ONE OK ROCK,2015-09-25,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",265213,57,0.415,0.689,1,-6.486,1,0.0302,0.154,0.0,0.0637,0.245,143.043,4
+Heartache,35xxxv (Deluxe Edition),ONE OK ROCK,2015-09-25,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",265213,57,0.415,0.689,1,-6.486,1,0.0302,0.154,0.0,0.0637,0.245,143.043,4
+Welcome To Japan,Comedown Machine,The Strokes,2013-03-25,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",230826,58,0.705,0.666,2,-7.23,0,0.0303,0.00233,0.0149,0.174,0.646,124.032,4
+Welcome To Japan,Comedown Machine,The Strokes,2013-03-25,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",230826,58,0.705,0.666,2,-7.23,0,0.0303,0.00233,0.0149,0.174,0.646,124.032,4
+Long Line of Cars,Comfort Eagle,Cake,2001-07-23,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",203773,45,0.74,0.635,11,-8.244,0,0.0333,0.279,0.00646,0.287,0.884,100.032,4
+Shadow Stabbing,Comfort Eagle,Cake,2001-07-23,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",187266,48,0.836,0.572,4,-8.236,1,0.0439,0.0455,3.11e-06,0.106,0.817,130.78,4
+Here I Dreamt I Was an Architect,Castaways and Cutouts,The Decemberists,2003,"['anti-folk', 'baroque pop', 'canadian indie', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern folk rock', 'modern rock', 'stomp and holler']",269146,51,0.411,0.754,7,-6.515,1,0.0294,0.101,2.83e-06,0.141,0.602,189.9,4
+The Infanta,Picaresque,The Decemberists,2005,"['anti-folk', 'baroque pop', 'canadian indie', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern folk rock', 'modern rock', 'stomp and holler']",307906,41,0.484,0.861,9,-5.872,1,0.0517,0.0168,0.00283,0.186,0.275,134.932,4
+Lost Souls,IV,Blackfield,2013-08-26,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",177506,20,0.492,0.746,4,-9.329,1,0.0292,8.64e-05,0.593,0.214,0.472,126.995,4
+Death of a Martian,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",264800,51,0.457,0.874,0,-3.059,0,0.0482,0.0111,0.0,0.0797,0.423,114.797,4
+Death of a Martian,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",264800,51,0.457,0.874,0,-3.059,0,0.0482,0.0111,0.0,0.0797,0.423,114.797,4
+Modern Love,Mapping The Rendezvous,Courteeners,2016-10-21,"['britpop', 'english indie rock', 'manchester indie', 'modern rock', 'rock']",218950,24,0.453,0.824,2,-6.299,1,0.0307,0.00021,0.000449,0.509,0.711,165.125,4
+To Forgive - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'permanent wave', 'pop rock', 'rock']",257266,50,0.579,0.314,1,-12.589,1,0.0267,0.0208,0.761,0.111,0.0512,126.746,4
+Mardy Bum,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-02-21,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",175440,59,0.634,0.599,2,-5.447,1,0.0365,0.0288,0.0,0.197,0.312,112.215,4
+Slottskogen Disc Golf Club,Wintergatan,Wintergatan,2013-04-24,"['folktronica', 'gothenburg indie']",212650,31,0.624,0.684,9,-7.697,0,0.0274,0.473,0.792,0.119,0.585,136.948,3
+Umpqua Rushing,And Then Like Lions,Blind Pilot,2016-08-12,"['indie folk', 'indie pop', 'new americana', 'portland indie', 'stomp and holler']",254746,42,0.472,0.584,0,-7.119,1,0.0347,0.23,0.00746,0.193,0.432,78.007,4
+After the Rain,IV,Blackfield,2013-08-26,"['neo-progressive', 'progressive metal', 'progressive rock', 'symphonic rock']",86142,14,0.537,0.642,5,-11.614,1,0.032,0.0101,0.388,0.0622,0.57,139.959,4
+Do You Go Up,If You,Khai,2015-10-16,[],193000,49,0.505,0.22,1,-14.513,0,0.15,0.938,0.00351,0.103,0.228,96.645,5
+Left Alone,California,blink-182,2016-07-01,"['pop punk', 'punk', 'socal pop punk']",189746,44,0.463,0.952,9,-3.828,1,0.147,0.0113,0.0,0.0715,0.429,170.066,4
+Red Bird,Red Bird,Outrun The Sunlight,2017-04-21,"['djent', 'instrumental rock']",302146,33,0.337,0.573,6,-10.389,0,0.0336,0.000357,0.866,0.0867,0.239,111.985,4
+Only Heart,Heavier Things,John Mayer,2003-09-09,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",228906,44,0.664,0.839,5,-2.619,1,0.034,0.0372,0.000317,0.103,0.949,120.942,4
+Only Heart,Heavier Things,John Mayer,2003-09-09,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",228906,44,0.664,0.839,5,-2.619,1,0.034,0.0372,0.000317,0.103,0.949,120.942,4
+Killer Cars,High & Dry / Planet Telex,Radiohead,1995-02-27,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",183893,30,0.213,0.918,7,-6.231,1,0.0628,0.000154,0.61,0.313,0.417,175.594,4
+Like A G6,Free Wired,Far East Movement,2010-01-01,"['asian american hip hop', 'dance pop', 'edm', 'pop', 'pop rap']",216893,70,0.435,0.837,3,-8.126,1,0.449,0.00676,0.0,0.117,0.778,124.913,4
+Music for the Head,On the Sunday of Life (Remaster),Porcupine Tree,1991-07-05,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",160346,22,0.257,0.0243,8,-29.005,0,0.0424,0.675,0.91,0.099,0.0325,126.631,5
+Music for the Head,On the Sunday of Life (Remaster),Porcupine Tree,1991-07-05,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",160346,22,0.257,0.0243,8,-29.005,0,0.0424,0.675,0.91,0.099,0.0325,126.631,5
+"Perhaps, Perhaps, Perhaps",With A Smile And A Song,Doris Day,1948,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",151706,54,0.616,0.271,9,-12.215,0,0.0414,0.759,8.47e-06,0.0781,0.649,104.519,4
+"Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra) - Single Version",The Essential Doris Day,Doris Day,2014-03-21,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",125026,37,0.4,0.338,9,-12.69,1,0.0418,0.854,0.0,0.725,0.72,175.575,4
+Daughters - Live in Ohio,"As/Is: Cleveland/Cincinnati, OH - 8/03-8/04/04",John Mayer,2004-09-28,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",497586,30,0.452,0.362,9,-12.993,1,0.0326,0.098,0.000123,0.614,0.203,122.058,3
+Hangout at the Gallows,God's Favorite Customer,Father John Misty,2018-06-01,"['art pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'rock', 'stomp and holler']",295466,49,0.534,0.663,7,-5.48,1,0.0286,0.128,3.63e-05,0.431,0.573,141.525,4
+Easier,Shadowboxer,Mansionair,2019-03-01,"['aussietronica', 'australian indie', 'electropop', 'indietronica', 'modern rock', 'vapor soul']",272680,62,0.47,0.482,6,-6.999,1,0.0435,0.202,0.0419,0.0746,0.212,117.448,4
+Easier,Shadowboxer,Mansionair,2019-03-01,"['aussietronica', 'australian indie', 'electropop', 'indietronica', 'modern rock', 'vapor soul']",272680,62,0.47,0.482,6,-6.999,1,0.0435,0.202,0.0419,0.0746,0.212,117.448,4
+The World Is Not Enough,Absolute Garbage,Garbage,2007-01-01,"['alternative dance', 'alternative rock', 'dance pop', 'electronic rock', 'lilith', 'permanent wave', 'pop rock', 'rock']",237733,42,0.477,0.855,10,-4.612,0,0.03,0.0421,0.0843,0.126,0.462,85.806,4
+The World Is Not Enough,Absolute Garbage,Garbage,2007-01-01,"['alternative dance', 'alternative rock', 'dance pop', 'electronic rock', 'lilith', 'permanent wave', 'pop rock', 'rock']",237733,42,0.477,0.855,10,-4.612,0,0.03,0.0421,0.0843,0.126,0.462,85.806,4
+The World Is Not Enough,Absolute Garbage,Garbage,2007-01-01,"['alternative dance', 'alternative rock', 'dance pop', 'electronic rock', 'lilith', 'permanent wave', 'pop rock', 'rock']",237733,42,0.477,0.855,10,-4.612,0,0.03,0.0421,0.0843,0.126,0.462,85.806,4
+Palo Alto - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2017-06-23,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",231815,41,0.406,0.819,2,-7.825,1,0.0738,0.00777,0.00248,0.11,0.325,116.9,4
+"Waste (Dave Matthews, solo)",Sharin' in the Groove,Various Artists,2001-01-01,[],217733,45,0.587,0.237,5,-15.037,1,0.0433,0.852,0.0218,0.113,0.491,88.377,4
+Ballad of the Dying Man,Pure Comedy,Father John Misty,2017-04-07,"['art pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'rock', 'stomp and holler']",290736,47,0.399,0.443,5,-9.168,1,0.0272,0.848,0.000406,0.0899,0.265,139.643,4
+Ballad of the Dying Man,Pure Comedy,Father John Misty,2017-04-07,"['art pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'rock', 'stomp and holler']",290736,47,0.399,0.443,5,-9.168,1,0.0272,0.848,0.000406,0.0899,0.265,139.643,4
+Last Flowers,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",266478,51,0.558,0.307,0,-8.236,1,0.0296,0.92,0.000744,0.112,0.304,75.807,4
+MK 1,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",62929,41,0.156,0.0962,1,-27.01,0,0.0345,0.991,0.987,0.0929,0.0389,80.148,4
+MK 1,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",62929,41,0.156,0.0962,1,-27.01,0,0.0345,0.991,0.987,0.0929,0.0389,80.148,4
+MK 1,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",62929,41,0.156,0.0962,1,-27.01,0,0.0345,0.991,0.987,0.0929,0.0389,80.148,4
+MK 1,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",62929,41,0.156,0.0962,1,-27.01,0,0.0345,0.991,0.987,0.0929,0.0389,80.148,4
+MK 1,In Rainbows (Disk 2),Radiohead,2007-12-03,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",62929,41,0.156,0.0962,1,-27.01,0,0.0345,0.991,0.987,0.0929,0.0389,80.148,4
+"Walt Grace's Submarine Test, January 1967",Born and Raised,John Mayer,2012-05-18,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",307986,51,0.44,0.372,6,-10.6,1,0.0328,0.798,5.64e-05,0.118,0.281,159.887,4
+"Walt Grace's Submarine Test, January 1967",Born and Raised,John Mayer,2012-05-18,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",307986,51,0.44,0.372,6,-10.6,1,0.0328,0.798,5.64e-05,0.118,0.281,159.887,4
+"Walt Grace's Submarine Test, January 1967",Born and Raised,John Mayer,2012-05-18,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",307986,51,0.44,0.372,6,-10.6,1,0.0328,0.798,5.64e-05,0.118,0.281,159.887,4
+Cross My Mind,Beautifully Human: Words and Sounds Vol. 2,Jill Scott,2004-08-31,"['hip pop', 'neo soul', 'quiet storm', 'r&b', 'soul', 'urban contemporary']",284800,46,0.878,0.242,5,-9.438,0,0.281,0.0312,0.00163,0.133,0.43,146.077,4
+Infrared-Ultraviolet,All Bright Electric (Deluxe Version),Feeder,2016-09-30,"['britpop', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'welsh rock']",315990,25,0.353,0.784,10,-5.971,0,0.0439,0.112,0.245,0.104,0.319,162.003,3
+Monarchy of Roses,I'm with You,Red Hot Chili Peppers,2011-08-29,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",251800,52,0.467,0.98,4,-1.857,0,0.0934,0.000405,0.000908,0.445,0.222,123.089,4
+See The Sun,Konk,The Kooks,2008-01-01,"['brighton indie', 'indie pop', 'modern rock', 'rock']",216426,47,0.35,0.859,6,-5.498,1,0.0809,0.0148,5.02e-06,0.0752,0.395,164.608,4
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,2005-01-25,"['anti-folk', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'omaha indie', 'stomp and holler']",188800,70,0.468,0.201,4,-17.024,1,0.0388,0.915,8.28e-05,0.0952,0.383,94.422,4
+Ruby Falls,Ganging Up On The Sun,Guster,2006-06-20,"['boston rock', 'indie pop', 'neo mellow', 'pop rock']",424760,43,0.443,0.476,10,-7.861,1,0.0319,0.076,0.0014,0.227,0.157,126.091,4
+Ruby Falls,Ganging Up On The Sun,Guster,2006-06-20,"['boston rock', 'indie pop', 'neo mellow', 'pop rock']",424760,43,0.443,0.476,10,-7.861,1,0.0319,0.076,0.0014,0.227,0.157,126.091,4
+Undone,Volition,Phoria,2016-06-03,"['brighton indie', 'vapor soul']",243644,32,0.644,0.486,4,-10.279,0,0.0369,0.394,0.00499,0.0995,0.197,138.011,4
+Duel Of The Iron Mics,Enter The 37th Chamber,El Michels Affair,2012-09-25,"['afrobeat', 'funk', 'indie jazz', 'indie soul', 'instrumental soul', 'soul']",181613,39,0.385,0.476,8,-8.299,1,0.0279,0.13,0.937,0.124,0.039,178.031,4
+You Rock Me,7,Enrique Iglesias,2003,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",223720,20,0.714,0.772,7,-3.324,1,0.104,0.00357,0.0131,0.0642,0.599,124.025,4
+Runnin' Home to You,The Flash (Music from the Special Episode: Duet),Various Artists,2017-03-22,[],166693,60,0.328,0.242,7,-9.923,1,0.0455,0.895,0.0,0.146,0.258,77.026,4
+Alive,Thick as Thieves (Deluxe Version),The Temper Trap,2016-05-10,"['alternative dance', 'australian indie', 'indie pop', 'indietronica', 'modern rock']",214143,27,0.57,0.928,7,-5.356,0,0.058,0.000272,0.864,0.421,0.812,106.025,4
+Let's Disappear - Alt Version,Let's Disappear,The Boxer Rebellion,2016-10-28,['indie rock'],255713,16,0.553,0.679,6,-7.057,1,0.0334,0.165,0.0487,0.114,0.3,119.883,4
+Dark,The Lingering,Siv Jakobsen,2015-05-26,['indie folk'],193622,40,0.47,0.109,10,-15.11,0,0.0358,0.856,0.028,0.114,0.185,76.823,4
+In for the Kill,Ribbon,Billie Marten,2014-06-23,"['british singer-songwriter', 'indie anthem-folk', 'indie folk']",235891,41,0.58,0.237,9,-10.641,0,0.0321,0.971,0.000536,0.343,0.242,75.058,4
+Place - Live at Urchin Studios,Live at Urchin Studios,Lucy Rose,2016-12-09,"['ambient folk', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",214421,12,0.487,0.113,3,-15.157,0,0.0442,0.946,4.51e-06,0.304,0.293,87.044,4
+Approximately 906 Miles,Puspa in Space,Harrison Fjord,2015-08-07,['phoenix indie'],464433,39,0.262,0.522,9,-10.357,0,0.0421,0.0814,0.0603,0.118,0.138,112.007,4
+Red Eye,Dream Your Life Away (Special Edition),Vance Joy,2014-09-09,"['folk-pop', 'modern rock', 'pop', 'pop rock']",303826,50,0.535,0.542,9,-7.436,1,0.0288,0.0418,0.0,0.158,0.129,115.554,4
+Meaningless Love,Under The Influence Of Giants,Under The Influence of Giants,2006-01-01,[],318720,35,0.637,0.519,10,-7.361,0,0.0375,0.0286,0.0125,0.0992,0.309,171.235,4
+Meeting in the Aisle - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2017-06-23,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",187706,43,0.385,0.776,4,-4.871,1,0.0316,0.0129,0.402,0.291,0.148,202.052,4
+Meeting in the Aisle - Remastered,OK Computer OKNOTOK 1997 2017,Radiohead,2017-06-23,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",187706,43,0.385,0.776,4,-4.871,1,0.0316,0.0129,0.402,0.291,0.148,202.052,4
+Lines,Like I Used To (Deluxe Edition),Lucy Rose,2012,"['ambient folk', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",219960,19,0.402,0.531,1,-6.843,0,0.0775,0.16,3.46e-06,0.345,0.586,82.811,4
+Like That,Work It Out (Deluxe),Lucy Rose,2015-07-03,"['ambient folk', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",222040,14,0.414,0.602,11,-7.952,0,0.0479,0.00537,0.00253,0.107,0.296,144.211,4
+Love Like This - Acoustic,In A Perfect World (Collection),Kodaline,2013-06-17,"['irish pop', 'modern rock', 'pop', 'pop rock']",241640,62,0.398,0.151,4,-14.402,1,0.0342,0.961,0.0443,0.0923,0.0749,107.068,4
+Hello Seattle - Remix,Ocean Eyes (Deluxe Version),Owl City,2009-01-01,"['modern rock', 'pop', 'pop rock', 'post-teen pop']",353946,38,0.558,0.807,10,-6.388,1,0.0345,0.0197,0.64,0.118,0.0484,125.015,4
+I Need Your Love (feat. Ellie Goulding),18 Months,Calvin Harris,2012-10-29,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'tropical house', 'uk dance']",234506,71,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,4
+Lapse,Affinity,Haken,2016-04-29,"['jazz metal', 'progressive metal', 'symphonic rock']",284386,35,0.553,0.919,11,-6.231,0,0.0745,0.00159,0.00151,0.209,0.474,120.074,5
+Hip Hop Police - Main,Ultimate Victory,Chamillionaire,2007-01-01,"['dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",251320,40,0.816,0.906,7,-5.052,1,0.209,0.056,0.0,0.39,0.704,98.009,4
+Showdown,Showdown,F.O.O.L,2016-06-06,"['complextro', 'edm', 'electro house', 'gaming edm']",301609,44,0.656,0.84,11,-3.755,0,0.0407,0.00158,0.264,0.369,0.187,124.998,4
+Showdown,Showdown,F.O.O.L,2016-06-06,"['complextro', 'edm', 'electro house', 'gaming edm']",301609,44,0.656,0.84,11,-3.755,0,0.0407,0.00158,0.264,0.369,0.187,124.998,4
+Showdown,Showdown,F.O.O.L,2016-06-06,"['complextro', 'edm', 'electro house', 'gaming edm']",301609,44,0.656,0.84,11,-3.755,0,0.0407,0.00158,0.264,0.369,0.187,124.998,4
+Today is Gonna be a Great Day - Theme Song to Phineas and Ferb,Phineas and Ferb,Various Artists,2009-01-01,[],181026,49,0.429,0.889,8,-4.055,1,0.0711,0.00687,0.0,0.397,0.735,168.078,4
+Today is Gonna be a Great Day - Theme Song to Phineas and Ferb,Phineas and Ferb,Various Artists,2009-01-01,[],181026,49,0.429,0.889,8,-4.055,1,0.0711,0.00687,0.0,0.397,0.735,168.078,4
+Firework - Melad Remix,Starting Over,Hollywood Principle,2017-11-12,[],163357,44,0.511,0.764,9,-4.034,0,0.0912,0.0954,4.11e-06,0.0848,0.16,119.93,4
+Six Degrees of Separation,#3,The Script,2012-09-10,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",232253,45,0.517,0.828,4,-4.223,1,0.0493,0.156,0.0,0.901,0.511,147.955,4
+Six Degrees of Separation,#3,The Script,2012-09-10,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",232253,45,0.517,0.828,4,-4.223,1,0.0493,0.156,0.0,0.901,0.511,147.955,4
+"It's Raining on the Moon, Pt. 1",StarSystems III,StarSystems,2016-08-01,['instrumental progressive metal'],256026,35,0.539,0.612,2,-10.654,0,0.0433,0.472,0.809,0.101,0.0541,170.005,4
+Hearts Will Repair (feat. Aloma Steele),Hearts Will Repair (feat. Aloma Steele),DM Galaxy,2015-04-23,"['gaming edm', 'melodic dubstep']",281443,19,0.476,0.604,1,-8.548,0,0.0402,0.0867,0.312,0.0895,0.151,173.955,4
+When You Were Young - Live From The Royal Albert Hall / 2009,Live From The Royal Albert Hall,The Killers,2009-11-03,"['modern rock', 'permanent wave', 'rock']",283386,39,0.379,0.971,8,-4.963,0,0.175,0.000641,1.51e-05,0.99,0.0872,130.069,4
+The Dying of the Light,Chasing Yesterday,Noel Gallagher's High Flying Birds,2015-03-03,"['britpop', 'modern rock', 'rock']",311159,31,0.406,0.826,7,-4.057,0,0.0313,0.0459,0.00228,0.173,0.165,79.003,4
+Once Again (Live),As It Is (Live),Hang Massive,2013-10-21,"['hangpan', 'new tribe']",364759,32,0.524,0.121,2,-26.989,0,0.0498,0.928,0.934,0.113,0.377,106.497,4
+lit(var),"A Shape of Light ""A Silent Voice the Movie"" Original Soundtrack",Kensuke Ushio,2016-09-14,"['anime score', 'japanese soundtrack', 'otacore']",134786,57,0.329,0.258,1,-16.147,0,0.0615,0.943,0.934,0.105,0.0338,95.328,5
+Young Bodies,"Song Spells, No.1: Cedarsmoke",Sea Wolf,2014-07-08,"['chamber pop', 'indie folk', 'indie pop', 'la indie', 'shimmer pop', 'stomp and holler']",209266,42,0.694,0.237,5,-16.391,1,0.0413,0.938,0.296,0.109,0.331,136.866,4
+Rivers,Rivers,The Tallest Man On Earth,2016-08-17,"['chamber pop', 'indie folk', 'stomp and holler', 'swedish americana', 'swedish singer-songwriter']",236853,56,0.562,0.25,5,-11.977,1,0.0325,0.959,0.000836,0.107,0.595,100.804,4
+Kissing Families,Pikul,Silversun Pickups,2005-07-26,"['alternative metal', 'alternative rock', 'dance-punk', 'indie pop', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'rock']",290560,51,0.598,0.669,1,-7.691,0,0.0281,0.241,0.428,0.131,0.297,117.274,4
+Blue Blood,Total Life Forever,Foals,2010-06-15,"['alternative dance', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'new rave', 'oxford indie', 'rock']",316893,34,0.601,0.796,2,-7.753,1,0.0454,0.128,0.0685,0.136,0.16,130.432,4
+Magdalena,Flamingo (Deluxe Edition),Brandon Flowers,2010-01-01,['vegas indie'],199053,37,0.614,0.838,1,-5.873,1,0.0448,0.00522,2.34e-06,0.141,0.728,130.957,4
+Waiting,Pressure Chief,Cake,2004-10-04,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",236333,32,0.736,0.496,9,-6.529,1,0.027,0.376,0.0,0.138,0.795,88.008,4
+Ruby Sees All,Motorcade of Generosity,Cake,1994,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",180293,39,0.629,0.824,7,-7.545,1,0.042,0.195,0.000185,0.352,0.65,99.89,4
+"Excuse Me, I Think I've Got A Heartache",B-Sides and Rarities,Cake,2007-11-13,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",141880,27,0.577,0.721,7,-8.103,1,0.0625,0.0986,0.0,0.315,0.781,148.054,4
+Strangers in the Night,b-sides and rarities,Cake,2007-11-13,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",171786,43,0.731,0.405,9,-10.946,0,0.0252,0.296,6.91e-06,0.524,0.656,90.02,4
+And It's All Happening,II,Kingston Wall,1993,"['classic finnish rock', 'finnish indie', 'finnish progressive rock', 'suomi rock']",367533,30,0.369,0.566,8,-9.041,1,0.0441,0.00799,0.669,0.145,0.0767,112.183,4
+Autumn Leaves,Floating EP,IHF,2014,"['vapor soul', 'vapor twitch']",162818,35,0.523,0.535,9,-8.353,0,0.0482,0.00428,0.00731,0.116,0.104,90.046,4
+Lego House,+,Ed Sheeran,2011-09-09,"['pop', 'uk pop']",185093,71,0.592,0.637,11,-8.48,1,0.0992,0.562,0.0,0.13,0.565,159.701,4
+Kick Drums & Red Wine - Instrumental,Days of Thunder (The Instrumentals),The Midnight,2015-03-25,"['nightrun', 'popwave']",381666,24,0.438,0.871,0,-8.525,0,0.0323,0.00204,0.905,0.171,0.134,125.996,4
+Bigger Than My Body - Live at the Shoreline Amphitheater,"As/Is: Mountain View, CA - 7/16/04",John Mayer,2004-08-10,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",431520,24,0.532,0.932,9,-6.846,1,0.0449,0.00178,6.8e-05,0.931,0.435,118.213,4
+Bigger Than My Body - Live at the Shoreline Amphitheater,"As/Is: Mountain View, CA - 7/16/04",John Mayer,2004-08-10,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",431520,24,0.532,0.932,9,-6.846,1,0.0449,0.00178,6.8e-05,0.931,0.435,118.213,4
+Out of Mind,Before the Waves,Magic Man,2014-07-08,"['indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'shimmer pop']",211373,38,0.609,0.944,0,-4.715,1,0.0306,0.000871,0.00664,0.0595,0.69,116.035,4
+Summer Of '69 - Live At Sydney Opera House / 2013,Live At The Sydney Opera House,Bryan Adams,2013-08-30,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",218547,13,0.452,0.866,8,-3.704,1,0.0434,0.648,0.0,0.89,0.537,142.926,4
+Run To You - Live At Sydney Opera House / 2013,Live At The Sydney Opera House,Bryan Adams,2013-08-30,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",197453,11,0.396,0.493,3,-6.857,1,0.0334,0.803,0.0,0.963,0.436,127.044,4
+Run To You - Live At Hammersmith Odeon/1985,Reckless (30th Anniversary / Deluxe Edition),Bryan Adams,1984-11-05,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",269139,28,0.41,0.871,4,-7.544,1,0.0584,0.485,0.0802,0.888,0.444,132.919,4
+Run To You - Live At Hammersmith Odeon/1985,Reckless (30th Anniversary / Deluxe Edition),Bryan Adams,1984-11-05,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",269139,28,0.41,0.871,4,-7.544,1,0.0584,0.485,0.0802,0.888,0.444,132.919,4
+Many Rivers To Cross,Tracks Of My Years,Bryan Adams,2014-09-30,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",247200,5,0.603,0.403,4,-6.619,1,0.0275,0.734,0.0,0.214,0.323,133.865,4
+Let Me Go,Prolonging the Magic,Cake,1998-02-05,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",209693,47,0.773,0.641,9,-8.049,1,0.0456,0.0512,0.000365,0.0791,0.944,109.141,4
+Mustache Man (Wasted),Showroom Of Compassion,Cake,2011,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",244253,39,0.641,0.787,11,-9.165,0,0.0316,0.0333,0.00073,0.863,0.821,120.054,4
+"Mahna, Mahna",b-sides and rarities,Cake,2007-11-13,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",174066,44,0.742,0.483,7,-11.369,1,0.155,0.213,0.471,0.0733,0.638,89.883,4
+In The Water I Am Beautiful,Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",167440,34,0.489,0.552,11,-4.839,0,0.0263,0.538,0.0,0.13,0.614,92.073,3
+Confessions - Demo,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",274266,27,0.473,0.193,11,-15.963,0,0.0364,0.918,0.000142,0.0844,0.149,115.137,4
+Faithless - Demo,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",167000,24,0.358,0.539,7,-11.975,1,0.0312,0.768,5.41e-05,0.115,0.958,84.562,4
+At the Bird's Foot - Vocal,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",255906,23,0.338,0.408,5,-10.346,0,0.0567,0.769,0.000219,0.344,0.383,125.446,4
+Save Your Scissors - Live,Live at the Orange Lounge,City and Colour,2010-04-20,"['canadian folk', 'canadian indie']",273606,20,0.472,0.479,5,-8.409,1,0.0261,0.921,0.0,0.147,0.505,78.353,4
+Sorrowing Man,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",270680,31,0.442,0.423,4,-9.647,0,0.0298,5.76e-05,0.000481,0.132,0.137,112.033,3
+O' Sister,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",253760,33,0.542,0.327,2,-11.074,1,0.0254,0.604,0.0,0.271,0.251,139.518,4
+"Neon - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",Any Given Thursday,John Mayer,2003-01-30,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",622373,31,0.487,0.796,5,-9.273,0,0.042,0.0411,0.453,0.508,0.726,107.416,4
+"Neon - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",Any Given Thursday,John Mayer,2003-01-30,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",622373,31,0.487,0.796,5,-9.273,0,0.042,0.0411,0.453,0.508,0.726,107.416,4
+"Neon - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",Any Given Thursday,John Mayer,2003-01-30,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",622373,31,0.487,0.796,5,-9.273,0,0.042,0.0411,0.453,0.508,0.726,107.416,4
+"Neon - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",Any Given Thursday,John Mayer,2003-01-30,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",622373,31,0.487,0.796,5,-9.273,0,0.042,0.0411,0.453,0.508,0.726,107.416,4
+"Neon - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",Any Given Thursday,John Mayer,2003-01-30,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",622373,31,0.487,0.796,5,-9.273,0,0.042,0.0411,0.453,0.508,0.726,107.416,4
+Blackbird - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",138386,75,0.686,0.127,7,-14.361,1,0.0342,0.754,1.41e-05,0.0573,0.372,93.699,4
+Plastic Soldiers,Evil Friends,Portugal. The Man,2013-05-31,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",304000,47,0.681,0.541,8,-9.279,0,0.0357,0.0614,0.0134,0.0901,0.606,129.985,4
+Half Day Closing - Live,Roseland NYC Live,Portishead,1998-01-01,"['art pop', 'electronica', 'laboratorio', 'trip hop']",252400,34,0.284,0.645,8,-7.67,1,0.0474,0.0281,0.0207,0.322,0.079,131.716,4
+Half Day Closing - Live,Roseland NYC Live,Portishead,1998-01-01,"['art pop', 'electronica', 'laboratorio', 'trip hop']",252400,34,0.284,0.645,8,-7.67,1,0.0474,0.0281,0.0207,0.322,0.079,131.716,4
+Mayor of the City,Hot Hot Heat,Hot Hot Heat,2016-06-24,"['alternative dance', 'canadian rock', 'dance-punk', 'indie rock', 'modern rock', 'new rave', 'victoria bc indie']",150114,16,0.512,0.909,0,-5.709,1,0.039,0.0131,0.0,0.29,0.796,100.949,4
+Fury,Absolution,Muse,2004-03-23,"['modern rock', 'permanent wave', 'rock']",302040,48,0.0914,0.69,0,-6.681,1,0.0417,0.00101,0.00902,0.167,0.146,163.808,4
+Apocalypse Please,Absolution,Muse,2004-03-23,"['modern rock', 'permanent wave', 'rock']",252866,51,0.149,0.885,6,-5.437,1,0.0429,0.101,0.00922,0.247,0.181,160.03,4
+Butterflies and Hurricanes - Live from Wembley Stadium,HAARP (Live from Wembley Stadium),Muse,2007-12-03,"['modern rock', 'permanent wave', 'rock']",356879,31,0.211,0.916,9,-5.652,1,0.101,0.00321,0.407,0.699,0.0391,114.91,4
+The 2nd Law: Isolated System,The 2nd Law,Muse,2012-09-24,"['modern rock', 'permanent wave', 'rock']",299986,56,0.471,0.509,0,-10.9,0,0.0367,0.678,0.936,0.175,0.0595,131.996,4
+Follow Me,The 2nd Law,Muse,2012-09-24,"['modern rock', 'permanent wave', 'rock']",230920,56,0.279,0.817,3,-5.801,1,0.0586,0.00126,2.01e-05,0.141,0.0842,135.258,4
+Follow Me,The 2nd Law,Muse,2012-09-24,"['modern rock', 'permanent wave', 'rock']",230920,56,0.279,0.817,3,-5.801,1,0.0586,0.00126,2.01e-05,0.141,0.0842,135.258,4
+Follow Me,The 2nd Law,Muse,2012-09-24,"['modern rock', 'permanent wave', 'rock']",230920,56,0.279,0.817,3,-5.801,1,0.0586,0.00126,2.01e-05,0.141,0.0842,135.258,4
+Follow Me,The 2nd Law,Muse,2012-09-24,"['modern rock', 'permanent wave', 'rock']",230920,56,0.279,0.817,3,-5.801,1,0.0586,0.00126,2.01e-05,0.141,0.0842,135.258,4
+Truth Ray,Tomorrow's Modern Boxes,Thom Yorke,2014,"['art pop', 'electronica', 'glitch pop', 'indie rock', 'modern rock', 'oxford indie']",313730,39,0.311,0.185,10,-18.396,0,0.157,0.945,0.647,0.111,0.152,138.266,4
+Black Swan,The Eraser,Thom Yorke,2006-07-10,"['art pop', 'electronica', 'glitch pop', 'indie rock', 'modern rock', 'oxford indie']",289826,57,0.613,0.791,0,-7.293,1,0.0336,0.0469,0.708,0.128,0.509,101.066,4
+Never There,The Reason (15th Anniversary Deluxe),Hoobastank,2003-12-09,"['alternative metal', 'funk metal', 'nu metal', 'pop punk', 'pop rock', 'post-grunge']",183680,33,0.507,0.935,7,-3.393,1,0.0757,0.00112,0.0,0.0503,0.496,91.966,4
+I Was Never There,"My Dear Melancholy,",The Weeknd,2018-03-30,"['canadian contemporary r&b', 'canadian pop', 'pop']",241066,69,0.323,0.737,10,-4.008,1,0.0338,0.142,0.000162,0.163,0.155,113.26,4
+Stop The Clocks,Noel Gallagher's High Flying Birds (Deluxe Edition),Noel Gallagher's High Flying Birds,2011-01-01,"['britpop', 'modern rock', 'rock']",305720,15,0.269,0.607,3,-4.616,1,0.0311,0.00114,0.0279,0.101,0.153,90.696,4
+Stop The Clocks,Noel Gallagher's High Flying Birds (Deluxe Edition),Noel Gallagher's High Flying Birds,2011-01-01,"['britpop', 'modern rock', 'rock']",305720,15,0.269,0.607,3,-4.616,1,0.0311,0.00114,0.0279,0.101,0.153,90.696,4
+Riverman,Chasing Yesterday (Deluxe Version),Noel Gallagher's High Flying Birds,2015-03-03,"['britpop', 'modern rock', 'rock']",341733,26,0.388,0.862,3,-3.763,1,0.0372,0.0503,0.00216,0.527,0.525,172.077,4
+The Reality,Chapter Four Unidos,Puppet,2018-08-16,[],308584,15,0.741,0.86,0,-3.24,1,0.156,0.081,0.0,0.0717,0.438,82.058,4
+A Violent Sky,Krieg Und Frieden (Music For Theatre),Apparat,2013-02-19,"['ambient pop', 'electronica', 'glitch', 'microhouse', 'minimal techno']",311186,22,0.471,0.608,10,-10.954,1,0.0446,0.784,0.457,0.121,0.0378,97.382,3
+Colors - Stripped,Complementary Colors,Halsey,2016-04-22,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'post-teen pop']",266733,54,0.532,0.385,1,-8.941,1,0.0387,0.666,0.0,0.124,0.0385,102.984,4
+Little Boy,Atomic,Mogwai,2016-04-01,"['british post-rock', 'cosmic post-rock', 'post-rock']",231613,14,0.198,0.367,9,-10.143,1,0.0298,0.0931,0.854,0.0923,0.0393,79.187,4
+Little Boy,Atomic,Mogwai,2016-04-01,"['british post-rock', 'cosmic post-rock', 'post-rock']",231613,14,0.198,0.367,9,-10.143,1,0.0298,0.0931,0.854,0.0923,0.0393,79.187,4
+Down with You,The Can-Can Variety Show,Ampersand,2006-08-18,[],295080,0,0.554,0.934,3,-3.808,1,0.0604,0.006,0.0274,0.216,0.304,104.889,4
+Some Kids,Some Kids,FIELDS,2018-04-27,['irish indie'],226975,8,0.487,0.517,4,-9.87,1,0.0303,0.122,0.163,0.251,0.125,113.298,4
+Wake Your Soul,Cathedrals,The Hope Arsenal,2015-04-11,['indie anthem-folk'],358000,33,0.523,0.495,9,-9.626,0,0.0325,0.379,0.566,0.177,0.0423,120.021,4
+Time and Money,DELAFAYE,Delafaye,2019-08-23,[],173891,32,0.653,0.448,7,-10.513,1,0.0288,0.396,0.0015,0.108,0.533,80.872,4
+I Break My Heart,Stay/Go,Grayshot,2012-11-27,[],283000,17,0.558,0.388,4,-15.173,1,0.0365,0.678,0.597,0.102,0.0796,139.987,4
+I Don't Feel It Anymore - Live Berlin,Spotify Sessions,William Fitzsimmons,2014-05-13,"['acoustic pop', 'indie folk', 'neo mellow']",232733,22,0.392,0.385,0,-16.629,1,0.0772,0.831,0.0272,0.153,0.468,175.259,3
+Champagne Supernova - Remastered,(What's The Story) Morning Glory? (Deluxe Edition) [Remastered],Oasis,1995-10-02,"['beatlesque', 'britpop', 'madchester', 'modern rock', 'permanent wave', 'rock']",448438,64,0.286,0.796,2,-4.625,1,0.0388,0.47,0.063,0.364,0.12,150.272,4
+Firework,Midnight Waves,Canyon City,2016-09-09,"['acoustic pop', 'indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica', 'neo mellow', 'viral pop']",182744,45,0.536,0.32,1,-10.371,1,0.0393,0.823,0.000193,0.124,0.427,92.45,4
+The Girl With X-Ray Eyes,Chasing Yesterday,Noel Gallagher's High Flying Birds,2015-03-03,"['britpop', 'modern rock', 'rock']",200280,19,0.426,0.821,5,-5.086,1,0.0318,0.00203,0.00217,0.329,0.269,153.035,4
+Wetsuit,What Did You Expect from The Vaccines?,The Vaccines,2011-03-14,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",230240,53,0.474,0.742,5,-6.233,1,0.0324,0.00444,0.00615,0.166,0.233,120.738,4
+Maybe Tomorrow,You Gotta Go There To Come Back,Stereophonics,2003-01-01,"['britpop', 'modern rock', 'pop rock', 'rock', 'welsh rock']",272946,66,0.495,0.653,7,-6.769,0,0.0361,0.217,0.000458,0.334,0.571,80.897,4
+Dracula Teeth,Everything You've Come To Expect (Deluxe Edition),The Last Shadow Puppets,2016-12-02,"['baroque pop', 'indie rock', 'modern rock', 'rock', 'sheffield indie']",171351,45,0.447,0.727,6,-7.041,0,0.0331,0.0856,0.0,0.23,0.744,80.997,4
+Do the Damage - Bonus Track,Chasing Yesterday (Deluxe Version),Noel Gallagher's High Flying Birds,2015-03-03,"['britpop', 'modern rock', 'rock']",189598,20,0.483,0.954,9,-3.558,1,0.0679,0.00257,0.00454,0.171,0.412,144.068,4
+Goodbye Kiss,Velociraptor!,Kasabian,2011-09-16,"['alternative rock', 'britpop', 'garage rock', 'indie rock', 'leicester indie', 'modern rock', 'rock']",243960,33,0.616,0.834,7,-4.932,1,0.0422,0.0846,0.0,0.62,0.863,123.01,4
+She Taught Me How To Fly,Who Built The Moon?,Noel Gallagher's High Flying Birds,2017-11-24,"['britpop', 'modern rock', 'rock']",302213,37,0.392,0.839,7,-5.289,1,0.0445,6.38e-05,0.494,0.32,0.285,133.946,4
+You Know We Can't Go Back,Chasing Yesterday,Noel Gallagher's High Flying Birds,2015-03-03,"['britpop', 'modern rock', 'rock']",226373,23,0.331,0.955,1,-3.702,1,0.0634,0.000146,0.00139,0.13,0.111,146.012,4
+Until Our Next Adventure,Brigsby Bear (Original Motion Picture Soundtrack),David Wingo,2017-07-28,"['background music', 'soundtrack']",80546,44,0.638,0.0909,7,-19.605,1,0.033,0.991,0.936,0.135,0.406,140.07,3
+The Stars In Spring,May Your Heart Be The Map,Epic45,2007-07-01,"['british post-rock', 'compositional ambient', 'post-rock']",256373,48,0.528,0.556,6,-11.235,1,0.029,0.0385,0.282,0.232,0.0659,118.203,4
+The Only One I Know,Some Friendly,The Charlatans,1990-10-08,"['britpop', 'chamber psych', 'madchester', 'rock']",238120,61,0.543,0.572,5,-13.124,1,0.0317,0.0685,0.00119,0.0823,0.533,113.312,4
+I Can't Stand It,Cool Like You (Deluxe),Blossoms,2018-04-27,"['english indie rock', 'modern rock', 'rock']",177656,56,0.557,0.836,9,-5.479,1,0.0735,0.00778,0.0,0.0624,0.915,150.028,4
+AKA...What A Life!,Noel Gallagher's High Flying Birds (Deluxe Edition),Noel Gallagher's High Flying Birds,2011-01-01,"['britpop', 'modern rock', 'rock']",264480,34,0.447,0.927,6,-3.3,0,0.0508,0.000297,0.362,0.0972,0.104,119.034,4
+Can’t Stand Me Now,Time For Heroes - The Best Of The Libertines,The Libertines,2007-10-30,"['alternative rock', 'britpop', 'dance-punk', 'garage rock', 'garage rock revival', 'indie rock', 'modern rock', 'rock']",204760,10,0.371,0.943,4,-3.095,1,0.0577,0.0109,3.79e-05,0.0795,0.596,164.401,4
+Golden Touch - Full Length,Up All Night,Razorlight,2004,"['britpop', 'modern rock', 'pop rock', 'rock']",205306,43,0.602,0.533,1,-3.784,0,0.0243,0.0519,5.8e-05,0.264,0.689,95.288,4
+For What It's Worth,As You Were (Deluxe Edition),Liam Gallagher,2017-10-06,"['britpop', 'modern rock', 'rock']",251631,60,0.489,0.835,0,-4.448,1,0.0332,0.00746,0.0,0.146,0.444,145.885,4
+The Universal,Blur: The Best Of,Blur,2000-10-23,"['alternative rock', 'britpop', 'dance rock', 'madchester', 'modern rock', 'permanent wave', 'pop rock', 'rock']",240120,56,0.317,0.571,9,-7.669,1,0.0283,0.158,2.95e-06,0.0848,0.234,163.036,3
+Washed Away,Washed Away,Eyes on the Shore,2015-11-10,[],225789,43,0.557,0.529,2,-4.965,1,0.0297,0.0229,0.0107,0.0302,0.658,76.01,4
+Atoms to Atoms,Atoms to Atoms,Eyes on the Shore,2017-07-10,[],279150,32,0.421,0.703,2,-6.712,1,0.0352,0.0389,0.00561,0.371,0.132,88.013,4
+"Dead In The Water - Live At RTÉ 2FM Studios, Dublin",Who Built The Moon?,Noel Gallagher's High Flying Birds,2017-11-24,"['britpop', 'modern rock', 'rock']",321693,42,0.351,0.463,7,-7.227,0,0.0344,0.876,4.4e-06,0.424,0.284,178.906,4
+Your Love Is My Favourite Band,Combat Sports,The Vaccines,2018-03-30,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",189533,49,0.58,0.692,0,-4.029,1,0.0286,0.0028,0.000295,0.277,0.837,136.965,4
+Your Love Is My Favourite Band,Combat Sports,The Vaccines,2018-03-30,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",189533,49,0.58,0.692,0,-4.029,1,0.0286,0.0028,0.000295,0.277,0.837,136.965,4
+Fort Knox,Who Built The Moon?,Noel Gallagher's High Flying Birds,2017-11-24,"['britpop', 'modern rock', 'rock']",238026,33,0.245,0.917,6,-5.265,1,0.063,3.63e-06,0.0297,0.432,0.333,180.044,4
+Save Tonight,Desireless,Eagle-Eye Cherry,1998-07-13,['pop rock'],239226,68,0.547,0.693,0,-8.786,1,0.0353,9.24e-05,5.46e-05,0.113,0.583,119.567,4
+The Ending Of Dramamine - Live from Spotify House SXSW '16,Spotify Sessions,Car Seat Headrest,2016-05-08,"['alternative rock', 'anti-folk', 'art pop', 'indie pop', 'indie punk', 'indie rock']",348120,18,0.48,0.263,4,-10.786,1,0.0473,0.255,0.0,0.134,0.251,73.836,4
+Bombay Blue,Curve Of The Earth,Mystery Jets,2016-01-15,"['alternative dance', 'british indie rock', 'dance-punk', 'english indie rock', 'indie rock', 'modern alternative rock', 'modern rock', 'new rave']",294866,34,0.414,0.595,2,-7.037,0,0.0309,0.0756,0.000851,0.14,0.484,151.963,4
+Nothing More,Nothing More,Guards,2014-12-02,[],229870,31,0.541,0.751,6,-8.116,1,0.0352,0.0268,0.000341,0.0964,0.845,90.975,4
+Feeling You,Feeling You,Harrison Storm,2018-05-25,"['indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica']",201195,57,0.644,0.502,1,-9.374,0,0.0302,0.665,0.165,0.124,0.159,103.987,4
+Feeling You,Feeling You,Harrison Storm,2018-05-25,"['indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica']",201195,57,0.644,0.502,1,-9.374,0,0.0302,0.665,0.165,0.124,0.159,103.987,4
+Feeling You,Feeling You,Harrison Storm,2018-05-25,"['indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica']",201195,57,0.644,0.502,1,-9.374,0,0.0302,0.665,0.165,0.124,0.159,103.987,4
+Feeling You,Feeling You,Harrison Storm,2018-05-25,"['indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica']",201195,57,0.644,0.502,1,-9.374,0,0.0302,0.665,0.165,0.124,0.159,103.987,4
+Feeling You,Feeling You,Harrison Storm,2018-05-25,"['indie anthem-folk', 'indie cafe pop', 'indie folk', 'indiecoustica']",201195,57,0.644,0.502,1,-9.374,0,0.0302,0.665,0.165,0.124,0.159,103.987,4
+Mama's Guitar,Revolution,The Gardener & The Tree,2014-05-13,"['german indie', 'indie anthem-folk', 'swiss indie', 'swiss indie folk']",316360,42,0.479,0.638,2,-7.964,1,0.0695,0.215,4.14e-06,0.0598,0.126,135.126,4
+Rust and Bone,Love You Mean It,Family and Friends,2014-01-09,"['folk-pop', 'indiecoustica', 'stomp and holler']",315000,28,0.374,0.568,10,-6.008,0,0.0327,0.0172,1.22e-06,0.173,0.162,115.983,4
+Closer to You,Steady Ground EP,Christian Carcamo,2014-06-24,[],206533,27,0.478,0.797,1,-8.617,1,0.0729,0.707,0.206,0.0825,0.14,118.999,4
+Without Your Love,Without Your Love,&around,2018-03-23,[],240405,32,0.709,0.748,1,-6.466,1,0.0275,0.146,0.184,0.138,0.537,119.994,4
+If I Go,If I Go,Jake McMullen,2015-02-06,['nashville indie'],237202,30,0.59,0.179,4,-13.391,1,0.0346,0.858,0.0393,0.0979,0.146,58.07,4
+Speak,Sirens,Ben Abraham,2016-04-03,"['indie anthem-folk', 'indiecoustica']",254373,30,0.436,0.255,9,-13.946,0,0.0356,0.689,0.0625,0.0845,0.345,98.904,4
+Save Me,Save Me,flora cash,2015-06-22,"['indie pop', 'scandipop', 'swedish indie folk']",257058,35,0.543,0.511,9,-8.858,1,0.028,0.367,9.53e-05,0.155,0.375,170.053,4
+Save Me,Save Me,flora cash,2015-06-22,"['indie pop', 'scandipop', 'swedish indie folk']",257058,35,0.543,0.511,9,-8.858,1,0.028,0.367,9.53e-05,0.155,0.375,170.053,4
+Save Me,Save Me,flora cash,2015-06-22,"['indie pop', 'scandipop', 'swedish indie folk']",257058,35,0.543,0.511,9,-8.858,1,0.028,0.367,9.53e-05,0.155,0.375,170.053,4
+Devil Like Me,Seven + Mary,Rainbow Kitten Surprise,2013-11-19,"['indie folk', 'indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'stomp and holler']",188280,67,0.679,0.63,2,-6.83,1,0.158,0.758,7.06e-05,0.111,0.558,123.082,4
+House On Fire,House On Fire,Black Taxi,2013-06-04,[],233378,37,0.48,0.803,10,-3.162,1,0.0361,0.000445,2.24e-06,0.194,0.276,96.063,4
+Worth Everything Ever Wished for,Pacific•atlantic,The End Of The Ocean,2011-03-01,"['american post-rock', 'atmospheric post-rock', 'cinematic post-rock', 'instrumental post-rock', 'post-rock']",354320,46,0.467,0.659,11,-8.717,1,0.0261,0.495,0.955,0.102,0.11,104.976,4
+Hold On To Me,Plastic Soul,Mondo Cozmo,2017-08-04,"['alternative americana', 'modern alternative rock']",216813,33,0.338,0.708,2,-3.845,1,0.039,0.00183,0.00152,0.172,0.14,122.851,4
+Wolves Without Teeth,Beneath The Skin,Of Monsters and Men,2015-06-05,"['folk-pop', 'indie pop', 'metropopolis', 'modern rock', 'pop rock', 'stomp and holler']",232973,55,0.362,0.72,11,-6.169,0,0.0334,0.00108,0.000417,0.332,0.436,135.637,5
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+She Was Weird,ArrangingTime,Pete Yorn,2016-03-11,"['neo mellow', 'new jersey indie', 'pop rock']",257333,25,0.489,0.864,1,-4.892,0,0.0462,0.00294,0.323,0.202,0.43,98.015,4
+Don’t Cry,2NE1 2nd Mini Album,2NE1,2011,"['dance pop', 'k-pop', 'k-pop girl group']",192786,42,0.595,0.838,2,-2.917,1,0.0344,0.0178,4.9e-05,0.341,0.445,130.018,4
+Apparition,…And The Battle Begun,Rx Bandits,2006-08-08,"['dreamo', 'modern ska punk', 'ska', 'ska punk']",219133,45,0.586,0.818,0,-6.207,0,0.0404,0.211,0.0,0.0967,0.736,137.771,4
+Apparition,…And The Battle Begun,Rx Bandits,2006-08-08,"['dreamo', 'modern ska punk', 'ska', 'ska punk']",219133,45,0.586,0.818,0,-6.207,0,0.0404,0.211,0.0,0.0967,0.736,137.771,4
+Una Somma Di Piccole Cose,Una Somma Di Piccole Cose,Niccolò Fabi,2016-04-22,"['classic italian pop', 'italian alternative', 'italian arena pop', 'italian indie pop', 'italian pop']",285120,40,0.711,0.556,1,-8.312,0,0.0324,0.862,0.00052,0.103,0.274,100.038,4
+To Wish Impossible Things,Wish,The Cure,1992-04-21,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'rock']",281426,42,0.443,0.297,9,-19.624,1,0.0284,0.608,0.437,0.0918,0.506,157.974,4
+Funeral Beds,Telephone,The Districts,2013,['lancaster pa indie'],321663,43,0.337,0.542,5,-9.443,1,0.0312,0.0238,0.0405,0.268,0.117,112.153,4
+Lovesong,Devinyl Splits Vol. I: Kevin Devine & Friends,Kevin Devine,2016-04-29,"['brooklyn indie', 'dreamo']",220551,20,0.698,0.475,9,-10.379,0,0.0266,0.236,0.0599,0.0981,0.431,121.995,4
+Lovesong,Devinyl Splits Vol. I: Kevin Devine & Friends,Kevin Devine,2016-04-29,"['brooklyn indie', 'dreamo']",220551,20,0.698,0.475,9,-10.379,0,0.0266,0.236,0.0599,0.0981,0.431,121.995,4
+Hey I Don't Know,Lunatic,KONGOS,2014-01-27,"['modern alternative rock', 'modern blues rock', 'modern rock', 'south african rock']",240960,44,0.662,0.832,9,-0.739,1,0.0489,0.0787,0.000558,0.241,0.471,102.003,4
+Goodbye Horses,You'll Understand When You're Older [Deluxe],Venus Infers,2010-06-16,[],301813,44,0.562,0.735,0,-4.28,1,0.0289,0.118,0.0307,0.357,0.19,123.03,4
+1977,Voyager 1,Adam Young,2016-10-01,['indiecoustica'],286706,36,0.489,0.561,8,-7.996,0,0.0339,0.00327,0.896,0.111,0.211,95.036,4
+Nightmares,3 (US Version),Violent Femmes,1988-01-01,"['acoustic punk', 'alternative rock', 'dance rock', 'rock']",211133,31,0.69,0.629,2,-8.677,1,0.0345,0.00326,0.00135,0.292,0.789,73.617,4
+Steam Engine,It Still Moves,My Morning Jacket,2003-09-09,"['alternative country', 'alternative rock', 'indie folk', 'indie rock', 'jam band', 'melancholia', 'modern rock', 'new americana', 'rock', 'roots rock', 'stomp and holler']",446226,39,0.338,0.566,2,-9.792,1,0.0278,0.168,0.000726,0.313,0.452,145.716,4
+Steam Engine,It Still Moves,My Morning Jacket,2003-09-09,"['alternative country', 'alternative rock', 'indie folk', 'indie rock', 'jam band', 'melancholia', 'modern rock', 'new americana', 'rock', 'roots rock', 'stomp and holler']",446226,39,0.338,0.566,2,-9.792,1,0.0278,0.168,0.000726,0.313,0.452,145.716,4
+Maybe - Mark Taylor Version,Escape,Enrique Iglesias,2001-01-01,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",189333,30,0.592,0.551,6,-6.012,1,0.0276,0.55,0.0,0.117,0.526,90.987,4
+Maybe - Mark Taylor Version,Escape,Enrique Iglesias,2001-01-01,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",189333,30,0.592,0.551,6,-6.012,1,0.0276,0.55,0.0,0.117,0.526,90.987,4
+Exit Music (For a Film) - Instrumental,MCP Performs Radiohead: OK Computer (Instrumental Version),Molotov Cocktail Piano,2017-05-19,['piano cover'],270275,4,0.306,0.0611,4,-23.595,0,0.0503,0.974,0.944,0.114,0.0378,61.772,4
+Undress the World,Prologue,The Milk Carton Kids,2011-07-19,"['indie folk', 'new americana', 'progressive bluegrass', 'stomp and flutter', 'stomp and holler']",196480,30,0.52,0.303,8,-15.244,1,0.0323,0.932,0.0389,0.131,0.376,122.186,4
+Two Princes,Pocket Full Of Kryptonite,Spin Doctors,1991-08-27,"['alternative rock', 'pop rock', 'rock']",256733,72,0.543,0.912,7,-10.71,1,0.0601,0.00162,2.1e-06,0.0565,0.836,103.731,4
+Just Dropped In (To See What Condition My Condition Was In),The First Edition,The First Edition,1967-01-01,[],201213,57,0.58,0.551,9,-9.898,0,0.0582,0.181,0.00719,0.15,0.516,115.896,4
+California Dreamin' - Single Version,If You Can Believe Your Eyes & Ears,The Mamas & The Papas,1966-03,"['brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'sunshine pop']",162373,78,0.552,0.608,1,-9.786,0,0.0345,0.352,0.0,0.0533,0.637,112.367,4
+Anesthetize - Live,Anesthetize,Porcupine Tree,2010,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",1040146,45,0.582,0.693,0,-10.653,0,0.0315,0.0433,0.209,0.737,0.293,110.006,4
+Riders on the Storm,Atonal Head,Ray Manzarek,2019-07-26,['rock keyboard'],300036,14,0.614,0.839,2,-4.781,1,0.0304,0.351,0.525,0.178,0.653,104.969,4
+Riders on the Storm,Atonal Head,Ray Manzarek,2019-07-26,['rock keyboard'],300036,14,0.614,0.839,2,-4.781,1,0.0304,0.351,0.525,0.178,0.653,104.969,4
+Riders on the Storm,Atonal Head,Ray Manzarek,2019-07-26,['rock keyboard'],300036,14,0.614,0.839,2,-4.781,1,0.0304,0.351,0.525,0.178,0.653,104.969,4
+Riders on the Storm,Atonal Head,Ray Manzarek,2019-07-26,['rock keyboard'],300036,14,0.614,0.839,2,-4.781,1,0.0304,0.351,0.525,0.178,0.653,104.969,4
+Riders on the Storm,Atonal Head,Ray Manzarek,2019-07-26,['rock keyboard'],300036,14,0.614,0.839,2,-4.781,1,0.0304,0.351,0.525,0.178,0.653,104.969,4
+The Mountain,GUNSHIP,Gunship,2015-07-24,['popwave'],264410,47,0.294,0.756,4,-7.916,0,0.0335,0.0367,0.0245,0.176,0.142,110.024,4
+The Mountain,GUNSHIP,Gunship,2015-07-24,['popwave'],264410,47,0.294,0.756,4,-7.916,0,0.0335,0.0367,0.0245,0.176,0.142,110.024,4
+Our Hearts Of Ruin,Noir,Blue Sky Black Death,2011-04-26,"['abstract hip hop', 'downtempo']",332173,32,0.593,0.711,0,-7.34,1,0.0299,0.0852,0.000677,0.123,0.157,120.006,4
+Our Hearts Of Ruin,Noir,Blue Sky Black Death,2011-04-26,"['abstract hip hop', 'downtempo']",332173,32,0.593,0.711,0,-7.34,1,0.0299,0.0852,0.000677,0.123,0.157,120.006,4
+Daylily,Feel Something,Movements,2017-10-20,"['alternative emo', 'anthem emo', 'emo', 'midwest emo', 'pop punk', 'socal pop punk']",208853,60,0.565,0.778,2,-5.475,1,0.028,0.00195,0.00129,0.156,0.421,104.067,4
+What Makes a Man?,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",206373,45,0.428,0.302,5,-9.701,0,0.0282,0.92,0.0354,0.131,0.247,137.367,4
+"Grace, Too",Day For Night,The Tragically Hip,1994-09-09,"['canadian indie', 'canadian rock', 'kingston on indie', 'ontario indie', 'rock']",334933,51,0.469,0.543,9,-9.132,1,0.0296,0.00438,0.449,0.0886,0.182,83.717,4
+The Bells,Acoustic EP,From Indian Lakes,2011-10-25,"['alternative emo', 'dreamo', 'progressive post-hardcore']",284880,43,0.702,0.136,2,-15.652,1,0.0363,0.899,0.176,0.145,0.468,121.026,4
+Crooked Teeth,Plans,Death Cab for Cutie,2005-08-29,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",203733,55,0.579,0.662,9,-6.885,1,0.0245,0.000625,3.89e-06,0.117,0.574,102.951,4
+June,spin,Tigers Jaw,2017-05-19,"['alternative emo', 'anthem emo', 'emo', 'indie punk', 'pop punk']",203546,48,0.5,0.849,1,-4.309,0,0.0332,0.000189,0.000994,0.123,0.407,121.003,4
+Time Will Tell,The Weatherman,Gregory Alan Isakov,2013-07-09,"['indie folk', 'new americana', 'pop folk', 'stomp and flutter', 'stomp and holler']",167533,50,0.37,0.25,5,-11.506,1,0.0295,0.958,0.00112,0.124,0.41,168.0,3
+Sea Change,Sea Change,Thrice,2017-05-05,"['post-hardcore', 'screamo']",285067,44,0.681,0.496,0,-7.916,0,0.031,0.0567,0.337,0.126,0.272,134.953,4
+Transatlanticism,Transatlanticism (10th Anniversary Edition),Death Cab for Cutie,2003,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",475093,61,0.44,0.446,9,-9.928,1,0.031,0.39,0.569,0.179,0.201,127.372,4
+Transatlanticism,Transatlanticism (10th Anniversary Edition),Death Cab for Cutie,2003,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",475093,61,0.44,0.446,9,-9.928,1,0.031,0.39,0.569,0.179,0.201,127.372,4
+Sam Malone,Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",291480,33,0.44,0.409,11,-6.418,0,0.0269,0.707,1.17e-05,0.213,0.191,103.843,4
+No Hard Feelings,No Hard Feelings,Manchester Orchestra,2018-03-30,"['dreamo', 'indie rock', 'modern rock']",308826,34,0.29,0.274,5,-9.828,1,0.0321,0.653,0.000612,0.113,0.206,113.318,4
+Your Heart Is an Empty Room,Plans,Death Cab for Cutie,2005-08-29,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",219360,43,0.566,0.621,0,-8.762,1,0.0263,0.091,9.5e-06,0.0882,0.4,112.149,4
+A Lack of Color,Transatlanticism (10th Anniversary Edition),Death Cab for Cutie,2003,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",215920,54,0.64,0.321,3,-12.581,1,0.0292,0.809,0.00126,0.107,0.356,135.799,4
+Puppy Love,Puppy Love,This Wild Life,2012-12-20,"['anthem emo', 'easycore', 'pixie', 'pop punk']",160497,46,0.631,0.453,11,-7.423,1,0.0272,0.182,0.0,0.125,0.542,134.935,4
+Oviedo,3 Rounds and a Sound,Blind Pilot,2008-07-15,"['indie folk', 'indie pop', 'new americana', 'portland indie', 'stomp and holler']",232773,44,0.682,0.344,5,-13.032,1,0.0372,0.825,0.00113,0.0872,0.474,143.909,4
+Pachuca Sunrise,Menos El Oso,Minus the Bear,2005-08-23,"['dance-punk', 'dreamo', 'emo', 'indie rock', 'modern rock', 'progressive post-hardcore', 'screamo']",215373,52,0.469,0.877,11,-5.729,0,0.0347,0.0277,0.00165,0.366,0.71,154.983,4
+The Alien,A Black Mile To The Surface,Manchester Orchestra,2017-07-28,"['dreamo', 'indie rock', 'modern rock']",328933,47,0.464,0.334,6,-12.916,1,0.0313,0.307,0.247,0.11,0.326,165.278,4
+Silver and Gold,Little Hell,City and Colour,2011-06-07,"['canadian folk', 'canadian indie']",277173,34,0.393,0.198,0,-16.366,1,0.0308,0.705,0.0063,0.0719,0.174,109.065,3
+Fortune - Acoustic,Acoustic Sessions,William Fitzsimmons,2014-08-05,"['acoustic pop', 'indie folk', 'neo mellow']",228013,56,0.502,0.0548,1,-23.684,1,0.0356,0.924,0.0418,0.108,0.506,78.455,4
+Stay with Me,To Be Everywhere Is To Be Nowhere,Thrice,2016-05-27,"['post-hardcore', 'screamo']",240977,41,0.583,0.818,1,-6.949,0,0.038,0.00172,0.000153,0.205,0.388,130.02,4
+Soul Meets Body,Plans,Death Cab for Cutie,2005-08-29,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",229413,60,0.621,0.853,2,-5.735,0,0.0253,0.0767,3.26e-06,0.0893,0.714,128.142,4
+You Can't Look Back,Tidal Wave,Taking Back Sunday,2016-09-16,"['emo', 'pop punk']",267813,43,0.659,0.789,4,-4.563,1,0.0296,0.0298,0.0,0.0965,0.273,108.015,4
+The Silence,A Black Mile To The Surface,Manchester Orchestra,2017-07-28,"['dreamo', 'indie rock', 'modern rock']",419093,56,0.449,0.357,1,-8.48,1,0.0266,0.0605,0.483,0.105,0.178,66.979,4
+The Medic,The Albatross,Foxing,2014-05-27,"['alternative emo', 'anthem emo', 'emo', 'stl indie']",202840,52,0.623,0.692,9,-7.977,1,0.0293,0.0173,0.00883,0.124,0.13,104.977,4
+As Much as I Ever Could,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",324786,48,0.56,0.241,9,-12.621,0,0.0341,0.906,0.000329,0.257,0.148,118.462,3
+Jet,As You Please,Citizen,2017-10-06,"['alternative emo', 'anthem emo', 'emo', 'pop punk']",223784,48,0.625,0.858,11,-4.341,0,0.033,0.00208,8.94e-05,0.136,0.719,134.014,4
+The Gold,A Black Mile To The Surface,Manchester Orchestra,2017-07-28,"['dreamo', 'indie rock', 'modern rock']",273066,56,0.394,0.689,9,-6.648,1,0.0385,0.00119,0.0131,0.176,0.457,180.111,3
+I Don't Need to Know,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",179826,32,0.514,0.535,0,-6.418,1,0.0287,0.744,0.0,0.247,0.707,77.068,1
+I Don't Need to Know,Bring Me Your Love (Special Edition),City and Colour,2007,"['canadian folk', 'canadian indie']",179826,32,0.514,0.535,0,-6.418,1,0.0287,0.744,0.0,0.247,0.707,77.068,1
+Grapevine Fires,Narrow Stairs,Death Cab for Cutie,2008-04-29,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",247360,50,0.619,0.427,10,-10.737,1,0.04,0.699,0.00238,0.0823,0.436,61.75,4
+Sometimes (I Wish),Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",360880,36,0.523,0.467,5,-7.713,0,0.0281,0.311,2.01e-05,0.34,0.135,129.953,4
+Casey's Song,Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",207946,42,0.455,0.456,10,-6.29,0,0.0299,0.365,0.00157,0.111,0.0967,112.573,4
+Day Old Hate,Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",404893,43,0.278,0.485,8,-7.796,0,0.0284,0.564,1.4e-06,0.102,0.145,73.649,4
+...Off By Heart,Sometimes,City and Colour,2005-10-04,"['canadian folk', 'canadian indie']",111746,34,0.412,0.665,9,-5.55,1,0.0283,0.435,0.000429,0.0735,0.604,146.415,4
+Reading In Bed,Knives Don't Have Your Back,Emily Haines & The Soft Skeleton,2006,['indie pop'],168960,27,0.511,0.204,4,-14.518,1,0.0256,0.906,0.36,0.111,0.0999,77.904,3
+Au Revoir,Native,OneRepublic,2014-01-01,"['dance pop', 'piano rock', 'pop', 'pop rock']",290480,43,0.524,0.518,2,-9.427,1,0.0286,0.905,0.298,0.121,0.133,117.059,4
+Butterfly Wings,Ocean Eyes (Deluxe Version),Owl City,2009-01-01,"['modern rock', 'pop', 'pop rock', 'post-teen pop']",174053,37,0.666,0.79,1,-5.448,1,0.0279,0.139,6.51e-06,0.105,0.561,120.016,4
+01,makesnd cassette,SND,2010-02-23,"['glitch', 'microhouse']",284919,9,0.818,0.0842,8,-23.452,1,0.116,0.0408,0.908,0.107,0.299,128.031,4
+01,makesnd cassette,SND,2010-02-23,"['glitch', 'microhouse']",284919,9,0.818,0.0842,8,-23.452,1,0.116,0.0408,0.908,0.107,0.299,128.031,4
+Look Book,Modern Lore,Julian Lage,2018-02-02,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",181776,21,0.475,0.459,9,-11.323,1,0.0301,0.845,0.938,0.104,0.504,138.624,4
+Look Book,Modern Lore,Julian Lage,2018-02-02,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",181776,21,0.475,0.459,9,-11.323,1,0.0301,0.845,0.938,0.104,0.504,138.624,4
+Look Book,Modern Lore,Julian Lage,2018-02-02,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",181776,21,0.475,0.459,9,-11.323,1,0.0301,0.845,0.938,0.104,0.504,138.624,4
+Look Book,Modern Lore,Julian Lage,2018-02-02,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",181776,21,0.475,0.459,9,-11.323,1,0.0301,0.845,0.938,0.104,0.504,138.624,4
+Look Book,Modern Lore,Julian Lage,2018-02-02,"['contemporary jazz', 'jazz fusion', 'jazz guitar']",181776,21,0.475,0.459,9,-11.323,1,0.0301,0.845,0.938,0.104,0.504,138.624,4
+Nocturne,Scandinavian Moods,Michala Petri,1999-01-25,"['classical flute', 'classical performance', 'recorder']",162106,3,0.186,0.0954,0,-18.345,0,0.0431,0.938,0.814,0.133,0.143,68.628,4
+Under Pressure - Remastered 2011 / New Master,The Platinum Collection (Greatest Hits I II & III - 2011 Remaster),Queen,2011,"['classic rock', 'glam rock', 'rock']",246426,28,0.669,0.707,2,-7.88,1,0.0488,0.412,0.0,0.108,0.475,113.729,4
+Under Pressure - Remastered 2011 / New Master,The Platinum Collection (Greatest Hits I II & III - 2011 Remaster),Queen,2011,"['classic rock', 'glam rock', 'rock']",246426,28,0.669,0.707,2,-7.88,1,0.0488,0.412,0.0,0.108,0.475,113.729,4
+Under Pressure - Remastered 2011 / New Master,The Platinum Collection (Greatest Hits I II & III - 2011 Remaster),Queen,2011,"['classic rock', 'glam rock', 'rock']",246426,28,0.669,0.707,2,-7.88,1,0.0488,0.412,0.0,0.108,0.475,113.729,4
+Under Pressure - Remastered 2011 / New Master,The Platinum Collection (Greatest Hits I II & III - 2011 Remaster),Queen,2011,"['classic rock', 'glam rock', 'rock']",246426,28,0.669,0.707,2,-7.88,1,0.0488,0.412,0.0,0.108,0.475,113.729,4
+Under Pressure - Remastered 2011 / New Master,The Platinum Collection (Greatest Hits I II & III - 2011 Remaster),Queen,2011,"['classic rock', 'glam rock', 'rock']",246426,28,0.669,0.707,2,-7.88,1,0.0488,0.412,0.0,0.108,0.475,113.729,4
+Rain,Just Fade Away: Music of Cowboy Bebop and Other Sounds for the Otaku,Rayzd,2004,[],272040,26,0.606,0.554,1,-9.873,1,0.0382,0.00161,0.703,0.932,0.57,143.99,4
+Rain,Just Fade Away: Music of Cowboy Bebop and Other Sounds for the Otaku,Rayzd,2004,[],272040,26,0.606,0.554,1,-9.873,1,0.0382,0.00161,0.703,0.932,0.57,143.99,4
+Desolate. Magnificent.,Young and Courageous,Tides Of Man,2014-02-04,"['dreamo', 'progressive post-hardcore', 'tampa indie']",198580,24,0.0741,0.342,9,-9.159,0,0.0362,0.495,0.825,0.511,0.0392,177.679,3
+Why Georgia - Live at the Shoreline Amphitheater,"As/Is: Mountain View, CA - 7/16/04",John Mayer,2004-08-10,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",314440,26,0.424,0.683,7,-9.779,1,0.0332,0.0133,0.000114,0.897,0.45,98.698,4
+Essence (VIP),MrSuicideSheep Presents - Taking You Higher,Various Artists,2015-10-09,[],281615,17,0.595,0.558,11,-9.217,0,0.0445,0.0421,0.717,0.0917,0.0394,129.978,4
+Leaving Earth,Creation,Seven Lions,2016-03-25,"['dubstep', 'edm', 'electro house', 'pop edm', 'progressive trance']",426115,47,0.155,0.472,6,-9.951,0,0.0347,0.0983,0.838,0.074,0.0355,185.992,3
+In The Twilight,The Cold in You,Phaeleh,2011-08-01,"['bristol electronic', 'chillstep', 'future garage', 'substep']",386180,45,0.568,0.43,2,-9.908,1,0.0286,0.00232,0.725,0.262,0.0526,140.028,4
+Big Ideas,Big Ideas,The Boxer Rebellion,2016-03-03,['indie rock'],266906,38,0.424,0.742,2,-7.119,1,0.0382,0.00307,0.341,0.409,0.38,131.935,4
+Perhaps Love,Your BGM Vol.1,CHEEZE,2017-09-29,"['k-indie', 'k-pop', 'korean pop']",239096,65,0.529,0.555,3,-4.72,1,0.0288,0.332,0.0,0.129,0.28,83.982,4
+Perhaps Love,Your BGM Vol.1,CHEEZE,2017-09-29,"['k-indie', 'k-pop', 'korean pop']",239096,65,0.529,0.555,3,-4.72,1,0.0288,0.332,0.0,0.129,0.28,83.982,4
+Frag Out,Star Crossed,Color Blind Pilots,2017-10-01,[],324358,2,0.422,0.749,0,-8.672,1,0.0325,0.0104,0.422,0.523,0.152,147.931,4
+Road Games (Jack Bruce) - Remastered,Eidolon,Allan Holdsworth,2017-04-07,"['jazz funk', 'jazz fusion', 'jazz guitar', 'neo classical metal']",254010,31,0.448,0.694,5,-7.774,1,0.0434,0.288,0.0112,0.192,0.444,89.775,4
+Run or Hide,Drinking from a Salt Pond,Run River North,2016-02-26,"['indiecoustica', 'modern rock', 'stomp and holler']",216360,43,0.527,0.931,11,-3.426,0,0.0452,0.0126,0.0,0.0556,0.423,114.994,4
+Sanzen,El Cielo,Dredg,2002-01-01,['alternative metal'],274333,29,0.297,0.641,3,-8.168,1,0.0442,0.00225,0.000198,0.565,0.19,143.608,3
+Kaleidoscope,Record,Amplifier,2017-12-15,"['neo-progressive', 'progressive alternative']",350512,34,0.294,0.859,4,-4.635,0,0.0448,0.00519,0.0639,0.102,0.368,96.466,4
+Prague,Koso EP,Blaenavon,2013-09-23,"['english indie rock', 'modern alternative rock', 'modern rock']",321306,37,0.511,0.745,0,-7.101,1,0.0728,0.0166,0.00269,0.102,0.268,142.988,4
+Black Book Of Fear,Above (Deluxe Edition),Mad Season,1995,"['alternative metal', 'alternative rock', 'blues rock', 'grunge', 'rock', 'supergroup']",365066,30,0.559,0.53,7,-8.464,1,0.0339,0.134,0.0396,0.0998,0.386,123.507,4
+Like a Bell to a Southerly Wind,The Unfolding,Chequerboard,2013-09-27,[],264881,19,0.412,0.544,7,-13.988,1,0.0362,0.883,0.917,0.313,0.801,178.386,3
+Foreground,Veckatimest,Grizzly Bear,2009-05-24,"['alternative dance', 'art pop', 'baroque pop', 'brooklyn indie', 'chillwave', 'freak folk', 'indie pop', 'indie rock', 'modern rock', 'new rave', 'new weird america', 'nu gaze', 'shimmer pop', 'stomp and holler']",215373,44,0.469,0.224,11,-13.732,0,0.0331,0.938,0.112,0.137,0.0848,78.411,4
+Behind the Sea - Alternate Version,Live in Chicago,Panic! At The Disco,2008-03-24,"['baroque pop', 'emo', 'modern rock', 'pop punk']",143426,37,0.598,0.273,4,-8.015,1,0.0341,0.867,0.0,0.137,0.347,160.118,4
+Life To Come,Wonderful Wonderful,The Killers,2017-09-22,"['modern rock', 'permanent wave', 'rock']",271933,50,0.473,0.854,0,-3.74,1,0.0583,0.0255,0.0185,0.0748,0.318,107.978,4
+By Some Miracle,Familial,Philip Selway,2010-08-31,['oxford indie'],157093,19,0.421,0.279,0,-13.986,0,0.0383,0.78,0.578,0.26,0.354,176.366,4
+ストラテジー,僕がCDを出したら,KANA-BOON,2013-04-24,"['j-pop', 'j-rock']",244920,39,0.251,0.925,0,-3.366,0,0.105,0.0032,0.0381,0.0621,0.331,162.623,4
+Spaceflight,"Synthwave, Vol. 5 (Retro Dreams)",Various Artists,2018-03-02,[],184248,47,0.64,0.627,9,-7.834,0,0.0326,0.0179,0.933,0.193,0.545,171.996,4
+Satan Is My Motor,Prolonging the Magic,Cake,1998-02-05,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",192066,44,0.684,0.705,9,-8.355,1,0.0394,0.149,2.16e-05,0.108,0.969,102.394,4
+X,X,Majik,2018-07-11,['vapor soul'],236181,35,0.51,0.549,6,-10.462,1,0.0783,0.639,0.0215,0.154,0.326,142.464,4
+Men of Wood,Stars Die (Remaster),Porcupine Tree,2002-03-25,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",214706,18,0.365,0.756,7,-11.735,1,0.0392,0.000427,0.662,0.321,0.555,189.766,4
+Can I Sit Next to You,Hot Thoughts,Spoon,2017-03-17,"['alternative dance', 'alternative rock', 'austindie', 'dance-punk', 'indie pop', 'indie rock', 'modern rock', 'rock']",234213,43,0.761,0.801,11,-3.492,0,0.0771,0.283,0.00164,0.029,0.882,102.999,4
+Hot Thoughts,Hot Thoughts,Spoon,2017-03-17,"['alternative dance', 'alternative rock', 'austindie', 'dance-punk', 'indie pop', 'indie rock', 'modern rock', 'rock']",228653,52,0.679,0.902,8,-3.627,1,0.0303,0.0484,0.155,0.645,0.493,108.995,4
+Long Time,Showroom Of Compassion,Cake,2011,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",275853,44,0.686,0.581,9,-10.199,0,0.0422,0.0141,0.196,0.092,0.555,119.988,4
+Jolene,Motorcade of Generosity,Cake,1994,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",319200,45,0.498,0.576,8,-9.853,0,0.0411,0.305,1.73e-05,0.544,0.847,94.232,4
+Bound Away,Showroom Of Compassion,Cake,2011,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",204640,35,0.333,0.389,7,-10.482,1,0.0374,0.00763,0.0367,0.108,0.407,160.009,3
+Short Skirt / Long Jacket,Comfort Eagle,Cake,2001-07-23,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",204133,66,0.778,0.899,2,-6.552,1,0.0451,0.0028,0.0345,0.0263,0.881,119.995,4
+Quiet Eyes,Quiet Eyes,Axel Flóvent,2017-04-21,"['icelandic folk', 'icelandic indie', 'indie anthem-folk', 'indie folk']",199148,49,0.322,0.281,1,-12.032,1,0.0286,0.34,0.0022,0.115,0.0865,92.711,3
+Shepherd of My Soul,All Things New,Rivers & Robots,2014-07-08,"['ambient worship', 'anthem worship', 'christian pop', 'roots worship']",346750,51,0.44,0.644,6,-7.809,1,0.0377,0.306,0.000233,0.0968,0.305,89.82,4
+The Garden,Labour of Love,Woodlock,2014-05-16,"['australian indie folk', 'indie anthem-folk', 'indie folk']",210501,31,0.532,0.712,7,-8.834,1,0.0287,0.779,0.000208,0.0996,0.291,150.019,4
+Make the Road By Walking,Make the Road By Walking,Menahan Street Band,2008-10-14,"['afrobeat', 'brass band', 'funk', 'instrumental funk', 'soul']",183213,52,0.615,0.76,10,-8.393,0,0.0317,0.0186,0.053,0.0825,0.902,90.847,4
+"ODD FUTURE (From ""My Hero Academia"")","ODD FUTURE (From ""My Hero Academia"")",AmaLee,2018-05-22,"['anime latino', 'otacore']",213750,41,0.613,0.822,1,-4.966,0,0.0669,0.0214,1.03e-06,0.273,0.607,127.907,4
+Three Little Birds,Exodus (Deluxe Edition),Bob Marley & The Wailers,1977-01-03,['reggae'],180266,80,0.814,0.482,9,-10.493,1,0.0588,0.0111,1.57e-06,0.0476,0.615,148.404,4
+"Oh, La",The Rhumb Line (10th Anniversary Edition),Ra Ra Riot,2008,"['baroque pop', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern rock', 'piano rock', 'shimmer pop', 'stomp and holler']",281746,23,0.526,0.676,10,-7.733,0,0.0369,0.0438,0.00145,0.344,0.521,136.011,4
+For Once,Beta Love,Ra Ra Riot,2013-01-22,"['baroque pop', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern rock', 'piano rock', 'shimmer pop', 'stomp and holler']",148933,19,0.7,0.939,9,-5.57,0,0.0411,0.077,0.00266,0.382,0.977,137.971,4
+Suckers (Space Fight Remix),Suckers (Space Fight Remix) - Single,Ra Ra Riot,2017-02-10,"['baroque pop', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern rock', 'piano rock', 'shimmer pop', 'stomp and holler']",223643,26,0.592,0.857,6,-6.275,1,0.035,0.0101,1.64e-05,0.103,0.482,114.023,4
+Wilderness,Beta Love,Ra Ra Riot,2013-01-22,"['baroque pop', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern rock', 'piano rock', 'shimmer pop', 'stomp and holler']",189026,15,0.431,0.302,7,-14.85,1,0.04,0.122,0.00046,0.116,0.5,176.847,3
+Boy,The Orchard,Ra Ra Riot,2010,"['baroque pop', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern rock', 'piano rock', 'shimmer pop', 'stomp and holler']",190906,39,0.579,0.861,2,-5.542,1,0.0467,0.0364,0.00796,0.403,0.78,161.959,4
+Under the Waves,Hollow Home Rd,Brolly,2012-07-22,['sacramento indie'],306960,7,0.456,0.468,9,-6.103,1,0.0272,0.252,0.0071,0.219,0.103,109.504,3
+Coma,Hollow Home Rd,Brolly,2012-07-22,['sacramento indie'],288724,7,0.505,0.69,8,-6.061,0,0.0314,0.0113,0.0,0.0756,0.196,117.017,4
+First,Hold My Home,Cold War Kids,2014-10-31,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'piano rock', 'pop rock', 'rock', 'stomp and holler']",200360,68,0.468,0.692,2,-4.015,1,0.0295,0.0202,2.39e-06,0.523,0.561,78.009,4
+Mescaline,Before Nightfall,Robert Francis,2009-10-09,[],246426,28,0.504,0.28,11,-9.557,1,0.0301,0.301,0.000426,0.266,0.255,133.763,4
+Hitch a Ride,Boston,Boston,1976,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",251733,55,0.382,0.814,3,-7.23,1,0.0406,0.0011,0.00401,0.101,0.569,116.454,4
+Hitch a Ride,Boston,Boston,1976,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",251733,55,0.382,0.814,3,-7.23,1,0.0406,0.0011,0.00401,0.101,0.569,116.454,4
+Hitch a Ride,Boston,Boston,1976,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",251733,55,0.382,0.814,3,-7.23,1,0.0406,0.0011,0.00401,0.101,0.569,116.454,4
+4th Time Around,Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International,Various Artists,2012-01-24,[],262560,10,0.284,0.342,7,-11.845,1,0.0321,0.642,0.0115,0.142,0.181,155.139,3
+Another Kind of Red,Skin EP,Tula,2018-11-23,[],189858,18,0.709,0.425,9,-6.646,1,0.0453,0.296,1.02e-05,0.0844,0.261,123.857,4
+Across The Universe - Remastered 2009,Let It Be (Remastered),The Beatles,1970-05-08,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",228133,67,0.257,0.412,1,-11.788,1,0.0287,0.361,8.68e-05,0.0702,0.858,152.126,4
+Phantom,Phantom,Ørka,2015-05-27,['vapor soul'],342334,36,0.582,0.283,5,-13.486,0,0.0283,0.669,0.0448,0.152,0.292,114.948,3
+"Re:Re: (From ""Erased"")","Total Coverage, Vol. 1",AmaLee,2016-09-13,"['anime latino', 'otacore']",257793,40,0.611,0.753,1,-8.352,0,0.041,0.00279,0.0539,0.419,0.546,145.05,4
+Wherever There Is Light,Schoolyard Ghosts (Remaster),No-Man,2009,"['art rock', 'neo-progressive', 'progressive rock', 'symphonic rock']",261356,15,0.443,0.156,4,-12.275,1,0.0342,0.844,0.798,0.105,0.0384,124.016,4
+Born To Be Wild - Single Version,Steppenwolf,Steppenwolf,1968-01-01,"['acid rock', 'album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock']",212893,69,0.439,0.734,2,-12.168,1,0.097,0.262,0.333,0.244,0.54,145.703,4
+The Hill,Music From The Motion Picture Once,Glen Hansard,2007-05-22,"['irish rock', 'irish singer-songwriter', 'melancholia', 'neo mellow']",275973,40,0.481,0.0843,8,-17.567,0,0.0337,0.992,0.179,0.116,0.32,71.924,3
+"Fifteen Fathoms, Counting",Count Your Blessings,Bring Me The Horizon,2006-10-30,"['melodic metalcore', 'metalcore', 'uk metalcore']",116840,36,0.488,0.367,11,-12.578,1,0.0308,0.551,0.646,0.126,0.189,114.996,4
+Follow The Sun,Spirit Bird,Xavier Rudd,2012-01-01,"['australian indie folk', 'australian reggae fusion', 'neo mellow']",256266,72,0.611,0.394,0,-10.757,1,0.0416,0.534,4.68e-05,0.108,0.202,123.941,4
+Broken Hearted Hoover Fixer Sucker Guy,Music From The Motion Picture Once,Glen Hansard,2007-05-22,"['irish rock', 'irish singer-songwriter', 'melancholia', 'neo mellow']",53093,36,0.427,0.275,7,-13.921,1,0.0636,0.925,0.0,0.228,0.861,182.484,4
+Up in Lights,Hollow Home Rd,Brolly,2012-07-22,['sacramento indie'],219800,6,0.402,0.606,6,-5.135,0,0.0289,0.00234,5.87e-06,0.484,0.351,81.012,4
+Legend Of A Mind,In Search Of The Lost Chord,The Moody Blues,1968-07-26,"['album rock', 'art rock', 'british invasion', 'classic rock', 'country rock', 'folk', 'folk rock', 'hard rock', 'mellow gold', 'progressive rock', 'psychedelic rock', 'rock', 'soft rock', 'symphonic rock']",396613,44,0.33,0.461,2,-12.407,1,0.0314,0.154,0.184,0.151,0.322,127.058,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Stuck in the Middle with You - Re-Recorded / Remastered,Raised on Classic Rock,Various Artists,2010-02-01,[],209033,27,0.738,0.624,7,-9.627,1,0.032,0.00593,0.113,0.119,0.961,123.056,4
+Space Oddity,Space Oddity,The Flaming Lips,2016-04-15,"['alternative rock', 'art rock', 'indie pop', 'indie rock', 'modern rock', 'noise pop', 'okc indie', 'rock']",312985,31,0.219,0.706,0,-4.477,1,0.0459,0.00531,0.0968,0.0922,0.0744,139.492,4
+Suspended In Me,Last Day Of June (Original Game Soundtrack),Steven Wilson,2017-12-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",69422,17,0.337,0.234,7,-29.274,1,0.0482,0.936,0.937,0.17,0.197,75.867,3
+Suspended In Me,Last Day Of June (Original Game Soundtrack),Steven Wilson,2017-12-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",69422,17,0.337,0.234,7,-29.274,1,0.0482,0.936,0.937,0.17,0.197,75.867,3
+My Type,My Type - Single,Popcaan,2018-03-09,"['dancehall', 'reggae fusion']",185065,59,0.623,0.482,1,-7.26,1,0.33,0.307,0.0,0.138,0.514,123.064,5
+My Type (feat. Emily Warren),Memories...Do Not Open,The Chainsmokers,2017-04-07,"['dance pop', 'edm', 'electropop', 'pop', 'tropical house']",217413,60,0.604,0.603,7,-6.324,0,0.0389,0.0357,0.0,0.126,0.15,94.989,4
+MY TYPE,WELCOME BACK,iKON,2015-12-24,"['k-pop', 'k-pop boy group']",210938,53,0.793,0.541,1,-5.63,1,0.0396,0.191,0.0,0.0931,0.709,93.983,4
+MY TYPE,WELCOME BACK,iKON,2015-12-24,"['k-pop', 'k-pop boy group']",210938,53,0.793,0.541,1,-5.63,1,0.0396,0.191,0.0,0.0931,0.709,93.983,4
+Demorou Pra Ser,Muito Mais Que o Amor,Vanguart,2013-08-27,"['brazilian indie', 'brazilian indie rock', 'brazilian rock', 'folk brasileiro', 'nova mpb']",216240,50,0.47,0.492,4,-9.662,1,0.0305,0.0941,4.94e-05,0.0826,0.549,116.744,4
+Daijoubu!,Doki Doki Literature Club! (Original Soundtrack),Dan Salvato,2017-09-22,['otacore'],185501,35,0.635,0.46,5,-14.602,1,0.0339,0.00408,0.189,0.069,0.96,186.009,4
+Watch You Burn,Songs for the Late Night Drive Home,Anchor & Braille,2016-02-05,"['christian rock', 'dreamo', 'piano rock']",233026,28,0.554,0.69,7,-7.362,1,0.0293,0.0955,0.000196,0.13,0.753,160.04,4
+The End Where We Start,Fever Daydream,The Black Queen,2016-01-29,['la indie'],242930,30,0.517,0.749,9,-6.622,1,0.0556,0.0465,0.000648,0.0837,0.152,119.93,4
+Man Like You,Geography,Tom Misch,2018-04-06,['indie soul'],281213,51,0.302,0.225,4,-14.08,1,0.0313,0.761,0.0151,0.11,0.0449,97.418,4
+Kites,Foreword,Disperse,2017-02-24,['djent'],278716,21,0.602,0.551,1,-7.766,1,0.0492,0.0403,0.499,0.108,0.582,104.893,4
+Solstice,The Bones of a Dying World,If These Trees Could Talk,2016-06-03,"['american post-rock', 'instrumental post-rock', 'post-metal', 'post-rock']",469826,44,0.516,0.843,1,-5.557,1,0.0312,0.00184,0.852,0.118,0.0458,125.028,3
+Born Losers,Old Fighters,Matthew Good,2013-12-03,['canadian indie'],317413,29,0.393,0.917,8,-4.347,0,0.0581,0.619,5.39e-05,0.118,0.312,90.519,4
+Young Blood,Sunzal EP,Coasta,2012-05-11,[],217325,33,0.571,0.77,10,-7.587,0,0.0348,0.000254,0.142,0.109,0.501,129.025,4
+Moon Barks At The Dog,Moon Barks At The Dog,Saintseneca,2017-11-14,"['columbus ohio indie', 'small room', 'stomp and holler']",196393,26,0.452,0.29,11,-8.155,0,0.0301,0.83,1.57e-06,0.106,0.278,90.286,4
+Moon Barks At The Dog,Moon Barks At The Dog,Saintseneca,2017-11-14,"['columbus ohio indie', 'small room', 'stomp and holler']",196393,26,0.452,0.29,11,-8.155,0,0.0301,0.83,1.57e-06,0.106,0.278,90.286,4
+Fallin' Apart,When The World Comes Down,The All-American Rejects,2008-01-01,"['modern rock', 'neo mellow', 'pop', 'pop punk', 'pop rock']",206986,38,0.672,0.713,0,-4.67,1,0.0283,0.000588,8.59e-05,0.0458,0.728,128.035,4
+Lurgee,Pablo Honey,Radiohead,1993-02-22,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",187866,43,0.42,0.548,0,-12.298,1,0.0268,0.000135,0.399,0.111,0.408,101.9,4
+Ciudad,St. Sleep,St. Sleep,2014-10-27,"['indie poptimism', 'vapor pop']",372440,21,0.393,0.577,9,-8.646,1,0.032,0.0677,0.627,0.134,0.155,92.066,4
+Pollen And Salt,On The Strength Of All Convinced,Daphne Loves Derby,2005-08-29,"['dreamo', 'washington indie']",268520,27,0.234,0.314,6,-11.59,1,0.0316,0.449,5.44e-05,0.159,0.25,61.916,3
+Running Away,Corazones,Omar Rodríguez-López,2016-07-29,['el paso indie'],175266,20,0.445,0.841,10,-6.122,1,0.032,8.39e-05,0.198,0.215,0.564,140.082,4
+the tryst after death,the olllam,the olllam,2012-09-25,['irish neo-traditional'],375200,34,0.39,0.42,4,-10.649,0,0.0376,0.489,0.811,0.1,0.471,173.903,3
+The Sound,WHITE NOISE,Noah Gundersen,2017-09-22,"['acoustic pop', 'alternative roots rock', 'indie folk', 'stomp and holler']",258279,36,0.626,0.616,6,-8.127,1,0.0324,0.00092,0.0279,0.0899,0.324,126.999,4
+"Nocturne, ""Evening Song""",Urban: Piano Album,Jan Urban,2010-04-27,[],163066,13,0.453,0.00975,8,-29.537,1,0.0558,0.995,0.88,0.107,0.165,135.324,3
+"Nocturne, ""Evening Song""",Urban: Piano Album,Jan Urban,2010-04-27,[],163066,13,0.453,0.00975,8,-29.537,1,0.0558,0.995,0.88,0.107,0.165,135.324,3
+Goldfield,Neon Theatre,Their Dogs Were Astronauts,2017-08-18,"['djent', 'instrumental progressive metal', 'thall']",251259,27,0.551,0.959,8,-4.779,1,0.0946,0.01,0.761,0.0932,0.202,149.998,4
+Pulsar,Pulsar,Counter-World Experience,2016-03-18,"['instrumental rock', 'jazz metal', 'progressive jazz fusion']",231813,23,0.394,0.965,2,-4.381,1,0.0914,0.000275,0.516,0.379,0.424,156.045,4
+Things Happen,All Your Favorite Bands,Dawes,2015-06-01,"['alternative country', 'deep new americana', 'indie folk', 'indie rock', 'modern folk rock', 'new americana', 'roots rock', 'stomp and holler']",243319,58,0.522,0.531,7,-7.78,1,0.0293,0.387,0.0,0.202,0.761,79.252,4
+Drops in the River,First Collection 2006-2009,Fleet Foxes,2018-11-09,"['chamber pop', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'seattle indie', 'stomp and holler']",253080,38,0.527,0.312,2,-10.711,1,0.0253,0.0709,3.07e-05,0.185,0.0815,106.004,4
+Find A Way,Life Left To Go,SafetySuit,2008-01-01,"['acoustic pop', 'neo mellow', 'pop rock']",257440,42,0.448,0.76,7,-4.244,1,0.0322,0.0145,0.0255,0.299,0.361,148.014,4
+Find A Way,Life Left To Go,SafetySuit,2008-01-01,"['acoustic pop', 'neo mellow', 'pop rock']",257440,42,0.448,0.76,7,-4.244,1,0.0322,0.0145,0.0255,0.299,0.361,148.014,4
+The Great Rain Beatle,Living as Ghosts With Buildings as Teeth,Rishloo,2014-12-08,"['alternative metal', 'progressive alternative', 'progressive metal']",335426,39,0.253,0.765,1,-6.41,0,0.0518,0.185,0.0869,0.159,0.231,132.334,3
+Smile,Evil Friends,Portugal. The Man,2013-05-31,"['indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",291680,44,0.316,0.652,7,-7.001,1,0.049,0.27,0.00629,0.0589,0.3,116.703,4
+Transience (Single Version),Transience,Steven Wilson,2016-09-16,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",190982,25,0.308,0.211,7,-21.868,1,0.0338,0.772,0.551,0.12,0.149,111.904,4
+Palace,Familiars,The Antlers,2014-06-17,"['art pop', 'brooklyn indie', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'stomp and holler']",336255,29,0.143,0.38,9,-10.386,1,0.0308,0.81,0.23,0.0799,0.0548,88.974,4
+Palace,Familiars,The Antlers,2014-06-17,"['art pop', 'brooklyn indie', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'stomp and holler']",336255,29,0.143,0.38,9,-10.386,1,0.0308,0.81,0.23,0.0799,0.0548,88.974,4
+Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,Green Day,2017-11-17,"['permanent wave', 'pop punk', 'punk']",262333,76,0.496,0.682,8,-4.095,1,0.0294,0.00552,2.94e-05,0.0589,0.474,167.06,4
+Sun's Eyes,Solar,Rubik,2011-03-18,['finnish indie'],225986,25,0.571,0.725,0,-6.434,0,0.0414,0.261,0.000254,0.299,0.716,97.05,3
+Sun's Eyes,Solar,Rubik,2011-03-18,['finnish indie'],225986,25,0.571,0.725,0,-6.434,0,0.0414,0.261,0.000254,0.299,0.716,97.05,3
+Sun's Eyes,Solar,Rubik,2011-03-18,['finnish indie'],225986,25,0.571,0.725,0,-6.434,0,0.0414,0.261,0.000254,0.299,0.716,97.05,3
+Sun's Eyes,Solar,Rubik,2011-03-18,['finnish indie'],225986,25,0.571,0.725,0,-6.434,0,0.0414,0.261,0.000254,0.299,0.716,97.05,3
+1979 - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'permanent wave', 'pop rock', 'rock']",266200,76,0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879,4
+Hard To Handle,Shake Your Money Maker,The Black Crowes,1990-02-13,"['album rock', 'alternative rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'jam band', 'pop rock', 'rock', 'roots rock', 'southern rock']",188066,69,0.599,0.79,4,-3.58,1,0.043,0.00257,0.00181,0.312,0.961,103.783,4
+Plant Life,All Things Bright And Beautiful,Owl City,2011-01-01,"['modern rock', 'pop', 'pop rock', 'post-teen pop']",250813,38,0.396,0.725,10,-6.61,1,0.0334,0.233,1.09e-06,0.0767,0.505,159.931,3
+"Shinzou wo Sasageyo (From ""Attack on Titan"")","Total Coverage, Vol. 3",AmaLee,2017-06-26,"['anime latino', 'otacore']",88500,43,0.376,0.942,11,-3.029,0,0.0797,0.00302,9.83e-05,0.589,0.477,160.1,4
+Our Demons (feat. Aja Volkman),Love Death Immortality,The Glitch Mob,2014-02-11,"['edm', 'electro house', 'glitch', 'glitch hop']",316312,49,0.521,0.875,5,-5.79,0,0.0452,0.000775,0.0277,0.142,0.299,144.04,4
+Flatlands,The Aristocrats,The Aristocrats,2011-09-13,"['instrumental rock', 'jazz fusion', 'neo classical metal', 'progressive jazz fusion', 'traditional funk']",433066,37,0.681,0.541,9,-7.713,0,0.037,0.156,0.871,0.116,0.125,126.687,4
+My Band,D-12 World,D12,2004-01-01,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'rap rock', 'southern hip hop']",298773,69,0.851,0.849,1,-3.383,0,0.0828,0.497,2.05e-06,0.116,0.844,120.014,4
+Girlfriend,The Best Damn Thing (Expanded Edition),Avril Lavigne,2007-04-17,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",216131,75,0.56,0.959,7,-2.433,1,0.102,0.000738,0.000206,0.209,0.67,163.983,4
+Fireworks,All Things To All People,Carpark North,2005-04-22,"['danish pop', 'danish pop rock']",267520,21,0.509,0.444,1,-9.82,1,0.0246,0.000902,0.0223,0.113,0.0368,97.996,3
+Something Human,Simulation Theory (Super Deluxe),Muse,2018-11-09,"['modern rock', 'permanent wave', 'rock']",226786,58,0.59,0.903,9,-4.841,1,0.0542,0.0536,0.00289,0.12,0.545,105.018,4
+Something Human,Simulation Theory (Super Deluxe),Muse,2018-11-09,"['modern rock', 'permanent wave', 'rock']",226786,58,0.59,0.903,9,-4.841,1,0.0542,0.0536,0.00289,0.12,0.545,105.018,4
+April Come She Will,Sounds Of Silence,Simon & Garfunkel,1966-01-17,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock']",109386,61,0.489,0.186,9,-16.237,1,0.029,0.863,0.000152,0.2,0.349,102.245,4
+There Is a Light That Never Goes Out - 2011 Remaster,The Queen Is Dead,The Smiths,1986-06-16,"['dance rock', 'madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",244586,74,0.523,0.769,4,-5.855,1,0.0269,0.04,0.0,0.136,0.876,136.162,4
+Yellow,Parachutes,Coldplay,2000-07-10,"['permanent wave', 'pop']",266773,82,0.429,0.661,11,-7.227,1,0.0281,0.00239,0.00013,0.234,0.285,173.365,4
+This Ol' Cowboy,Due North EP,Marcus King,2017-10-27,[],357353,42,0.501,0.82,2,-6.69,1,0.0386,0.113,0.00451,0.0977,0.584,113.201,4
+Knockin' On Heaven's Door,Use Your Illusion II,Guns N' Roses,1991-09-17,"['glam metal', 'hard rock', 'rock']",336000,78,0.496,0.739,6,-7.193,1,0.0415,0.0211,0.00444,0.106,0.378,132.41,4
+The Incident - Live,Octane Twisted,Porcupine Tree,2012-11-19,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",319986,30,0.512,0.655,5,-13.821,1,0.0499,0.00719,0.0756,0.527,0.346,162.034,4
+Dream Lantern - English Version,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),RADWIMPS,2017-03-10,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",131666,40,0.207,0.835,8,-5.451,1,0.403,0.0258,9.22e-06,0.0588,0.193,178.044,4
+Dream Lantern - English Version,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),RADWIMPS,2017-03-10,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",131666,40,0.207,0.835,8,-5.451,1,0.403,0.0258,9.22e-06,0.0588,0.193,178.044,4
+Dream Lantern - English Version,Your Name. (Deluxe Edition / Original Motion Picture Soundtrack),RADWIMPS,2017-03-10,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",131666,40,0.207,0.835,8,-5.451,1,0.403,0.0258,9.22e-06,0.0588,0.193,178.044,4
+You Could Be Happy,Eyes Open,Snow Patrol,2006-01-01,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock', 'rock']",182133,52,0.648,0.321,5,-9.693,1,0.0273,0.549,6.33e-06,0.0737,0.253,110.928,4
+Alive,Play Hard EP,Krewella,2012-06-18,"['big room', 'dance pop', 'edm', 'electra', 'electro house']",290760,56,0.663,0.822,9,-2.909,1,0.0557,0.00413,0.00318,0.234,0.567,128.002,4
+Corner,Corner,Night Beds,2015-07-22,['nashville indie'],199466,27,0.522,0.739,1,-5.711,1,0.0389,0.105,4.28e-06,0.108,0.506,91.981,4
+Meteor Shower,Ocean Eyes (Deluxe Version),Owl City,2009-01-01,"['modern rock', 'pop', 'pop rock', 'post-teen pop']",133786,42,0.489,0.537,5,-7.737,1,0.03,0.00399,0.0151,0.0865,0.176,95.009,4
+Breathe,Wishes (Deluxe Version),RHODES,2015-09-18,['indie anthem-folk'],262546,32,0.414,0.351,5,-9.588,1,0.0297,0.462,0.0,0.0734,0.0662,73.862,4
+I Constantly Thank God for Esteban,A Fever You Can't Sweat Out,Panic! At The Disco,2005-09-27,"['baroque pop', 'emo', 'modern rock', 'pop punk']",210253,53,0.629,0.817,7,-5.56,0,0.0696,0.139,0.0,0.135,0.653,167.002,4
+Tokyo,Gold,Vinyl Theatre,2013-11-12,"['hopebeat', 'indie pop', 'indie poptimism', 'indie rockism', 'indietronica', 'modern alternative rock', 'modern rock', 'pop rock']",186493,32,0.535,0.875,9,-3.166,1,0.0717,0.00328,0.0,0.181,0.343,120.045,4
+In Your Pocket,V,Maroon 5,2014-09-02,"['pop', 'pop rock']",219493,52,0.618,0.837,6,-6.142,0,0.0515,0.032,0.0,0.0475,0.434,126.082,4
+Catch a Fire,Sellin' You Salvation,Mojo Juju & The Snake-Oil Merchants,2010-05-07,[],296813,12,0.416,0.394,7,-8.685,1,0.267,0.399,0.0,0.108,0.244,174.871,3
+Nothing Arrived - Live from Spotify London,Spotify Sessions,Villagers,2013-02-18,"['chamber pop', 'indie folk', 'indie rock', 'stomp and holler']",219093,66,0.579,0.415,7,-11.599,1,0.0397,0.929,0.0018,0.671,0.42,102.713,4
+Banana Boat (Day-O),SING YOUR SONG: The Music,Harry Belafonte,2011,"['adult standards', 'brill building pop', 'calypso', 'lounge']",183853,28,0.654,0.114,1,-16.391,1,0.106,0.855,0.0,0.107,0.367,122.331,4
+Chasing After You,Abiogenesis,The Koniac Net,2014-02-28,[],275701,2,0.344,0.906,4,-5.265,1,0.0761,0.000832,0.00236,0.103,0.325,142.979,4
+Old Yellow Bricks,Favourite Worst Nightmare (Standard Version),Arctic Monkeys,2007-04-24,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",187133,56,0.663,0.839,0,-4.453,1,0.0695,0.000185,4.65e-06,0.0808,0.75,135.155,4
+Ambulance Chasing,Recordings,Porcupine Tree,2001-05-01,"['alternative metal', 'art rock', 'progressive metal', 'progressive rock', 'symphonic rock']",388093,22,0.611,0.56,9,-9.822,0,0.0317,0.006,0.639,0.115,0.328,134.984,4
+Unraveling,Unraveling,Elise Trouw,2017-03-24,['san diego indie'],203517,35,0.747,0.552,2,-11.446,1,0.0471,0.0372,0.000602,0.134,0.779,133.998,4
+Show Me Love - Radio Edit,Show Me Love,Steve Angello,2009-06-16,"['big room', 'disco house', 'edm', 'electro house', 'house', 'progressive electro house', 'progressive house', 'tech house']",184846,51,0.654,0.856,5,-4.197,1,0.0586,0.517,0.0,0.128,0.574,129.928,4
+Black Sun,Kintsugi,Death Cab for Cutie,2015-03-27,"['indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']",289160,55,0.608,0.642,2,-7.978,1,0.0251,0.17,0.0667,0.166,0.608,87.703,4

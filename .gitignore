@@ -7,7 +7,9 @@
 
 # Too large
 
-record linkage*.csv
+record*.csv
 features.csv
 Data Matching/Features Not Features Tracks Pairs.csv
 listening_history.sqlite
+Data Matching/Spreadsheets/RecordLinkage Features.csv
+Data Matching/Spreadsheets/RecordLinkage of failed_features and not_features.csv

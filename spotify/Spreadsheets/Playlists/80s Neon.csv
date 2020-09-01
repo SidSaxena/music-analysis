@@ -1,0 +1,16 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,The Paper Kites,twelvefour,Electric Indigo,79xbBvSiL94cKEww2amEI4,0.576,0.698,1,-8.011,1,0.035,0.198,0.117,0.698,95.978,223520,4
+1,The Paper Kites,twelvefour,Bleed Confusion,5cEmrGyQcCjzC994LocIjs,0.56,0.406,2,-11.134,1,0.031,0.612,0.108,0.0644,74.994,261027,4
+2,The Paper Kites,twelvefour,Revelator Eyes,4A8wLC09mcPYI6ZwM6Ia44,0.52,0.717,8,-9.016,1,0.0299,0.054,0.173,0.568,153.025,262267,4
+3,The Paper Kites,On the Train Ride Home,On the Train Ride Home,37adNHvszWoS1kINkE99Ja,0.611,0.195,6,-18.629,1,0.0275,0.101,0.112,0.203,103.007,227200,4
+4,The Paper Kites,On the Corner Where You Live,On the Corner Where You Live,0b5bhzXZNsrvxcA4FP3jcG,0.512,0.854,5,-5.887,1,0.0456,0.43,0.483,0.589,151.058,276480,4
+5,The Paper Kites,On the Corner Where You Live,Deep Burn Blue,0ySZOAaEFX3NxykNIsFsEO,0.556,0.81,9,-5.972,0,0.0336,0.623,0.13,0.158,110.011,279480,4
+6,The Midnight,Endless Summer,Sunset,4PMmwowVLOajPdiKnrU1vK,0.626,0.706,0,-7.333,1,0.0269,0.00255,0.222,0.378,113.994,326521,4
+7,The Midnight,Endless Summer,Jason,3nNNYRBtkNsKjertmtTRMO,0.527,0.768,0,-8.28,1,0.0297,0.00154,0.153,0.649,161.935,331744,4
+8,The Midnight,Endless Summer,The Equaliser (Not Alone),0hy26hhVBNp0X87ENwuhfX,0.543,0.653,2,-7.223,0,0.0314,0.753,0.234,0.315,161.994,229014,4
+9,The Midnight,Kids,Youth,2iEWuzGZX9VJVCANbGw25z,0.248,0.264,2,-17.347,1,0.065,0.069,0.313,0.161,76.742,189648,3
+10,The Midnight,Days of Thunder,Kick Drums & Red Wine,12OlfCFopRJpn0mKuIeIcz,0.477,0.882,0,-8.353,0,0.0296,0.242,0.166,0.239,125.998,381667,4
+11,SYML,Clean Eyes (The Midnight Remix),Clean Eyes - The Midnight Remix,1XjW7XpnJ4VecD8erCL4TN,0.633,0.715,7,-9.102,1,0.0438,0.0578,0.332,0.351,87.006,232738,4
+12,The Midnight,Endless Summer,The Comeback Kid,6vvyavHx8WHdsw6vsuMwyR,0.649,0.675,0,-7.9,1,0.0272,0.185,0.11,0.372,117.997,321916,4
+13,The Midnight,Deep Blue,Deep Blue,022OnRh0RDnalGKy5wZylS,0.587,0.647,11,-6.634,0,0.037,4.04e-06,0.112,0.244,129.998,237680,4
+14,Electric Youth,Memory Emotion,Breathless,6bgUlpf4HVpuTdo5LuBTov,0.618,0.623,2,-7.899,1,0.0267,0.841,0.102,0.333,97.984,271683,4
