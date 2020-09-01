@@ -1,8 +1,13 @@
+# Useless or Private
+
 *.env
 *.vscode
 .cache-sidsaxena
 *.pyc
-listening_history.sqlite
+
+# Too large
 
 record linkage*.csv
 features.csv
+Data Matching/Features Not Features Tracks Pairs.csv
+listening_history.sqlite
