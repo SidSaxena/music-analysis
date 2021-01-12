@@ -1,0 +1,8 @@
+,artist,album,track_name,track_id,popularity,genres,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Motoi Sakuraba,Dark Souls,Great Grey Wolf Sif,2ZotpDx72d5d5Bqupyy5fu,43,"['japanese vgm', 'video game music']",0.158,0.342,2,-10.683,1,0.0327,0.435,0.0999,0.056,164.258,202360,3
+1,Motoi Sakuraba,Dark Souls,Nameless Song,1jIRYhXd9NAtGLrMPc9gLz,45,"['japanese vgm', 'video game music']",0.211,0.175,4,-15.69,0,0.0406,0.375,0.0778,0.0851,71.706,399987,4
+2,Motoi Sakuraba,Dark Souls 2,Milfanito,7Fwchlxoot4REx39QEPWNd,31,"['japanese vgm', 'video game music']",0.257,0.0782,9,-21.515,0,0.0608,0.002,0.114,0.0388,143.71,152733,4
+3,Motoi Sakuraba,Dark Souls 2,Longing,6GEnNSLFRNUsQnIblDkpGL,33,"['japanese vgm', 'video game music']",0.157,0.173,2,-13.742,0,0.0345,0.958,0.127,0.0567,96.283,400600,3
+4,Various Artists,Dark Souls 3,Firelink Shrine,0wmFYeQNFbcxf2fFJUTDtU,46,[],0.152,0.129,5,-22.314,0,0.0373,0.674,0.107,0.0381,106.012,186627,4
+5,Various Artists,Dark Souls 3,Secret Betrayal,6nDXWGVHj2a85djJhat8Xr,42,[],0.163,0.00631,7,-29.253,1,0.0396,0.899,0.081,0.0357,61.23,168707,4
+6,Berlinist,Gris (Original Game Soundtrack),"Gris, Pt. 1",3m7ieZFPvfPARawHCs3Mjj,51,['video game music'],0.166,0.119,5,-14.797,0,0.0425,0.734,0.0984,0.0392,136.412,156000,1
