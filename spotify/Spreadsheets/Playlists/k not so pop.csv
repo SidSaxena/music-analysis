@@ -1,12 +1,14 @@
 artist,album,track_name,track_id,popularity,genres,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
 Fuyumi Abe,沈黙の恋人,希望のうた,24dq1uvUoVVQ6WMwFTqUPl,37,['j-acoustic'],0.384,0.0751,2,-16.534,1,0.0436,1.23e-06,0.132,0.254,162.503,245747,3
-The Black Skirts,Hollywood,Hollywood,4kqN6K6J1nM18zivvFLx8v,50,"['k-indie', 'k-rock', 'korean dream pop', 'korean indie rock', 'korean pop']",0.552,0.782,1,-8.082,0,0.0302,0.904,0.1,0.513,147.953,331000,4
-HYUKOH,24 : How to find true love and happiness,LOVE YA!,7rDdN55Ma9gZlbexHiDSud,52,"['k-indie', 'korean pop', 'korean r&b']",0.375,0.566,11,-6.527,1,0.0448,1.56e-05,0.146,0.33,143.77,251965,4
-The Chairs,LOVELY SUNDAY,Rollin' On,63oSPrP54in4X41vq6cNlL,45,['chinese indie'],0.687,0.556,5,-9.366,1,0.0286,0.0189,0.182,0.517,103.907,234600,4
-ADOY,LOVE,Wonder,0v89jw9S9NPzOPCoZnLZxE,53,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.661,0.738,6,-6.317,1,0.0287,0.551,0.115,0.533,99.992,235747,4
-ADOY,CATNIP,Grace,6hpWk3kV9phxtzxbzzXmIF,49,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.622,0.701,1,-6.273,0,0.0312,2.81e-05,0.0965,0.638,100.007,245280,4
+The Black Skirts,Hollywood,Hollywood,4kqN6K6J1nM18zivvFLx8v,17,"['k-indie', 'k-rock', 'korean dream pop', 'korean indie rock']",0.552,0.782,1,-8.082,0,0.0302,0.9,0.1,0.509,147.956,331000,4
+HYUKOH,24 : How to find true love and happiness,LOVE YA!,7rDdN55Ma9gZlbexHiDSud,23,"['k-indie', 'korean indie folk', 'korean r&b']",0.375,0.566,11,-6.527,1,0.0448,1.56e-05,0.146,0.33,143.77,251965,4
+The Chairs,LOVELY SUNDAY,Rollin' On,63oSPrP54in4X41vq6cNlL,43,['chinese indie'],0.687,0.556,5,-9.366,1,0.0286,0.0189,0.182,0.517,103.907,234600,4
+ADOY,LOVE,Wonder,0v89jw9S9NPzOPCoZnLZxE,2,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.661,0.737,6,-6.317,1,0.0287,0.544,0.115,0.532,99.989,235747,4
+ADOY,CATNIP,Grace,6hpWk3kV9phxtzxbzzXmIF,47,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.622,0.701,1,-6.273,0,0.0312,2.81e-05,0.0965,0.638,100.007,245280,4
 The Chairs,The Chairs on Audiotree Live,Rollin' On - Audiotree Live Version,2oPgiaiXfijOeDAeA7eL4C,13,['chinese indie'],0.686,0.466,5,-10.798,1,0.0257,0.000182,0.171,0.626,103.982,232233,4
 Various Artists,CINEMA SESSIONS 2019,Rollin' On,12HcAJuzuH2Rr9xBNJ98t2,5,[],0.705,0.576,5,-8.043,1,0.0289,8.84e-06,0.35,0.558,104.056,244629,4
-Sunday Moon,City Lights,City Lights,36xcAYhiCUnzBoydVmxkO3,47,['k-indie'],0.602,0.303,6,-7.978,1,0.0451,0.091,0.145,0.327,135.99,241699,4
-SURL,Aren't You?,The Lights Behind You,6O1OrHXMWpJbhmWSJnncw1,44,"['k-indie', 'korean indie rock']",0.494,0.55,9,-3.421,1,0.032,0.00184,0.15,0.382,80.978,312640,4
-ADOY,Young,Young,2dThtMR3f2cE3Fr9lBRK7h,45,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.63,0.511,7,-7.232,1,0.0264,0.0,0.27,0.464,112.013,219360,4
+Sunday Moon,City Lights,City Lights,36xcAYhiCUnzBoydVmxkO3,45,['k-indie'],0.602,0.303,6,-7.978,1,0.0451,0.091,0.145,0.327,135.99,241699,4
+SURL,Aren't You?,The Lights Behind You,6O1OrHXMWpJbhmWSJnncw1,1,"['k-indie', 'korean indie rock']",0.492,0.55,9,-3.421,1,0.032,0.00184,0.15,0.382,80.987,312640,4
+ADOY,Young,Young,2dThtMR3f2cE3Fr9lBRK7h,1,"['k-indie', 'korean city pop', 'korean dream pop', 'korean electropop', 'korean indie rock']",0.63,0.511,7,-7.232,1,0.0264,0.0,0.27,0.464,112.009,219360,4
+Plastic Plastic,Stay At Home,With Me,40Pj8OVErS21yxpnH2HP2k,41,"['thai indie pop', 'thai pop']",0.698,0.513,0,-7.357,1,0.0304,0.0184,0.135,0.409,120.025,236096,4
+Aseul,Sandcastles 모래성,Sandcastles 모래성,5FDDW4rGxYCUQ5opR4lhZU,28,"['k-indie', 'korean dream pop', 'korean electropop']",0.558,0.674,3,-6.055,0,0.0268,0.0423,0.37,0.262,140.052,298997,4
