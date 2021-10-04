@@ -1,32 +1,22 @@
-# To add a new cell, type '# %%'
-# To add a new markdown cell, type '# %% [markdown]'
-# %%
 import requests
 import requests_cache
 from decouple import config
 import json
 import time
 
+from tqdm import tqdm
+tqdm.pandas()
 
-# %%
 from IPython.core.display import clear_output
 
-
-# %%
 requests_cache.install_cache()
 
-
-# %%
 API_KEY = config('API_KEY')
 SHARED_SECRET = config('SHARED_SECRET')
 CALLBACK = config('CALLBACK')
 
-
-# %%
 USER_AGENT = 'SidSaxena'
 
-
-# %%
 def lastfm_get(payload):
     #define headers and URL
     headers = {'user-agent': USER_AGENT}
@@ -39,15 +29,11 @@ def lastfm_get(payload):
     response = requests.get(url=url, headers=headers, params=payload)
     return response
 
-
-# %%
 def jprint(obj):
     # create a formatted string from the json object
     text = json.dumps(obj, sort_keys=True, indent=4)
     print(text)
 
-
-# %%
 def getTopArtists():
         
     # empty list
@@ -92,60 +78,36 @@ def getTopArtists():
 
     return responses
 
-
-# %%
 responses = getTopArtists()
 
-
-# %%
 import pandas as pd
 
-
-# %%
 r0 = responses[0]
 r0_json = responses[0].json()
 r0_artists = r0_json['artists']['artist']
 r0_df = pd.DataFrame(r0_artists)
 r0_df.head() 
 
-
-# %%
 frames = [pd.DataFrame(r.json()['artists']['artist']) for r in responses]
 artists = pd.concat(frames)
 artists.info()
 
-
-# %%
 artists = artists.drop('image', axis=1)
 artists.head()
 
-
-# %%
 artists.info()
 
-
-# %%
 artists.describe()
 
-
-# %%
 artist_counts = [len(r.json()['artists']['artist']) for r in responses]
 
-
-# %%
 pd.Series(artist_counts).value_counts()
 
-
-# %%
 print(artist_counts[:50])
 
-
-# %%
 artists = artists.drop_duplicates().reset_index(drop=True)
 artists.describe()
 
-
-# %%
 def lookup_tags(artist):
     
     response = lastfm_get({
@@ -168,36 +130,14 @@ def lookup_tags(artist):
     return tags_str
 
 
-# %%
-from tqdm import tqdm
-
-
-# %%
-tqdm.pandas()
-
-
-# %%
 artists['tags'] = artists['name'].progress_apply(lookup_tags)
 
-
-# %%
 # converting listeners and playcounts to int type
 
 artists[["playcount", "listeners"]] = artists[["playcount", "listeners"]].astype(int)
 
-
-# %%
 # sorting by number of listeners
 
 artists = artists.sort_values('listeners', ascending= False)
-artists.head()
 
-
-# %%
 artists.to_csv('artists.csv', index=False)
-
-
-# %%
-artists
-
-
