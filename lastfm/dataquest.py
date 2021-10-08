@@ -1,8 +1,12 @@
 import requests
 import requests_cache
-from decouple import config
 import json
 import time
+import os
+
+from dotenv import load_dotenv, dotenv_values
+config = dotenv_values(".env")
+load_dotenv()
 
 from tqdm import tqdm
 tqdm.pandas()
@@ -11,11 +15,11 @@ from IPython.core.display import clear_output
 
 requests_cache.install_cache()
 
-API_KEY = config('API_KEY')
-SHARED_SECRET = config('SHARED_SECRET')
-CALLBACK = config('CALLBACK')
+API_KEY = os.environ.get('LAST_FM_API_KEY')
+SHARED_SECRET = os.environ.get('LAST_FM_SHARED_SECRET')
+CALLBACK = os.environ.get('LAST_FM_CALLBACK')
 
-USER_AGENT = 'SidSaxena'
+USER_AGENT = os.environ.get('LAST_FM_USER_AGENT')
 
 def lastfm_get(payload):
     #define headers and URL
